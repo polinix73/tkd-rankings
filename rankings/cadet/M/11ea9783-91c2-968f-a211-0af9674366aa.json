@@ -15,7 +15,7 @@
     "rank": 3,
     "name": "Kadhem HAFAZ",
     "country": "SUI",
-    "points": 144.55
+    "points": 146.17
   },
   {
     "rank": 4,
@@ -187,33 +187,33 @@
   },
   {
     "rank": 32,
+    "name": "Serghei BOROVIC",
+    "country": "MDA",
+    "points": 15.63
+  },
+  {
+    "rank": 33,
     "name": "NIKOLAS KANTERIS",
     "country": "GRE",
     "points": 14.4
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "DIMITRIOS MASTAKAS",
     "country": "GRE",
     "points": 14.4
   },
   {
-    "rank": 32,
+    "rank": 33,
     "name": "GEORGIOS KAMAKAS",
     "country": "GRE",
     "points": 14.4
   },
   {
-    "rank": 35,
+    "rank": 36,
     "name": "Muhammet Yagiz AYILGAN",
     "country": "TUR",
     "points": 14.27
-  },
-  {
-    "rank": 36,
-    "name": "Serghei BOROVIC",
-    "country": "MDA",
-    "points": 14.13
   },
   {
     "rank": 37,
@@ -535,12 +535,6 @@
   },
   {
     "rank": 84,
-    "name": "Burak ONURKAN",
-    "country": "TUR",
-    "points": 3.02
-  },
-  {
-    "rank": 84,
     "name": "FURKAN MERT KAR",
     "country": "TUR",
     "points": 3.02
@@ -558,9 +552,21 @@
     "points": 3.02
   },
   {
+    "rank": 84,
+    "name": "Burak ONURKAN",
+    "country": "TUR",
+    "points": 3.02
+  },
+  {
     "rank": 94,
     "name": "Riley BURTON",
     "country": "GBR",
+    "points": 2.16
+  },
+  {
+    "rank": 94,
+    "name": "Alexander DABLA",
+    "country": "USA",
     "points": 2.16
   },
   {
@@ -592,11 +598,5 @@
     "name": "GEORGIOS LAZARIOTIS",
     "country": "GRE",
     "points": 2.16
-  },
-  {
-    "rank": 100,
-    "name": "Alexander DABLA",
-    "country": "USA",
-    "points": 1.62
   }
 ]
