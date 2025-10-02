@@ -1,57 +1,57 @@
 [
   {
     "rank": 1,
+    "name": "IPEK OZMEN",
+    "country": "TUR",
+    "points": 240
+  },
+  {
+    "rank": 2,
     "name": "Paula GROENE",
     "country": "GER",
     "points": 215.34
   },
   {
-    "rank": 2,
-    "name": "IPEK OZMEN",
-    "country": "TUR",
-    "points": 160
-  },
-  {
     "rank": 3,
-    "name": "Nyah CANNON",
+    "name": "Gabbriella PETTIGREW",
     "country": "GBR",
-    "points": 143.04
+    "points": 180.24
   },
   {
     "rank": 4,
-    "name": "Gabbriella PETTIGREW",
+    "name": "Nyah CANNON",
     "country": "GBR",
-    "points": 132.24
+    "points": 138.04
   },
   {
     "rank": 5,
+    "name": "Sara FILIPOVIC",
+    "country": "SER",
+    "points": 98.54
+  },
+  {
+    "rank": 6,
     "name": "Azzurra D'ALESSANDRO",
     "country": "ITA",
     "points": 92
   },
   {
-    "rank": 6,
+    "rank": 7,
     "name": "Elena MIHALJCIC",
     "country": "SER",
-    "points": 83.2
-  },
-  {
-    "rank": 7,
-    "name": "LEINA RUCKBUSCH",
-    "country": "FRA",
-    "points": 73.92
+    "points": 80.5
   },
   {
     "rank": 8,
-    "name": "Sara FILIPOVIC",
-    "country": "SER",
-    "points": 69.74
+    "name": "EIRINI ANNA GKIRTZIMANI",
+    "country": "GRE",
+    "points": 76.5
   },
   {
     "rank": 9,
-    "name": "Télia BRUNET",
+    "name": "LEINA RUCKBUSCH",
     "country": "FRA",
-    "points": 68.4
+    "points": 73.92
   },
   {
     "rank": 10,
@@ -73,21 +73,21 @@
   },
   {
     "rank": 13,
-    "name": "Eva NAVARRO CAMIN",
-    "country": "ESP",
-    "points": 53.1
+    "name": "Télia BRUNET",
+    "country": "FRA",
+    "points": 60.9
   },
   {
     "rank": 14,
-    "name": "EIRINI ANNA GKIRTZIMANI",
+    "name": "Chrysa GOUROUFIDOU",
     "country": "GRE",
-    "points": 50.4
+    "points": 60.88
   },
   {
     "rank": 15,
-    "name": "Chrysa GOUROUFIDOU",
-    "country": "GRE",
-    "points": 43.6
+    "name": "Eva NAVARRO CAMIN",
+    "country": "ESP",
+    "points": 48.6
   },
   {
     "rank": 16,
@@ -151,246 +151,258 @@
   },
   {
     "rank": 26,
+    "name": "Emra DURMIC",
+    "country": "BIH",
+    "points": 17.28
+  },
+  {
+    "rank": 27,
     "name": "Julia MASLOWSKA",
     "country": "POL",
     "points": 16.5
   },
   {
-    "rank": 27,
+    "rank": 28,
     "name": "IREM SU GUZEL",
     "country": "TUR",
     "points": 15.12
   },
   {
-    "rank": 28,
+    "rank": 29,
     "name": "Ayaulym UTESHEVA",
     "country": "KAZ",
     "points": 15
   },
   {
-    "rank": 28,
+    "rank": 29,
     "name": "MELINA GLYKERIA KAZANA",
     "country": "GRE",
     "points": 15
   },
   {
-    "rank": 30,
+    "rank": 31,
     "name": "NISANUR ABANOZ",
     "country": "TUR",
     "points": 12.9
   },
   {
-    "rank": 31,
+    "rank": 32,
     "name": "Cvita KALINIĆ",
     "country": "CRO",
     "points": 12.7
   },
   {
-    "rank": 31,
+    "rank": 32,
     "name": "NATALIA GEORGIOU",
     "country": "CYP",
     "points": 12.7
   },
   {
-    "rank": 33,
+    "rank": 34,
     "name": "Carlota MORENO GALINDO",
     "country": "ESP",
     "points": 12.5
   },
   {
-    "rank": 34,
+    "rank": 35,
     "name": "Elvin Ela GENEZ",
     "country": "TUR",
     "points": 11.52
   },
   {
-    "rank": 35,
+    "rank": 36,
     "name": "Masa CARAN",
     "country": "SER",
     "points": 11
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Sophie THILLAINATHAN",
     "country": "GER",
     "points": 10.08
   },
   {
-    "rank": 37,
+    "rank": 38,
+    "name": "Reem YOUSEF",
+    "country": "UAE",
+    "points": 10
+  },
+  {
+    "rank": 38,
     "name": "Tetiana SHEVCHUK",
     "country": "UKR",
     "points": 10
   },
   {
-    "rank": 37,
-    "name": "Daniela TOMBO LÓPEZ",
-    "country": "ESP",
-    "points": 10
-  },
-  {
-    "rank": 37,
+    "rank": 38,
     "name": "Giada URCIUOLI",
     "country": "ITA",
     "points": 10
   },
   {
-    "rank": 40,
+    "rank": 38,
+    "name": "Daniela TOMBO LÓPEZ",
+    "country": "ESP",
+    "points": 10
+  },
+  {
+    "rank": 42,
     "name": "Cataleya KOLB",
     "country": "GER",
     "points": 9.6
   },
   {
-    "rank": 41,
+    "rank": 43,
     "name": "Fidan MUKHTARZADE",
     "country": "AZE",
     "points": 7.92
   },
   {
-    "rank": 42,
-    "name": "Brisa ESPINOZA",
-    "country": "USA",
-    "points": 7.5
-  },
-  {
-    "rank": 43,
+    "rank": 44,
     "name": "Zeynep KARAKURT",
     "country": "TUR",
     "points": 7.34
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Melek Su DONMEZ",
     "country": "TUR",
     "points": 7.2
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "ESILA GOKBEN AYDOGAN",
     "country": "TUR",
     "points": 7.2
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "FEYZA SU SARIKAYA",
     "country": "TUR",
     "points": 6.26
   },
   {
-    "rank": 47,
-    "name": "MARTA GADZO",
-    "country": "CRO",
-    "points": 6.05
-  },
-  {
-    "rank": 47,
-    "name": "Nicoleta MACARI",
-    "country": "MDA",
-    "points": 6.05
-  },
-  {
-    "rank": 47,
+    "rank": 48,
     "name": "ELENI TRYPHONOS",
     "country": "CYP",
     "points": 6.05
   },
   {
-    "rank": 50,
+    "rank": 48,
+    "name": "MARTA GADZO",
+    "country": "CRO",
+    "points": 6.05
+  },
+  {
+    "rank": 48,
+    "name": "Nicoleta MACARI",
+    "country": "MDA",
+    "points": 6.05
+  },
+  {
+    "rank": 51,
     "name": "Rocio MASERES HERNANDEZ",
     "country": "ESP",
     "points": 6
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Lara SALAMON",
     "country": "CRO",
     "points": 6
   },
   {
-    "rank": 52,
+    "rank": 53,
+    "name": "Brisa ESPINOZA",
+    "country": "USA",
+    "points": 5
+  },
+  {
+    "rank": 54,
     "name": "Berensu YURTTAS",
     "country": "AUT",
     "points": 4.5
   },
   {
-    "rank": 53,
-    "name": "ELA RAJČIĆ",
-    "country": "CRO",
-    "points": 4.32
-  },
-  {
-    "rank": 53,
+    "rank": 55,
     "name": "BEYZA YAYLA",
     "country": "TUR",
     "points": 4.32
   },
   {
-    "rank": 53,
+    "rank": 55,
     "name": "Zeynep Zumra ERDOGAN",
     "country": "TUR",
     "points": 4.32
   },
   {
-    "rank": 53,
+    "rank": 55,
     "name": "Asmin KARAKOC",
     "country": "TUR",
     "points": 4.32
   },
   {
-    "rank": 57,
+    "rank": 55,
+    "name": "ELA RAJČIĆ",
+    "country": "CRO",
+    "points": 4.32
+  },
+  {
+    "rank": 59,
     "name": "Ahinara GONZALEZ PINTO",
     "country": "ESP",
     "points": 3.6
   },
   {
-    "rank": 58,
+    "rank": 60,
     "name": "LUTFIYE RABIA BURAN",
     "country": "TUR",
     "points": 3.24
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "Sedanur YILDIZ",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "Nejla INCEOGLU",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "FIRDEVS ZUMRA TOKSUK",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "Belinay ASLANHAN",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "MELEK ONLUKUS",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 64,
+    "rank": 66,
     "name": "Arancha Maria MOLINA GARCIA",
     "country": "ESP",
     "points": 3
   },
   {
-    "rank": 64,
+    "rank": 66,
     "name": "Jana DJURDJEVIC",
     "country": "SER",
     "points": 3
   },
   {
-    "rank": 66,
+    "rank": 68,
     "name": "IREA ECHANIZ CLAVER",
     "country": "ESP",
     "points": 2.7
