@@ -7,218 +7,266 @@
   },
   {
     "rank": 2,
-    "name": "Abdelwahid DEBZA",
-    "country": "BEL",
-    "points": 111.12
+    "name": "Ilija LALOVIC",
+    "country": "SER",
+    "points": 132.7
   },
   {
     "rank": 3,
-    "name": "Ilija LALOVIC",
-    "country": "SER",
-    "points": 52.7
+    "name": "Abdelwahid DEBZA",
+    "country": "BEL",
+    "points": 129.32
   },
   {
     "rank": 4,
-    "name": "Enno BENTLIN",
-    "country": "GER",
-    "points": 39.12
+    "name": "SOTIRIS TZANIDIS",
+    "country": "GRE",
+    "points": 68
   },
   {
     "rank": 5,
+    "name": "SAVVAS KORAKAS",
+    "country": "GRE",
+    "points": 57.12
+  },
+  {
+    "rank": 6,
+    "name": "Enno BENTLIN",
+    "country": "GER",
+    "points": 51.12
+  },
+  {
+    "rank": 7,
+    "name": "MARIN RIBARIĆ",
+    "country": "CRO",
+    "points": 35.42
+  },
+  {
+    "rank": 8,
+    "name": "ANESTIS TSANGALIDIS",
+    "country": "GRE",
+    "points": 31.82
+  },
+  {
+    "rank": 9,
     "name": "NIKOLAOS KIOSSES",
     "country": "GRE",
     "points": 30.14
   },
   {
-    "rank": 6,
-    "name": "Lazar JANKOVIC",
-    "country": "SER",
-    "points": 30
-  },
-  {
-    "rank": 6,
+    "rank": 10,
     "name": "Tymofii HOMONOV",
     "country": "ITA",
     "points": 30
   },
   {
-    "rank": 6,
+    "rank": 10,
+    "name": "Lazar JANKOVIC",
+    "country": "SER",
+    "points": 30
+  },
+  {
+    "rank": 10,
     "name": "Miroslav KOSTOVIC",
     "country": "SER",
     "points": 30
   },
   {
-    "rank": 9,
-    "name": "SAVVAS KORAKAS",
-    "country": "GRE",
-    "points": 28.32
-  },
-  {
-    "rank": 10,
+    "rank": 13,
     "name": "Zlatko HRNJIC",
     "country": "BIH",
     "points": 27.02
   },
   {
-    "rank": 11,
+    "rank": 14,
     "name": "Arseniy EGUNOV",
     "country": "AIN",
     "points": 25.92
   },
   {
-    "rank": 12,
+    "rank": 15,
     "name": "Hasan Emin SAHIN",
     "country": "TUR",
     "points": 24.7
   },
   {
-    "rank": 13,
+    "rank": 16,
     "name": "Mustafa Kaan ONUK",
     "country": "TUR",
     "points": 23.24
   },
   {
-    "rank": 14,
-    "name": "SOTIRIS TZANIDIS",
-    "country": "GRE",
+    "rank": 17,
+    "name": "Jose Manuel ROJAS SALAZAR",
+    "country": "ESP",
     "points": 20
   },
   {
-    "rank": 14,
+    "rank": 17,
     "name": "Daris ZEKIC",
     "country": "GER",
     "points": 20
   },
   {
-    "rank": 16,
-    "name": "Panayiotis KOUMAS",
-    "country": "CYP",
-    "points": 18.14
-  },
-  {
-    "rank": 16,
-    "name": "MARIN RIBARIĆ",
-    "country": "CRO",
-    "points": 18.14
-  },
-  {
-    "rank": 16,
+    "rank": 19,
     "name": "Ipatov VLAD ALEXANDRU",
     "country": "ROU",
     "points": 18.14
   },
   {
     "rank": 19,
+    "name": "Panayiotis KOUMAS",
+    "country": "CYP",
+    "points": 18.14
+  },
+  {
+    "rank": 21,
     "name": "Mohammad HOSSEINI",
     "country": "SWE",
     "points": 18
   },
   {
-    "rank": 20,
+    "rank": 22,
+    "name": "ANDREAS IOANNOU",
+    "country": "CYP",
+    "points": 17.28
+  },
+  {
+    "rank": 22,
+    "name": "IBRAHIM CAN MERMER",
+    "country": "TUR",
+    "points": 17.28
+  },
+  {
+    "rank": 22,
+    "name": "APOSTOLOS NIKOLAIDIS",
+    "country": "GRE",
+    "points": 17.28
+  },
+  {
+    "rank": 25,
     "name": "EVANGELOS PAPADOPOULOS",
     "country": "GRE",
     "points": 14.32
   },
   {
-    "rank": 21,
-    "name": "Rosario ZERBO",
-    "country": "ITA",
-    "points": 12.7
-  },
-  {
-    "rank": 21,
+    "rank": 26,
     "name": "Yury HALASH",
     "country": "AIN",
     "points": 12.7
   },
   {
-    "rank": 23,
+    "rank": 26,
+    "name": "Rosario ZERBO",
+    "country": "ITA",
+    "points": 12.7
+  },
+  {
+    "rank": 28,
+    "name": "EBUBEKIR KOCU",
+    "country": "TUR",
+    "points": 12.1
+  },
+  {
+    "rank": 29,
     "name": "Muhammed Ali TAS",
     "country": "TUR",
     "points": 12
   },
   {
-    "rank": 24,
+    "rank": 30,
     "name": "Jak BENNETT",
     "country": "GBR",
     "points": 10
   },
   {
-    "rank": 24,
-    "name": "Jose Manuel ROJAS SALAZAR",
-    "country": "ESP",
+    "rank": 30,
+    "name": "Wiktor FRYDRYCHOWICZ",
+    "country": "POL",
     "points": 10
   },
   {
-    "rank": 26,
-    "name": "Bora BAKIOGLU",
-    "country": "TUR",
-    "points": 7.2
-  },
-  {
-    "rank": 26,
-    "name": "SERGEI KIRIN",
-    "country": "AIN",
-    "points": 7.2
-  },
-  {
-    "rank": 26,
+    "rank": 32,
     "name": "EVGENII SHCHUR",
     "country": "AIN",
     "points": 7.2
   },
   {
-    "rank": 26,
+    "rank": 32,
+    "name": "SERGEI KIRIN",
+    "country": "AIN",
+    "points": 7.2
+  },
+  {
+    "rank": 32,
+    "name": "Adam HOUNA",
+    "country": "GER",
+    "points": 7.2
+  },
+  {
+    "rank": 32,
+    "name": "Alessio KRAUSE",
+    "country": "GER",
+    "points": 7.2
+  },
+  {
+    "rank": 32,
+    "name": "Bora BAKIOGLU",
+    "country": "TUR",
+    "points": 7.2
+  },
+  {
+    "rank": 32,
     "name": "ERTURK ZEYREK",
     "country": "TUR",
     "points": 7.2
   },
   {
-    "rank": 30,
+    "rank": 38,
     "name": "HYEONG ROK JANG",
     "country": "KOR",
     "points": 6
   },
   {
-    "rank": 30,
+    "rank": 38,
     "name": "Mateo ANTUNEZ MALDONADO",
     "country": "ESP",
     "points": 6
   },
   {
-    "rank": 32,
+    "rank": 38,
+    "name": "Szymon OSTROWSKI",
+    "country": "POL",
+    "points": 6
+  },
+  {
+    "rank": 41,
     "name": "Wojciech RUTA",
     "country": "POL",
     "points": 4.5
   },
   {
-    "rank": 33,
+    "rank": 42,
     "name": "GEORGIOS CHRANIOTIS",
     "country": "GRE",
     "points": 4.32
   },
   {
-    "rank": 34,
-    "name": "Courtnay DALEY",
-    "country": "USA",
-    "points": 3.6
-  },
-  {
-    "rank": 34,
+    "rank": 43,
     "name": "Ion VELEZ RODRIGUEZ",
     "country": "ESP",
     "points": 3.6
   },
   {
-    "rank": 36,
-    "name": "ANESTIS TSANGALIDIS",
+    "rank": 44,
+    "name": "Theodoros ELEFTHERIADIS",
     "country": "GRE",
     "points": 3.02
   },
   {
-    "rank": 36,
-    "name": "Theodoros ELEFTHERIADIS",
-    "country": "GRE",
-    "points": 3.02
+    "rank": 45,
+    "name": "Courtnay DALEY",
+    "country": "USA",
+    "points": 2.7
   }
 ]
