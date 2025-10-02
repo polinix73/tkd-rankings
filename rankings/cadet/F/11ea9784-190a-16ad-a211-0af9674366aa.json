@@ -9,7 +9,7 @@
     "rank": 2,
     "name": "Yevheniia HLADUN",
     "country": "UKR",
-    "points": 192.41
+    "points": 187.21
   },
   {
     "rank": 3,
@@ -27,7 +27,7 @@
     "rank": 5,
     "name": "Ángela BALADO CONDE",
     "country": "ESP",
-    "points": 102.54
+    "points": 99.54
   },
   {
     "rank": 6,
@@ -51,7 +51,7 @@
     "rank": 9,
     "name": "MELINA GEORGIA KOURELOU",
     "country": "GRE",
-    "points": 65.52
+    "points": 63.9
   },
   {
     "rank": 10,
@@ -109,26 +109,26 @@
   },
   {
     "rank": 19,
-    "name": "Mia CONDIE",
-    "country": "GBR",
-    "points": 21.6
-  },
-  {
-    "rank": 20,
     "name": "Nino KHETSURIANI",
     "country": "GEO",
     "points": 21.51
   },
   {
-    "rank": 21,
-    "name": "STELLA GABAJ",
-    "country": "CRO",
-    "points": 20
+    "rank": 20,
+    "name": "Mia CONDIE",
+    "country": "GBR",
+    "points": 20.52
   },
   {
     "rank": 21,
     "name": "Sofia YANKOVA",
     "country": "BUL",
+    "points": 20
+  },
+  {
+    "rank": 21,
+    "name": "STELLA GABAJ",
+    "country": "CRO",
     "points": 20
   },
   {
@@ -211,14 +211,14 @@
   },
   {
     "rank": 36,
-    "name": "Roberta ROSSINI",
-    "country": "ITA",
+    "name": "Karolina KUZNIETSOVA",
+    "country": "UKR",
     "points": 12.7
   },
   {
     "rank": 36,
-    "name": "Karolina KUZNIETSOVA",
-    "country": "UKR",
+    "name": "Roberta ROSSINI",
+    "country": "ITA",
     "points": 12.7
   },
   {
@@ -252,22 +252,22 @@
     "points": 7.2
   },
   {
-    "rank": 41,
-    "name": "Nada KINANA",
-    "country": "GER",
-    "points": 7.2
-  },
-  {
-    "rank": 44,
+    "rank": 43,
     "name": "Zofia BLASZYK",
     "country": "POL",
     "points": 6
   },
   {
-    "rank": 44,
+    "rank": 43,
     "name": "Alina OVERCHUK",
     "country": "UKR",
     "points": 6
+  },
+  {
+    "rank": 45,
+    "name": "Nada KINANA",
+    "country": "GER",
+    "points": 5.4
   },
   {
     "rank": 46,
@@ -301,12 +301,6 @@
   },
   {
     "rank": 46,
-    "name": "Esila TASTEKIN",
-    "country": "GER",
-    "points": 4.32
-  },
-  {
-    "rank": 46,
     "name": "NISA NUR SAHIN",
     "country": "TUR",
     "points": 4.32
@@ -318,25 +312,31 @@
     "points": 4.32
   },
   {
-    "rank": 54,
+    "rank": 53,
     "name": "Hayull LEE",
     "country": "KOR",
     "points": 3.6
   },
   {
-    "rank": 54,
+    "rank": 53,
     "name": "Korale UZKURAITYTE",
     "country": "LTU",
     "points": 3.6
   },
   {
-    "rank": 54,
+    "rank": 53,
     "name": "Wiktoria WINKIEWICZ",
     "country": "POL",
     "points": 3.6
   },
   {
-    "rank": 57,
+    "rank": 56,
+    "name": "Esila TASTEKIN",
+    "country": "GER",
+    "points": 3.24
+  },
+  {
+    "rank": 56,
     "name": "Eliana PRICE",
     "country": "SWE",
     "points": 3.24

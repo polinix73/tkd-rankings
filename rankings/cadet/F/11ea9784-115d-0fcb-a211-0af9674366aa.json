@@ -9,7 +9,7 @@
     "rank": 2,
     "name": "DORA LACKOVIC",
     "country": "CRO",
-    "points": 157.14
+    "points": 156.6
   },
   {
     "rank": 3,
@@ -129,7 +129,7 @@
     "rank": 22,
     "name": "DAFNI NIAKOU",
     "country": "GRE",
-    "points": 43.02
+    "points": 40.32
   },
   {
     "rank": 23,
@@ -163,15 +163,15 @@
   },
   {
     "rank": 28,
-    "name": "Lina HEVECKE",
-    "country": "GER",
-    "points": 28.39
-  },
-  {
-    "rank": 29,
     "name": "Jana STOJANOVIC",
     "country": "SER",
     "points": 28.08
+  },
+  {
+    "rank": 29,
+    "name": "Lina HEVECKE",
+    "country": "GER",
+    "points": 27.31
   },
   {
     "rank": 30,
@@ -277,45 +277,45 @@
   },
   {
     "rank": 47,
-    "name": "Anastasija JERKOVIC",
-    "country": "SER",
-    "points": 11.99
-  },
-  {
-    "rank": 48,
     "name": "Emma CLAIN",
     "country": "FRA",
     "points": 11.52
   },
   {
-    "rank": 49,
+    "rank": 48,
     "name": "Sophia BETT",
     "country": "GBR",
     "points": 10.8
   },
   {
-    "rank": 49,
+    "rank": 48,
     "name": "Marseli LAPINA",
     "country": "MDA",
     "points": 10.8
   },
   {
-    "rank": 49,
+    "rank": 48,
     "name": "Ludovica SCALERA",
     "country": "ITA",
     "points": 10.8
   },
   {
-    "rank": 49,
+    "rank": 48,
     "name": "RAFAELA EIRINI IAKOVAKI",
     "country": "GRE",
     "points": 10.8
   },
   {
-    "rank": 53,
+    "rank": 52,
     "name": "Elena ILIC",
     "country": "SER",
     "points": 10.59
+  },
+  {
+    "rank": 53,
+    "name": "Anastasija JERKOVIC",
+    "country": "SER",
+    "points": 10.37
   },
   {
     "rank": 54,
@@ -325,33 +325,33 @@
   },
   {
     "rank": 55,
-    "name": "Arianna SERINO",
-    "country": "ITA",
-    "points": 10.08
-  },
-  {
-    "rank": 56,
     "name": "Seo-hyeon YE",
     "country": "KOR",
     "points": 10
   },
   {
-    "rank": 56,
+    "rank": 55,
     "name": "Eda EREN",
     "country": "AZE",
     "points": 10
   },
   {
-    "rank": 58,
+    "rank": 57,
     "name": "IKRA AKCADAG",
     "country": "TUR",
     "points": 9.5
   },
   {
-    "rank": 59,
+    "rank": 58,
     "name": "AURORA ROŠČIĆ",
     "country": "CRO",
     "points": 9.36
+  },
+  {
+    "rank": 59,
+    "name": "Arianna SERINO",
+    "country": "ITA",
+    "points": 9.18
   },
   {
     "rank": 60,
@@ -475,18 +475,6 @@
   },
   {
     "rank": 80,
-    "name": "Manal BARKANI",
-    "country": "NED",
-    "points": 4.32
-  },
-  {
-    "rank": 80,
-    "name": "Melinda DROUGAT",
-    "country": "FRA",
-    "points": 4.32
-  },
-  {
-    "rank": 80,
     "name": "ECE BUYUKFURAN",
     "country": "TUR",
     "points": 4.32
@@ -516,39 +504,51 @@
     "points": 4.32
   },
   {
-    "rank": 87,
+    "rank": 85,
     "name": "Iva MAJER",
     "country": "SER",
     "points": 3.6
   },
   {
-    "rank": 87,
+    "rank": 85,
     "name": "Hana KADRIC",
     "country": "BIH",
     "points": 3.6
   },
   {
-    "rank": 87,
+    "rank": 85,
     "name": "Paula ALONSO FRADE",
     "country": "ESP",
     "points": 3.6
   },
   {
-    "rank": 87,
+    "rank": 85,
     "name": "Victoria ARIZA FERNÁNDEZ",
     "country": "ESP",
     "points": 3.6
   },
   {
-    "rank": 87,
+    "rank": 85,
     "name": "Hana REJHOLCOVÁ",
     "country": "CZE",
     "points": 3.6
   },
   {
-    "rank": 92,
+    "rank": 90,
+    "name": "Manal BARKANI",
+    "country": "NED",
+    "points": 3.24
+  },
+  {
+    "rank": 90,
     "name": "VASILEIA STYLIOU",
     "country": "GRE",
+    "points": 3.24
+  },
+  {
+    "rank": 90,
+    "name": "Melinda DROUGAT",
+    "country": "FRA",
     "points": 3.24
   },
   {
@@ -685,26 +685,26 @@
   },
   {
     "rank": 115,
-    "name": "Simona TURZAKOVA",
-    "country": "SVK",
-    "points": 1.62
-  },
-  {
-    "rank": 115,
-    "name": "LORENA OPACAK",
-    "country": "CRO",
-    "points": 1.62
-  },
-  {
-    "rank": 115,
     "name": "Nagore GONZALEZ ALVAREZ",
     "country": "ESP",
     "points": 1.62
   },
   {
-    "rank": 118,
+    "rank": 116,
     "name": "Esila TASTEKIN",
     "country": "GER",
+    "points": 1.08
+  },
+  {
+    "rank": 116,
+    "name": "Simona TURZAKOVA",
+    "country": "SVK",
+    "points": 1.08
+  },
+  {
+    "rank": 116,
+    "name": "LORENA OPACAK",
+    "country": "CRO",
     "points": 1.08
   }
 ]

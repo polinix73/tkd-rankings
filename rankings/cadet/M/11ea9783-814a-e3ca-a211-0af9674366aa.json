@@ -3,13 +3,13 @@
     "rank": 1,
     "name": "Ivailo PETROV",
     "country": "BUL",
-    "points": 438.83
+    "points": 431.83
   },
   {
     "rank": 2,
     "name": "ANAKIN QUANG",
     "country": "FRA",
-    "points": 329.57
+    "points": 322.07
   },
   {
     "rank": 3,
@@ -27,7 +27,7 @@
     "rank": 5,
     "name": "Lyuboslav MILANOV",
     "country": "BUL",
-    "points": 115.27
+    "points": 110.77
   },
   {
     "rank": 6,
@@ -39,7 +39,7 @@
     "rank": 7,
     "name": "Hosseyn HAFAZ",
     "country": "SUI",
-    "points": 93.75
+    "points": 92.67
   },
   {
     "rank": 8,
@@ -57,13 +57,13 @@
     "rank": 10,
     "name": "Oscar Louis Y DELVAUX",
     "country": "BEL",
-    "points": 81.92
+    "points": 76.92
   },
   {
     "rank": 11,
     "name": "Dev SHARMA",
     "country": "GBR",
-    "points": 74.3
+    "points": 73.22
   },
   {
     "rank": 12,
@@ -81,7 +81,7 @@
     "rank": 14,
     "name": "Joshua SHERRATT",
     "country": "GBR",
-    "points": 71.64
+    "points": 67.34
   },
   {
     "rank": 15,
@@ -93,13 +93,13 @@
     "rank": 16,
     "name": "Ognjen VUKOICIC",
     "country": "SER",
-    "points": 60.15
+    "points": 58.65
   },
   {
     "rank": 17,
     "name": "Adam HAMDANI",
     "country": "FRA",
-    "points": 59.46
+    "points": 58.38
   },
   {
     "rank": 18,
@@ -117,7 +117,7 @@
     "rank": 20,
     "name": "ANDREAS PANTAZOPOULOS",
     "country": "GRE",
-    "points": 53.5
+    "points": 51.88
   },
   {
     "rank": 21,
@@ -129,7 +129,7 @@
     "rank": 22,
     "name": "Torre GOETHALS",
     "country": "BEL",
-    "points": 46.84
+    "points": 46.09
   },
   {
     "rank": 23,
@@ -163,33 +163,33 @@
   },
   {
     "rank": 28,
-    "name": "Agostino DI STAZIO",
-    "country": "ITA",
-    "points": 34.9
-  },
-  {
-    "rank": 29,
     "name": "Stoyn BULEV",
     "country": "BUL",
     "points": 34.56
   },
   {
-    "rank": 29,
+    "rank": 28,
     "name": "Luka OZEGOVIC",
     "country": "SER",
     "points": 34.56
   },
   {
-    "rank": 31,
+    "rank": 30,
     "name": "OZAN TANRIOVER",
     "country": "TUR",
     "points": 34.4
   },
   {
-    "rank": 32,
+    "rank": 31,
     "name": "Tal RAM",
     "country": "ISR",
     "points": 34.2
+  },
+  {
+    "rank": 32,
+    "name": "Agostino DI STAZIO",
+    "country": "ITA",
+    "points": 33.4
   },
   {
     "rank": 33,
@@ -337,51 +337,51 @@
   },
   {
     "rank": 57,
-    "name": "Nikola HINIĆ",
-    "country": "CRO",
-    "points": 12.98
-  },
-  {
-    "rank": 58,
     "name": "Ihar ARTSIAMCHUK",
     "country": "AIN",
     "points": 12.7
   },
   {
-    "rank": 58,
+    "rank": 57,
     "name": "Luka JALALISHVILI",
     "country": "GEO",
     "points": 12.7
   },
   {
-    "rank": 60,
+    "rank": 59,
     "name": "Yussuf ANVAR-ALIEV",
     "country": "KAZ",
     "points": 12.5
   },
   {
-    "rank": 61,
+    "rank": 60,
     "name": "STAVROS KATSAROS",
     "country": "GRE",
     "points": 12
   },
   {
-    "rank": 62,
+    "rank": 61,
     "name": "Popescu DAVID",
     "country": "MDA",
     "points": 11.99
   },
   {
-    "rank": 63,
+    "rank": 62,
     "name": "EMIR BILECEN",
     "country": "TUR",
     "points": 11.88
   },
   {
-    "rank": 64,
+    "rank": 63,
     "name": "Javier RUIZ MARTINEZ",
     "country": "ESP",
     "points": 11.67
+  },
+  {
+    "rank": 64,
+    "name": "Nikola HINIĆ",
+    "country": "CRO",
+    "points": 11.36
   },
   {
     "rank": 65,
@@ -505,147 +505,147 @@
   },
   {
     "rank": 85,
-    "name": "Petar ADZIC",
-    "country": "MNE",
-    "points": 7.5
-  },
-  {
-    "rank": 85,
-    "name": "Aram MARTIROSYAN",
-    "country": "USA",
-    "points": 7.5
-  },
-  {
-    "rank": 85,
     "name": "JUNHUI SON",
     "country": "KOR",
     "points": 7.5
   },
   {
-    "rank": 88,
+    "rank": 86,
     "name": "AFIF BELGHIT",
     "country": "FRA",
     "points": 7.34
   },
   {
-    "rank": 89,
+    "rank": 87,
     "name": "Salman DAVRANBEKOV",
     "country": "KAZ",
     "points": 7.2
   },
   {
-    "rank": 89,
+    "rank": 87,
     "name": "Amir ABAZOV",
     "country": "AIN",
     "points": 7.2
   },
   {
-    "rank": 89,
+    "rank": 87,
     "name": "Abdulaziz M A N ALSAIRAFI",
     "country": "KUW",
     "points": 7.2
   },
   {
-    "rank": 92,
+    "rank": 90,
     "name": "CHARALAMPOS ANDRIADITSIS",
     "country": "GRE",
     "points": 6.7
   },
   {
-    "rank": 93,
+    "rank": 91,
     "name": "Dario PETRUZZIELLO",
     "country": "SUI",
     "points": 6.48
   },
   {
-    "rank": 93,
+    "rank": 91,
     "name": "Yoav AMRAM",
     "country": "ISR",
     "points": 6.48
   },
   {
-    "rank": 93,
+    "rank": 91,
     "name": "Sandro TSETSKHLADZE",
     "country": "GEO",
     "points": 6.48
   },
   {
-    "rank": 96,
+    "rank": 94,
     "name": "EKIN DILBIL",
     "country": "TUR",
     "points": 6.26
   },
   {
-    "rank": 97,
+    "rank": 95,
     "name": "Maximillian-etienne GOTTSCHALK",
     "country": "GER",
     "points": 6.12
   },
   {
-    "rank": 98,
+    "rank": 96,
     "name": "Aleksis VELKOV",
     "country": "BUL",
     "points": 6.08
   },
   {
-    "rank": 99,
+    "rank": 97,
     "name": "Stavros CHIMONIDES",
     "country": "CYP",
     "points": 6.05
   },
   {
-    "rank": 99,
+    "rank": 97,
     "name": "FLORIN BASHA",
     "country": "ALB",
     "points": 6.05
   },
   {
-    "rank": 101,
+    "rank": 99,
     "name": "MUSTAFA TAHA DAGLI",
     "country": "TUR",
     "points": 6.04
   },
   {
-    "rank": 102,
+    "rank": 100,
     "name": "Artem POLIETAIEV",
     "country": "UKR",
     "points": 6
   },
   {
-    "rank": 103,
+    "rank": 101,
     "name": "Hamza HAJ KASEM",
     "country": "BEL",
     "points": 5.92
   },
   {
-    "rank": 104,
+    "rank": 102,
     "name": "Samuele TEMPERINO",
     "country": "ITA",
     "points": 5.87
   },
   {
-    "rank": 105,
+    "rank": 103,
     "name": "METEHAN USLUSOY",
     "country": "TUR",
     "points": 5.29
   },
   {
-    "rank": 105,
+    "rank": 103,
     "name": "Emir Kemal CETIN",
     "country": "TUR",
     "points": 5.29
   },
   {
-    "rank": 107,
+    "rank": 105,
     "name": "Omer Yigit KARA",
     "country": "TUR",
     "points": 5.18
   },
   {
-    "rank": 107,
+    "rank": 105,
     "name": "Aleksandyr DAKOV",
     "country": "BUL",
     "points": 5.18
+  },
+  {
+    "rank": 107,
+    "name": "Petar ADZIC",
+    "country": "MNE",
+    "points": 5
+  },
+  {
+    "rank": 107,
+    "name": "Aram MARTIROSYAN",
+    "country": "USA",
+    "points": 5
   },
   {
     "rank": 109,
@@ -667,12 +667,6 @@
   },
   {
     "rank": 112,
-    "name": "Cem BASARAN",
-    "country": "GER",
-    "points": 4.32
-  },
-  {
-    "rank": 112,
     "name": "KONSTANTINOS THOMAIDIS",
     "country": "GRE",
     "points": 4.32
@@ -684,213 +678,219 @@
     "points": 4.32
   },
   {
-    "rank": 115,
+    "rank": 114,
     "name": "Ahmed SABANOVIC",
     "country": "BIH",
     "points": 4.23
   },
   {
-    "rank": 115,
+    "rank": 114,
     "name": "Petar PETKOSKI",
     "country": "MKD",
     "points": 4.23
   },
   {
-    "rank": 115,
+    "rank": 114,
     "name": "Narek SOGHOMONYAN",
     "country": "ARM",
     "points": 4.23
   },
   {
-    "rank": 118,
+    "rank": 117,
     "name": "Lucas BUENO MUÑOZ",
     "country": "ESP",
     "points": 3.78
   },
   {
-    "rank": 119,
+    "rank": 118,
     "name": "Daniel ABEIJÓN PRIEGUE",
     "country": "ESP",
     "points": 3.76
   },
   {
-    "rank": 120,
-    "name": "Noah GUTMAN",
-    "country": "ARG",
-    "points": 3.6
-  },
-  {
-    "rank": 120,
+    "rank": 119,
     "name": "Davyd RUDENKO",
     "country": "UKR",
     "points": 3.6
   },
   {
-    "rank": 120,
+    "rank": 119,
     "name": "Noah DOWN",
     "country": "AUS",
     "points": 3.6
   },
   {
-    "rank": 120,
+    "rank": 119,
     "name": "Rocio CHUNG",
     "country": "GBR",
     "points": 3.6
   },
   {
-    "rank": 120,
+    "rank": 119,
     "name": "Costanzo COTTURONE",
     "country": "ITA",
     "points": 3.6
   },
   {
-    "rank": 125,
+    "rank": 123,
     "name": "Enrique CABALLERO QUINTILLAN",
     "country": "ESP",
     "points": 3.46
   },
   {
-    "rank": 126,
+    "rank": 124,
     "name": "CHRISTOS STAMATIS",
     "country": "GRE",
     "points": 3.24
   },
   {
-    "rank": 126,
+    "rank": 124,
     "name": "Svante WIGERUP",
     "country": "SWE",
     "points": 3.24
   },
   {
-    "rank": 126,
+    "rank": 124,
+    "name": "Cem BASARAN",
+    "country": "GER",
+    "points": 3.24
+  },
+  {
+    "rank": 124,
     "name": "Krasimir GETOV",
     "country": "BUL",
     "points": 3.24
   },
   {
-    "rank": 126,
+    "rank": 124,
     "name": "ANTREAS ELEUTHERIOU",
     "country": "CYP",
     "points": 3.24
   },
   {
-    "rank": 126,
+    "rank": 124,
     "name": "YAGIZ EFE OZLU",
     "country": "TUR",
     "points": 3.24
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Huseyn AYDINLI",
     "country": "AZE",
     "points": 3.02
   },
   {
-    "rank": 131,
-    "name": "FADOUL ADISSA OMONTELE CHITOU",
-    "country": "BEN",
-    "points": 3.02
-  },
-  {
-    "rank": 131,
+    "rank": 130,
     "name": "Mario ANDRIULLI",
     "country": "ITA",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Galip Berkay ASLANTEKIN",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Omer Asaf KARTAL",
     "country": "TUR",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Anas EL BEKKAOUI",
     "country": "FRA",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Mykola BEREST",
     "country": "UKR",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "Mattia ILLIANO",
     "country": "ITA",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "DEMID KRIVOBOKOV",
     "country": "AIN",
     "points": 3.02
   },
   {
-    "rank": 131,
+    "rank": 130,
     "name": "ARSENII TOKAREV",
     "country": "AIN",
     "points": 3.02
   },
   {
-    "rank": 141,
+    "rank": 139,
     "name": "Liman BELGE",
     "country": "GER",
     "points": 2.7
   },
   {
-    "rank": 141,
+    "rank": 139,
     "name": "AZIZ EFE KOSEDAG",
     "country": "TUR",
     "points": 2.7
   },
   {
-    "rank": 143,
+    "rank": 139,
+    "name": "Noah GUTMAN",
+    "country": "ARG",
+    "points": 2.7
+  },
+  {
+    "rank": 142,
     "name": "Kubilay Kaan ÜZMEZ",
     "country": "SUI",
     "points": 2.56
   },
   {
-    "rank": 144,
+    "rank": 143,
     "name": "FAROUQ EL GUETRANI",
     "country": "FRA",
     "points": 2.27
   },
   {
-    "rank": 144,
+    "rank": 143,
     "name": "Wiktor ANDRZEJEWSKI",
     "country": "POL",
     "points": 2.27
   },
   {
-    "rank": 144,
+    "rank": 143,
     "name": "ISMET BATUR TUFAN",
     "country": "TUR",
     "points": 2.27
   },
   {
-    "rank": 144,
+    "rank": 143,
     "name": "Bayram Sait OZTURK",
     "country": "TUR",
     "points": 2.27
   },
   {
-    "rank": 144,
+    "rank": 143,
     "name": "HUSEYIN CAGRI KOKSAL",
     "country": "TUR",
     "points": 2.27
   },
   {
-    "rank": 144,
+    "rank": 143,
     "name": "GEORGIOS CHARALAMPIDIS",
     "country": "GRE",
+    "points": 2.27
+  },
+  {
+    "rank": 143,
+    "name": "FADOUL ADISSA OMONTELE CHITOU",
+    "country": "BEN",
     "points": 2.27
   },
   {
