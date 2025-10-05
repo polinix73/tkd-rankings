@@ -1,3 +1,6 @@
 raw/
 node_modules/
 .env
+
+# File di configurazione locali
+categories-*.json
