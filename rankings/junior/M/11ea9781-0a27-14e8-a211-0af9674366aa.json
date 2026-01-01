@@ -1,1 +1,1690 @@
-[]
+[
+  {
+    "rank": 1,
+    "name": "Arkhip SHULZHENKO",
+    "country": "UKR",
+    "points": 187.52,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/54018154-5233-42a2-ba5a-bb98f26644af.jpg?Expires=1767309625&Signature=RASmduIGQx9ujhyhyS46lDknn1yIlkmJXf2vwRe2uat~S0jelD3TbS0MQpEIVmPScTd3l-Tqzt2nDddW3NWdB37g7K~8C1vc8vFbUP3dXO2Lm6susmPlN90kHpzGuKvCMelVibNESv2xAfcUPx4s0DiNmhjqzU7odo51U1YtLbNNVZePiljUYhuKt~~mRmODlrAyhnjNVPHjdMSvClH0nKj0JKFvJXKU~bOzEEPnrXpVwlGUiIsJdZ0OERUnvhqIyr~V3q~Ehuo2XbQkhXaVJ1xBTnkGj1DTaRckf4tEPBglKFv8nAsQmpUv0jBoVkVFyblSJ9wAxX570g1Xh1PIDw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 2,
+    "name": "Andreas LEPAPE",
+    "country": "FRA",
+    "points": 175.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/72cffda3-2df7-4ad1-9434-9cc37a03ab0a.jpg?Expires=1767302809&Signature=hhbFYSxRTF~6N6A4ObOSS9x5thTvj0kjzFcPIvn9bZ2uGbfq1Wm7hGRuayqJdJ6QfK1fBwH8cp7mjVK3eDle0U~Kc6p4Qz6rt8qOMbKpbeCLU9-f7ybktaqz3kpQ2~0Q9bcATLwOzFAyrlrm9xLJrtDw7wzdvQw7p7c0tfMma~8NP3khUDKtUn~J5vs95NAbanzP2vuZB0ui4adMQpzLIyF~aW6cSUuH9j5YORG3SOaUp4cJXFPGLk9VxpTK1mvzzojhdUea971XQO8lzIL~8tYSCAUUml9wF1Gs~U9TptCFDm-X1NdT1EUmxweBVFWVaHKfFCrp1AX~~lL36ehgNg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 3,
+    "name": "EVANGELOS PANTOS",
+    "country": "GRE",
+    "points": 151.91,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/047292c9-8cc6-47c3-b574-31539db20ec0.jpg?Expires=1767311121&Signature=jqB3vqAO5NUcNLlC3TYX2MqV~jAbT4lU2LBlyIDtz1jAYObD5x6MDkZM7H24agytKmk~~ZwPFS97kXC7RWlFy3Jl54ofqKhTyefk5FIEZ5qsD78~2EIQKmd5zKilaqEPY4X9t-x3OPLBWT0oHz0OYin2X8Y38vUfUPO5GFgMfkMtdwBzSproGCZam31~XLXn7N0nv4CmGfM7QNRo~3wwQTPq~DN6rE0bae~utYXdSPRu0XF~UwwTde4hRCuQnzzbf9KZgMG6fXoR~23st~ifAhWg9LTehFXTLmFH6qkToUnag~1IDFmkoFVTVo0tNrxLd~8qt5BA1w8qANVgi1L3lw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 4,
+    "name": "Nikolai Yuma SPARRE",
+    "country": "GER",
+    "points": 147.95,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b626a64e-3bb2-4bde-a334-dd16562079cc.jpeg?Expires=1767309735&Signature=hIKJu2JfqXMIAUdLg871JjbTgKw9XJg8aY7mf5DKuR62Lr2o0W8cHHhCI~Zpt4fpadCsmnotsfxtywsVRyGzkD5e~sr4EF21wVwhRGko1BJ1asUx3P1DzzG9sLhMYK9HKPLlhngpVV8hQqibDXa5hjNTaDfvNM47AUr3AbEHPqfzatBBUglx6Hc3jJBdComTDtPlLBlBXuRWHzzqlib87QzieINvi92nekMA5FxFgHICtqQn6qrrhVineBQ~0vYK31a-HtDgJfD6EWEsd8KStWjRyT9Xx04KMuYgH8mlZS8FupLQgDhM-COQbjwW6Utaa6mGWsxowc5mCi~EDrZPeQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 5,
+    "name": "Lucijan NIKOLIC MALORA",
+    "country": "CRO",
+    "points": 120.43,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3d83ff2c-d2db-48f1-972c-f047eb0ca728.jpg?Expires=1767312851&Signature=Vsn30xCHat7Bs7HICa0dtZf0CwcFq6-WaeHpD5hdrtnwbYb4N4XzWc3gAMpVey7HpwpYuf-sWECKjLGWg3wTeL0TYds8vAHK~hsqjg3WBVIyCHljrI3YG9ACVvuNyQ-L9Fp8nTw9KtFTD4TQIhmN~MHY5ptLvxi0mWnvys5p6-cfH3CWotfbySmA7FITkLMT-0Tr8NulS-jsZdV7Pn8V7S2JO6JVvQDrKEdz~ZL9yWuiUfsYp9KAJCGN~uWjv5NsYRv86Vrp4dTeuX4MggAqzpiw~3DPFgiQuotRi9BNSz~8m9NWeAkVv-28r555J7onsPLfdS-8jmJEtfUuaB~hXA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
+  },
+  {
+    "rank": 6,
+    "name": "Nikolaos PAPACHARALAMPOUS",
+    "country": "GRE",
+    "points": 119.9,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3007c738-68fd-442f-94ef-1ff9d7a1aa4b.JPG?Expires=1767369328&Signature=W-xRD~6~XLuOpypo1sH-1p~bjDcP9l0J~h4uxbT9f9aKjY~d6FHn8-BqNMtvB2AhKY1jr5OMtnZMyGL5kuP7Ylsv8gL3dlvQn05SBShqDQEKJkY7HSqR7jCjNUulXZ~xhk3JCqm90VOuv~zGk5lU2VqIrw~4~qJTeoJzABwbn-3U3HbcgwBaCJakOst1mcWOpWeb7Vxw1akw1yMk0faG0ZE9XHT9qF6ATQdQMqol3kInk8RstJ10mWCyJhDycHgUIlT2K6upzGyOitA76Jd0wLCT~g0x793vkkSHwG72sWHxc1-cuzdJ7EIawgq2P~u8vmxchn7f~Z3AOOTYt8uM8Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 7,
+    "name": "JAIRO AGENJO TRIGOS",
+    "country": "ESP",
+    "points": 118.96,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1892f46b-13b6-418a-8a28-5c71c064fa10.jpg?Expires=1767373472&Signature=IS~eHybu2nVDAh8GWZ2vOXgk3LCQNjGUm2iMsjvxrWHxf6Tlq8oDWBXpK~9Gks7UzOVuo6m2Iqb6mU-Zvtp~OUzZrJFb7Mn5TgTxHOwcrVp0xstUM613SmtPGvmO9M7FGMjyjkqXkif33EGBRNHzSJIpm3ppP35KKnDvOeBRu6J~7fuye~8ye0mIYJz20ZXwBqOIj8c7UiRb4t-3INsGrhA1jdaA4my82d0Z-y6vKA1IEJLL~t0lGEiNEYwWP3d9KuLzU6R6mmf0US5ItrDPS3VoAXHmMwfE9BwG3f7KwWsSzpuvSdss0Nv0jVCt9vNdYJejhkvVMAVQKerHfOAv2g__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 8,
+    "name": "Antoni SOKOLOWSKI",
+    "country": "POL",
+    "points": 113.2,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3d596aff-2116-415b-b844-4f8c442cdaf4.jpg?Expires=1767369328&Signature=VnJJoGOo-iweFm9R6jTxzlfLy2G3C5ireWDsSDlOwXngDQlZR5hbMNgI-h6DRTZdR4QdUteW98klYMqMIi-fsGyjp80M3pM9ohRGNwgB2jRQlKpgx4~InuhJ5S0x5pEvxNNLsnJmZtaGMmGlhqjZAsoF2GuB6ucEn81G05fNtWlKMDxPgav7WiYgleLaZFBsMigmxt60AYj9aBMhfyCBXbn0pnesBD8YbdpYgIuNE-2jnW1r6hd3nconFQKA9tsvsC9Y9KcpG2bzBnzBIR~e4-q8dxZkcgj3Kf59DLYjlIsbYAX~yeT8Rv5wqcdFF1qvhIKMLM4znm~XwSSSEdwzwQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
+  },
+  {
+    "rank": 9,
+    "name": "YANKI MORKOC",
+    "country": "TUR",
+    "points": 90.8,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/9b33c5a7-f90e-4065-8c02-368dd9f5f666.jpg?Expires=1767347685&Signature=O1~B7EpTrGn1nl7AC5zrXVIlI64rfqy2vN9vIdIhtBhmUPSzyujSiTYxrvCCOAtHC5CUqt-Xd8WaS4DJeJhVt-KmF9ExCY0pPNqOi~F7tiGQOWLzL2KCAgeHWQbSZRjOVN1UR28iYExq0C7geDDp1k4VMlP-eWeaqYh7zdN9OAtc6ywIc~6WW4GqvBgE7Yn9V4YRpI68ZtQu5nWI09T1RN5xugKtDFe8bdR9q6h1L2kD1kZnXPEmlM7f7EMlU1vUicaBYg9zmIcbocOdIAGBgFzH6erLTG5FdxWGBILnQPcBvKnI3mI1jpppIHbzOnRxlG8t~UuEnNdsp9xq7XvIWA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 10,
+    "name": "Artiom ROSCA",
+    "country": "MDA",
+    "points": 84,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8761d699-57f8-420b-b060-aa5f59862135.jpg?Expires=1767382711&Signature=XcHLDeoOnBporv8kx4vuuhVOYnCUPqxmMKTP91MNUJLtV2Y-I3HoYd82wtz6dcfwal1EAUtepTbMXKUPAPZtmq2G5H7um6CE-Ch1EJYhA8~CFppDlNfDRItCWX6ee5AaE3trd2MJFj0tutjhxLakVJjni6o5u8aDz40UUlYwQACsq1qY7Ds9dsXxZuvoci-h-mAXhkdooeSbrWSEKI43Yf8ugM--A1stALJ5u1CKO1ZqChe0btcgLuTBZ3CKCCBRNQkylVCp7ZAkzZiKXmjrYIvCLPAqdAMuBlpIxFVxVIVOSB9DVlYVF7WArNz1A94dg0nG4fABbt70UxOPV2PAXQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
+  },
+  {
+    "rank": 11,
+    "name": "Nikola KIS",
+    "country": "SER",
+    "points": 67.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/5a551935-937d-44f9-ad51-93e05902562b.jpg?Expires=1767346657&Signature=Oh7JxZhbu792XethuMZz7gkwziY5if6IGblLRmYTUSGpvole63wHibRqYucIXJMQrLUaXnltipyEJADfoWsYgW5nNmUigJ0mBNLJQqx79aPMPhHPXTTIRByyuoTwPT95rSpRCiweAKbqWb6FN~-gebWQfnxjRSp2KQDl5pgMc3Cw3Qh6fMblHMvrwvjTKMc5OJTDRuEBduUyFoZiu~HdW-fPbgQLQ9FA1m8xlpA9XRtLxKv1QW822LQ1Fwv91kuNywVk3mqeHmirbJCFT7Nq3xp0SX4mlygdzrSWSRpl5s5FQpqqurEK04BiQ5s9gM0iyRG2cKmtR4JW6njqVYVEcQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
+  },
+  {
+    "rank": 12,
+    "name": "Mehmet Serdar DEMIR",
+    "country": "TUR",
+    "points": 65.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/74d849b7-01c8-4779-b2e1-177ef1b2b96d.jpg?Expires=1767349679&Signature=AjgRU~Hnki5YJ9FWzyvZrCqKDyoMwmiOI3wmwJYWmYqXlSV6uMrEOcgFFGWbT~nW25ycZeifkzewhrGroIc0mh1lxeFE9GmHMMaAkVza6ZdePGB-jLpFIkDD-Xwq0iPC4C2u-FSppx9T2Tk16wl2HS3~nBA3Piro9onedrj9JU8boak6voUDCsDxmL7ptqxA~PzTyHr~W00GEgpOC8l583snScEvnZT~V~6p59RMPP0wVEMWT~2BU0hwmI-EDRXKBomO0uXcZrk2~QVCFLyMY-E37WLUHo446Rb9K40o84YI3t5cWEIBmlqN2HrmWQmd8CBvwXOHdfJHb3-wHKFX7w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 13,
+    "name": "Rayyan Zeynel DUMLU",
+    "country": "GER",
+    "points": 56.86,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/02230c8d-f049-4343-8395-8556c8326dc6.jpeg?Expires=1767349679&Signature=gY5t5qEX2yP3nR35X99V6NBy1q96VrrrqEIleS0HFFghHmzfq0tdiDwSSkPbwK9DRZFx4yWKIpYsgvDcjsdG9aDBQvYx7lH3eULEcCUl~6WASErFmHfzJyJK1dRy7Jwv328GmF~pq~U8TMYZ4cSovYCTdSKlBlfd53eEvKtZkzIVVhqPFanvdeEW76tbKIaXUP4wyv8xMj86gPXoWq6TtLxEzblnMbN~Khry15QV1StX0vCVJ04xiLVYo~gZ60hcCKyI8PJ5weJZr9i5tfmfR4PqylLTcRXhZCGqWyQRyfSt8SNreeI0c4f1c-jAneOtPE5~4uosD~WFGuZRLcP5Fg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 14,
+    "name": "Andreas MISERENDINO",
+    "country": "ITA",
+    "points": 49.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/964fa935-a13f-48dc-918c-bd221ff42352.jpeg?Expires=1767357590&Signature=gV6cJJtT6OQpD4yddDZRHy9xJ6bLpsL0YKNuyuVu1QzifIgZDDFnOdN~4rDEP26kZ8AFUKABVF6-MBJVfLPJ3kNxAwg1TlKwKxU~THtZFnM7qUI0lXtSvOEdKn97NpatRH2xCvOT7qnMe8CCkmfGcGACiEpnJ8M03AwYWdPBxVgHKTroWkvtoO1BvxDvMJ6Q3sO032bh~LCdybt-PI3tB8Mcij9qy9tHX0bXkV2st9tQSbaRSSSaKBfxAH12xdCghjaAmVjEdLSawBg8IX~An9WjZtQ8CA8ZyLhTGkk0u-~kvHPQFlVhk8EGzU~Gk37zYudtBx3vj8~bnHi9sn7gfA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 15,
+    "name": "Alessandro MARINELLI",
+    "country": "ITA",
+    "points": 48.95,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/32d23c83-4380-4352-a2e6-b9f299ba15e1.jpeg?Expires=1767311121&Signature=GJch4u3DMfPv9a1zpRfCLBMd3DfefEmxBtAUY4C5gFin~wttO1LhlnYHNRRFu4LwQSZFftXTwzp6S3zPaxqkG45l-KaoOjefGeFiWQRz308aZ~Xv6J7aIjPEDq4RrW0gRGKjZUfpjV~3-kxawDMjN2oV6rJrhU1TCvqhAe5FN910hCc4BuZtgxtrO7MSARzze7lp3MfoU3E-piDb9MowGshE6-z~kNEL58QpPh-zJQ0DWZiLJ9zjq3Nr-Om1HPU4SQAskm9AkaKk2~zrpldC7PPA0vHVuIwOdQ8zKAQCES-epeXVmc7TRHuO6yDFLBenRMOn0mToCY9-nvPC0mDlrA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 16,
+    "name": "EVANGELOS TSOUPROS",
+    "country": "GRE",
+    "points": 47.28,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/2e43b95b-c631-49c4-aebb-d7a79c484c27.JPG?Expires=1767311121&Signature=LXmHg-kfX8izAtPsQczbknOxAW88cL7PQrOf2JtyoTa2RjabnLvbEYvml-83YdUV62Hv8A1JN0Z-~Ry4kQnFGrDggCYfvPimvcZ1Ux2ohZVm7Yr3gn9Iz084OsM527kZLNL0KOFU56APn9nwAYyX10lUhSIDe~6fasiod2qw4fIXwRYEbpJeg231e88alZ-X2ZQQ82LQSqhXUQdN~set~d2XZLRNIK3D-7YBrx4uFQsxXlYQUS~Vqv2WG~hxuLu6O8Yp~mgPxVPFB7qhjQ0jNQV0uDecltODxQo0WS2s997DC1vVu~deJxhXB-2at7zE6LxYRv5F5~v9g1i0stHJng__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 17,
+    "name": "Ditjon GJIKAJ",
+    "country": "ALB",
+    "points": 44.83,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1e0a1263-11a6-44eb-83d5-ca3e9e3f9b90.jpeg?Expires=1767386991&Signature=CXGZVqDD2f8OmODCGTQd9zjSZxe36EqTm-YrWjairChqijEHloTx5a1olog8PqyKgiSr9SWZREfvPvFKGBv~vf6RR6rJishhbqQ~E3n5IQr8V06vbL5bnPOj8bVtX7oc8yXZNbPBKvU9EHRIYA8KiWHn-J7bvpFWv9cC7yj2rKMA6Ui4TqPU2ciFEtDhoO2VoHfBDHiN2LKXBgvgAq~DEkkpKLGAsZfz-6zeo-Bk3c9R31r4g7vajF0tOT8Rv~hEiI7RrELSlk-vRCZnSDJiTtZhEMgJql-szMCiiYLgUL82jqyOiAKn0QbwidR5QFY1~8WjVVsiVl4llC6ZcP~G7A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/albania-size2.png"
+  },
+  {
+    "rank": 18,
+    "name": "Aleksandar PETROV",
+    "country": "BUL",
+    "points": 44.43,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3c5feca8-c42d-4e8c-a7d6-1b143a6ca2d6.jpg?Expires=1767367518&Signature=a9IhhbbuuRIn4~uYfl7gBgkz1dTAyyEpq0ogmLSCp5nwIhlmDDffUx8LozJkNq8J9m0L-L0Ol~6hsV7Hcrdmju~p9FNEBtxax48siUfdTperoV3y2lpbT9oaVUn0Zp-YNB-w6o0WAUbhxy0ffsQGH0j1Cq89lCSeq5qk~twHHTu9SEiEI~KB6K3PM7fZJ9lkLX-tX720QQeW8pfu11SJIyqDYeZyf~fqdbSPnUFaze~UVM~EDtXjckEr18cIvh1T4cvpDa1JbUmS7GEq33Butsx8cZzlshljH4LNUZQkqokyNpi4n6mtxVw0CCeb4lxytaEPlLEUnaC4IX2Hnu7ZmQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
+  },
+  {
+    "rank": 19,
+    "name": "Daniil MODNOV",
+    "country": "UKR",
+    "points": 41.43,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ee59013d-cac6-4681-90e4-9b41ab9fab61.jpg?Expires=1767352542&Signature=WUN-tAjNKOfiMzwS-sYVxNMjqhb5KJ8RcF5L4IfP0IUPwqR6T1M2DLO~PkfsR802tHejJ2M-msaoHV2CUnZ~rZmPogV~VL-RxNY9FsA33uWfAaHR1lCqGcPoICPluT0gXYsm4eu-6~Ch0ErHOR1uFeCrtwSvq5EL7QQyISgkWuJcMxQYXSoXBpX1nGYvHna7jLtTMXu73p9Lo7MoioTPAZCC6GkkpPoJgAN5Mm4mU6JpFPQQyn3zMLiWBOwVvkMucISNb67l-VCq86YsGwl1cnAcbd~xUacahME5mZVUOT0Ex2W73GdnEobptMISK8rydaIaiaW-m4uqX7gDiP7FeQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 20,
+    "name": "Abderrahman TOUIAR",
+    "country": "ITA",
+    "points": 40.73,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/53d718ee-9175-4600-b0b5-507326b32e4b.png?Expires=1767344752&Signature=beV~YHUdHcS7f~3GQBEdXIvSpnqSWJQ~OmPHVPU0Id9kEDJNuLIlwo6Zl3cohiYHOcqX4Gh8YxtwWWm41NgbI6Rx5r25vx1XsI5lSSY31DrHldj2wkbqlQlAjFF2k49yef1BhxgTxIzRTuYefmZZ~pM3y4QuIcyD35LZZMX~lPQMcG8a~G8u~qhmmm-RUfsDdq9dxDFb1LGHlietW9XxVkFVGhW~EQVTvMM6l1KydFEgKweYezCCpMsErTxx1FET3NIijBjXVfLf4Xqwf1DdbBQCrmN6TpTXkdqfOBKKg5tpsfIXCLy1kKlIdruKAozd2ujFOR9g7-FYg~zkjhkAEA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 21,
+    "name": "Dimitrios TRIANTAFYLLAKIS",
+    "country": "GRE",
+    "points": 36.2,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/add20cbd-eb58-4a2e-a780-83ba71c06ca9.JPG?Expires=1767369299&Signature=SGQSUufcFR6-wHjaecL03OpMM1Mu7tH~fYiTJrLXDG6mTOTkMMkXkeLS0K65HzKzSek0HnCtWlhe5DYukinS5vN3g0SFk-YRyCKazJ8qurcrtF~o48T9m7l-i3DDaa9Z711uTsBVWmunwxGBIyNoGmNVfmMahMgQM-BneiOrUANTZMgz10QOPxxAp7-WvYYD4jd8KeZRIXc3JZqiLU1jXt2YLNG-eD0xNEjxoWnmKJhw86iBtQa~tOXWkKAyQ66-UsbW38BJYqC9KKDxBDQHFRZdT8AY06pCndSv9D0wGGU8JI4AmUd8QI2CtVegjglw7U-Ws2eQzHcxdrrFAjS~kw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 22,
+    "name": "Mykhailo KAPUSTA",
+    "country": "UKR",
+    "points": 36.03,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4eaff78c-8837-47ad-a1b5-7d2a10480390.png?Expires=1767358191&Signature=DJC4LT9m8V4r7c6GOBgxgclowCV0cjludD3onrDWcLu6E35E94Hihx5CjBuN7oOXcb~EfiYG56qaDWXGYgdQxCRwnQPD7RQInI-Mv-Ju2xNmtlCjZQljTa2i5f75YTHIfXI~1-5qk4WztQH-gN9O-DXKsu9FFm86axkUPe5G6m2srysq3mAY5a13lqU8btdhYbu7qo1gOMoPjVrgPK2AJC29im9y7TWkggWPpVGqaACViDCMJsOtM8QGi8Y-LCzGvKqob8QdbuXSZ68FETEcCfm9llJ3mygJbPMzqfWxri1dbNXvgEBaX-Sc770EAScZy78uUxIPitop5sM8YNtlEA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 23,
+    "name": "Fabio CARVALHO",
+    "country": "GBR",
+    "points": 36,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0ede06d1-b20e-4a35-a561-7949a096378d.jpeg?Expires=1767302809&Signature=JSULZ9~SG55Lj0jC6nK~PmHxEMTBd-J8EnfkN4a-hkgASlZp-qLcqb8Q5Ih3LajryV3sRCtu7Degh2H0797a76gagw6jFWVc2r3RUr1kTxKPjxVJmHt3eNgqnjJWn4QohK0Zl3LIP~Gb6nqAHIGErBjfVATUhGFeMJpUpnyXFKvuCnbxjc5F2fU6lFszS3F0rhQAKxXWsRoUXkn6mbpfteqOekAB7QAZq8p2cp1tiDx4C6pIEFd678rGBKgHq1s6-CtFfgk3bZrbmZWb7KhhP8o9155nX9miZrcwhO9-U1sI0X9J~ivRdgyd0lEc9KlcACqdxvTbE7d44kRowp-7WQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
+  },
+  {
+    "rank": 24,
+    "name": "OMER TALHA DULGER",
+    "country": "TUR",
+    "points": 34.56,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/bdec15b7-c854-4c01-9290-28ab3ba43cb6.jpg?Expires=1767369353&Signature=Xot7lWZdJ5I1iJo~BeeUsq9cfPCuR2aAjylr58L1EZdV2KcU1ZKLp~kGY08UN0uoPUhcf1GiGH0yo5FpN1Ac~KcU2hx~FegNSP0rSgXRDSJwSDIlKYmEuhjrfz7hYP~x28CcePIxdbvEk7~rZqsA1q~0VTKKySC6gtQLa2xloPmw-JakeplH9YBEo0d3wYZAhZMFXFSFdhxKtalAOMXN5FFK4KWOO25lbLdFBK3Hgaijo5Cbiw2OGELeXpELFzDcNIqf6F4X6htKkyyB1NitxBCkaIPCKq0pni8wE45HO5mGCB1ezBZwM6wlztbMCYrrHBAjIal0V5WxFUN0loBdKw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 25,
+    "name": "PANAGIOTIS DOUKLIAS",
+    "country": "GRE",
+    "points": 31.48,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/eab7e441-44e1-4f0c-bf56-29445721dd72.jpg?Expires=1767311152&Signature=Al4~i5agWNOGuo7O-MamkOJ64L7WasRSSLAnkzfxWLt-bDYJqIDEHOhcohsR9GoUoApOJduU4~YsmcFhZrQ64n7mTNRTUDTfN81k4mz5tIJwzkwyvxc6X3K8QgkEVTza9clf4doODA8714eTA~BZImzXBkRrtKLuH-2dj-8sbVueSVd92x0clH3H4lhsovxQFQzpLzK9i39DhHMHAfUT7zlYqq5e6P3JqTnNSQK6jbJNDmWX12TgEp1WZWX05VnuJG5TYGwpD9wWEE4i1TVBU6xlpPAwkq6dwSOaP1iRdvHj92k7j4tLhJ084WdWuH-0hcodnrxk9y8gM3tgeZEyPQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 26,
+    "name": "Yahya MARWAN",
+    "country": "SWE",
+    "points": 30.96,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3ceaa78c-79f2-4c40-9cb9-afc12544bba1.jpeg?Expires=1767305967&Signature=ha9SDhhD9Ud7bkcgwnLUXvY4k91Humri~vI0aPecEI7QRsQ~8bPmC0NNSAskMeI17utWx7QLyQDssrDc-ZOmiBTxrRf7IWXAFureT2hi57G-NitwZRwU5J2KLuepg7g5MCs2DEHfspozlIj9M8D-pE9DxTvIVAZME6sHDSkc2kQlcrVhsykKJxaB9aHmuY9CKfCbTkQ7ttqWONae8eaNSR6WFvuyplg4YEKJs~Oc~TF51jSUf6fu1TxjlY5zH8wgf-ySKRnf9j9wHtU4P~tR4U57YbiEPxlj3RNx5WiuTSutDMjs2ShQihaH4EWgQO7yGXIPk~9UFeMwT~ZeMAIBKQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
+  },
+  {
+    "rank": 27,
+    "name": "Salman FALLATA",
+    "country": "GBR",
+    "points": 30.06,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a774e96c-a3cb-4934-a1b3-e31955295c23.jpeg?Expires=1767379110&Signature=fi~whJOy3Q~jzKPW7jZUmjwL1qmuVKqAqzv5UKDSasR38qbk~bt66cf0IGuWP9ZaYjh6SR8GB3t-opatGXLlKV2MR6U5lZM1GmNTSv4z1gKxu9rL6FZ3PFufI-jhpISwbTk3rVWIFNccrcHDy~QBQDAYQFK9pYluBkJchOl2ye0YIpW0qXA0XK~FNjh-hTRP9HELw~VlD2jdDxrtyQmBVtzNa4hr-rbvntQFJQhlqqpyHEAx94bkkX9wfccG7QvAGTU3n4x3fFcuuDLe-pr5QEDsvx3EJ2ETGQYAKQdcqd1MTbVwdevQ5bf5JlVfTGA6pnSLcCIvWenhNZZSQVEEVA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
+  },
+  {
+    "rank": 28,
+    "name": "EMIR MUHSIN DULGER",
+    "country": "TUR",
+    "points": 30,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/655e3a62-32f7-4459-a223-ec7be9b41860.jpg?Expires=1767369328&Signature=Lgwx3GjfpeGxbsQRUx~2bD3~4u2X7pEXjmukXC0kwZc~bECxJx764QCIgXAIkZwbtqi7RUjLy5fxVA4Xu1Rvpk-FRwKLSovNHG7nff-ZGlnzaXvbor5kXwNT4613924ouRSgwpMCSmvZUancW7lBXqLX-zwamJQi6h1aGArDH~ZmeixtZv8VpxbAdzqkHh~bUD85knj-b4JoREsZ5JSKSn7lupabizLxJbqqvmjxA8-wHmcv6VDtP0WIfM7NcHAbgXGocVRkT4JUVnE1mGqZ8C8pfLF2-Z~Bj-~s5ZEPKlMPA-drATaeAj3CuwSrjRYVTHkPvMUPz1B5DnmJK8PkQw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 29,
+    "name": "Yoav DRACHMAN",
+    "country": "ISR",
+    "points": 29.15,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6f0d6d24-2cea-4da1-bc0b-b85ac1d4140b.jpeg?Expires=1767349679&Signature=WbHhuP2CJ0rO356l7zr9fYTHNIE~2aNgY63~dbQPbnx7GlSR4MPnK8lND~dnQhj9~UGfUCZ1nT6D5rGAg0G08LW4~p0vkm3M61eBpfaVw2huXlh4X6W6WN2QdLTFIEWG94TbxHoXT5LY~XsIyW7EGkRtqLLWdYXVVzNY8rum4B1ltMDJszihse2aQimr83KJCj4f~K8TfPZQWHVuPq~YxtCuP4ObKKKLo-6dv6xnTixrRcys~VNmyeyUvZAhDBj5VC74OpenrRyOUTyOh65B6bmvnMvaM3E00IxT7E~ho6imsRnNOtwmYj8pcdjiexusGlQYnQtNhoI7w09uPm5KGw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/israel-size2.png"
+  },
+  {
+    "rank": 30,
+    "name": "Kambulat GUSEINOV",
+    "country": "AIN",
+    "points": 29.07,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/bb20d570-f4fb-43a7-97c0-0d488020b756.jpg?Expires=1767311152&Signature=cNv0IIXtLkmXjTdOS~1Lw8iTs2yFY3rVs9wRmMVqCT6H8f38tcgCHyED04Q2iyABbDWJJG9HYyXZ1V3jVWZutHrSHd6XFLyYE~8Cw6XmX4oKyK0EsXr8kFTD~Uj9ZDrte9NjkjyMM8UkCBiyufxVgLOTaeIQzGP1xlefS~-ho3p7Z~cbIFNvRDCxe0FVO-oDQAp9F-GjZgMVxRONSriZEtgecvyoeRy4ThRGnDqjUAyboobPNI75m9mjchyzaGpR2xFsnkrOhV8C0b8KWXrtLS9sv8MT1x7RYVI1pIG2l-kszdbojoiZOXVYuEHdbmxrKFpwZveID4YZhAbxzUKsoQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/world-taekwondo-logo.jpg"
+  },
+  {
+    "rank": 31,
+    "name": "Hamza HAJJI",
+    "country": "BEL",
+    "points": 28.75,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4ac49ca2-8a4b-42eb-902a-f5579be51112.jpg?Expires=1767359798&Signature=jpE-K7j4Cq4hW0-MbsJyo-9OYNgjvs4zbmmpJS6YXDDxNBvSPNsWdrHL9NmeCFSkRhKkZM0bm8KTE4oKzpzWepQ6xAI4FR0xms1ukO1DggEq6PoEVDrhodZbNmNHv8yKfb2nL3AQ9rx9SooRAwcEuffG6TSfnGQY5mtEZRZIF8ltKk8daJK6zJZHRBYvjKF0GhYUKP6aGAR2MuW954Gd~T4yWSgSORhj9fl9cvNeWg9wRRPVZ41Vhv3zDLKp~Ft1StjTUZXoo4RK7gixZZL0qIb66OHMJgdrlKhUTLDCfMXY4JH3O5e1epevta7dzgg7AxLivo8lXIW4bi9MfeB7kg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belgium-size2.png"
+  },
+  {
+    "rank": 32,
+    "name": "Hamza Amrullah MAMUTI",
+    "country": "SVK",
+    "points": 28.33,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8613d9ea-e4e2-49ba-a7af-bed2c5b4e489.jpg?Expires=1767310672&Signature=fBCDv7wJHafE4nOA~duCWQS9s5DLCAyLpm-1yXaloOP0VK61csEJAdAkhqaIWlEdU8Dj~X5fgKKWpjq462SHlLclevxQa2pwdRuju1LcVyLFXlQfAEc6MSheTKjTeB0jjuXWGNDoyFhBxH8A~aU9VZxDgApPEYru2bLi~msDCEQ2jqEjV8euKGPBPTPWmFZk6bUS4SFm87Yf4YLYyYP3BuDMnA86lTtIQy2mxA5A8Uic6wS34aVazUmCDF4Up~apibJriJrBl3kfYlREFMIzW9sQkZU8pKWeSOk-BqWov2BrXJXsUVsAr-UuAIUwxmCLpKH~7Pmrs0eAj1AifCNK8g__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/slovakia-size2.png"
+  },
+  {
+    "rank": 33,
+    "name": "Nicolas CALVO FERNANDEZ",
+    "country": "ESP",
+    "points": 27.76,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/286a9506-55bd-411a-8d96-48463bbca0ac.jpeg?Expires=1767311152&Signature=SCYhRer1ok7dSlw54hgpZJceTYzeFaxQjL69VcN8DTbnkCYSEey9FiAnC96yV8ezW1edwnwHvGmdDM4iT9EJA4cQaHVFDJ31AxVp09cqdrNBXG4O7wRt7PxIgbbj7tH22IgWurokr~6cXd74Ch8BA~CCPW6XhWe8I~YSjAJHVvzv58AS6JFhTgOrfft4e~FBdo9nwYXZwdPZ87gfkPgIO7rY75Pb29AXmQ4MJETZkRAoWngR~vOlXsKhSpEzVeGGNQnLYFsCLNgSH1y3GZ4CYAm2a~dokvYjlf21Gk6uaLt0eRVLsefR5Pf9M9S7xNdD57IwI65p2Q-RtBgJ52veWA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 34,
+    "name": "Novruz ALIYEV",
+    "country": "AZE",
+    "points": 25.92,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3da596a7-5787-4404-b1d0-e7ecb306573e.jpg?Expires=1767311152&Signature=LCEHS48ocnNdoeY-aROjAgETpVI7dv31rv~pLy3JkFzmclS7qsV~8ELabXr5o69RgPK1idp4l48xsxCRiH9L8ROgcY4He-L4t0hjhueeF99jjHjBZxBEnsee3LjvnyUujR33L5GFeJ4Mpf7bUmX-jcdnP-Fi3FTUK2WroBgJU0ghVi3Ca2bxiqb7zVuUDRfkP8ea9Q5igiGa86kj-YCdQ6ajP~NIB5qUZ2juaTrMGQozVUScAah8EPHgd9z39fz-8qpdwpZOgisInsuUfFnl0NEF91xjNGjSDkFJIaKv6XAELBu-n29uLyzLVvG1FZ6xJdB9G8n6f-w6F6tqDCYjEw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/azerbaijan-size2.png"
+  },
+  {
+    "rank": 35,
+    "name": "Andrei SARBU",
+    "country": "ROU",
+    "points": 24.78,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b1139f16-61b7-430b-bb3c-6fd01e5e8a0c.jpg?Expires=1767369687&Signature=jhrcEBgdFtmyMleSrqA2O8mEQRil8sAqBJ0Au0G2T7FKPEHqW5I0M8MPMNx9NbN~HoUU6dGkpqaRXd5hJAdgWm~zN-Zbhy96RuyyeG8lYjyrOUeJc6SdcR8imPB7fJvxv5gn8llox39vRGu2tkZq5fo70utNwjEvmzJrO8Bv~1lv2ZmGdwBW7G4dm8z~07ajYCHUA9JJHkSXsG3Nau~TGusjjdvU-v98kwToqP67xQC8~MhoNld6B3dPFBcgN1WR91smwlFB54Mf1Y-jqFFJhdBSmoLlkXUHel9QpwgC0-2mki63ZZpZMe~yzWQ7p0hz4uPbbR-rH-iK9XFZS4A6sA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/romania-size2.png"
+  },
+  {
+    "rank": 36,
+    "name": "Bernat VERGARA JIMENEZ",
+    "country": "ESP",
+    "points": 24.4,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f5972b40-c0e8-40ac-9595-add9a52c12f8.jpeg?Expires=1767311152&Signature=elPHYIpjJ1vPyHxew5po6uUda4obeFcqVOb6sZFU1iT7B3hGDMmw5nqIhDsLAZgm~xNwrzN8wZlXp0pSYAFxumV5pXMYossbN3TDwLtF1MK75v01NviSZalVcaFSzMs7y~AUAoNZ5TB2R6mF7xN5yA-sOKOXGE85bvzi03xJ9kRdSpXx~NI3AH0~2YMqYwTOsE~dEf2f1WFK4tOi3DUPfbwxdsZgd9cOMKOSH~wAKGMRVm7GQKBhbhYhSJyGrkeHLFCSX2dZxf0mNyByiC9WmPVeHBs1Td5WVNtBZLsOedeoiXHohqhUxptrM6TUBeclc2B1q7RwqQ9m87pkb3lyww__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 37,
+    "name": "Tomer BARASH",
+    "country": "ISR",
+    "points": 24.35,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d57a76a6-21ae-4a4a-8bf3-9f57155696d2.jpeg?Expires=1767340996&Signature=SqESyiXB3FM39ec9xvDCeFQ9UA48o255yn0MyOM7-rJLlnZWwG4D6D6Wco7RhPa7HN8pa5MplKntd9sGLJ6d3zpyh6Vw9DfR1AyBEz21MxNemhze-gqbT~as8hbKMtHXxp24tpN6Rd8ORhd5KuPOjBqNiPTITZRp-zZSoJwufXirxACtHspLQpXjCpvbuYrm7cufGKen3QskS963qMtOIzQbjE8e0eZyqI353tQFzVGP0EcJ8SQcYQqUQUHfrrJBgR37oG84CoR-wbIGowPQzKwMWjpv0rc5GPU~1cpXhRQyCAVcJikC66IoZHqsd6Qcruqiv-ER4vTl1uHgwWZKYg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/israel-size2.png"
+  },
+  {
+    "rank": 38,
+    "name": "Francesco CARLONE",
+    "country": "ITA",
+    "points": 23.76,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/922c7381-dbd4-40ce-b375-eb832014730b.png?Expires=1767311152&Signature=Gphw~AOnp~5GuCfZiyqzxN5cmFbcLavLg9MJFWjmwwr5eXUJGtMQp-Lv184ON862rz5BT~N940k9jrf6gCH282nNH2FRufmgrzF0ROWUGKChg5CbGBPdum0bGO-ZbwAVqA2v9zUdypLyq9I-zp0Xvfh8kZmP1NIhltS-0LNl4CpJpVTavVzZcksFTRKpHt4YDqvn0qScVE5xWLxP9MDjPWBOZdiyPssucJqHUd5oa-UZC2hJLjBjZmrrpc-zdImuePZZCSsZJfT8jNmPVEWVRMls099nggdZF7NiQtB9~uapKn7rh4CFhPJxiwxTxhvGDtvrRmI28Dufh0RltEtBOg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 39,
+    "name": "Martin MARINOV",
+    "country": "BUL",
+    "points": 23.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/525e3089-b3a0-4b70-abfa-d86a7c6fd757.jpg?Expires=1767311152&Signature=IpTrP~NbOgl6xKJpbxZymwZuKNg7OB6Yt7ZbVGXqzoUe6Q~RGNqDYPsUx1oNlB-DQM2iWRYczQVFNBs3v4bLJGmoTUwq~KhkT83AnGXHjzK~hDLmhRTdsEASPniAKUvYpWmrPtbQTk3pbAwtTTnySsOgyGIiACPL7P3aVwLVKGiLK6Vw-PilWyGKCw-HAr8aqu7Pct0ffVT~KC3Hnclg0nmECnsXfv48z9TrNbgjVSE0fx~3YHbpPlauX-VOZmo3B21U0OsV5kgR8AD~4UwHa-pTUkdasilz17L61d1m5jLCAzuT2h61hnqRPVpNBcMjS3gjGMw~y2HDh4-UKDgusA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
+  },
+  {
+    "rank": 40,
+    "name": "CHARALAMPOS AIDONIDIS",
+    "country": "GRE",
+    "points": 22.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8044dc02-e5b4-4ab4-8afd-02f203b6b8f2.jpg?Expires=1767305968&Signature=U8pSp3Y3bROaQYS94KSK8Hm92ce~4i6YNpNr0I~ruQQnvVuugoqgk7yYWcZO55LpnMgP4wjwNg4s3WGEMLbu3cgrLWTjbOtqdy-PZd3oEdpKM-Huhqzj9r5UZvbWoSj29h5SSpPjuRFAO-FWd2dvFy4maJkj2cpYI2scwMIn7nJUOg0r57lAhHpNTBJViCCn8k0qg0xh5EBoZrp244hV2asMgS4K5ndDRvCzFahUhfDClYNINhzZECS1HwY8rWWXvUOD9Rp3evkk2INpF4Z9gz~yh4mvHiqodzum-vPFlXmJWAWx-GKB1idElXizWg1M21tAxeBMS7gIeJ6MtVZiRQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 41,
+    "name": "Néo SAINTE MENE",
+    "country": "FRA",
+    "points": 22.32,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4608148c-14e5-4eee-9ad7-466691c634dd.jpg?Expires=1767346192&Signature=aNugDaURANSFrxQ8WXF3ETQnfq19zxHtIK-SJ9vGGkxvdBtZmQhh1SEJZGZIgvkWffhNM4u98CZnpgdY2BcASQg~aQT~hPjc885kDo0bOFFc5eLWXpjLRNrUnFL551C8x0C~RKTY3sUUyaUbslyT1NvXrStLowZGf9qjWlBgvFgAp5IwCLWEY96Rn5TTuQn2duHhzHvvBkt2791DPEPwXbB8FsyrfTbYAesQ5CKQ~8ap6NL6DyXqY7t~6tzqW5vkC7cRfEbixVEpmUIfwde12IJ9DNv0KsD4Yr1v7cDYlhHagQH2SjKHau7QrqD6Y0UWuXpTo5Ujai7mrMgil~I0bA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 42,
+    "name": "Kaan ILKAYLI",
+    "country": "GER",
+    "points": 21.34,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ea662b92-23f9-4190-aff1-db020e2fed32.jpg?Expires=1767304881&Signature=f-zoZYqow79dJtWUY6~XGiXiNEjtqPIxyZM~oRe0c22Pdn3w53EzRMZh7N7g8HVj8zFOZdJudYO0pedI1~ZUfUYCkYIJZFqMi65S42G8jEIFV9OnntbuWA~9JaaGt0UzpiRpzMT~4ZtW8XpzNoJMGWqvEycuaSC~lAdRCjuLuKszDZneS4cldurtio9vVqTjTqyo-KerjfNbc9WZIJOlTdXtHeYRAVZOEQ-yCkqdAvEbimmjee4D7I7ZRaWAFIg7yfD1DfHPnDmy46gKbhwFV~j8hxldNZUahuvLIice5cFct4JOEegwjIi38~SisQk35I7bEYl~ZP7s78x~UI-ybQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 43,
+    "name": "Christos Rafail NITSAS",
+    "country": "GER",
+    "points": 19.44,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4a51a9ac-1056-4f7e-88b3-e69a4960817a.jpg?Expires=1767310109&Signature=NzEiwkEzhACHZU5QrWipn0-EYVwggb3tQutC-Lq12bOKwpwJg9uWh9f-dCMZPtMehotg5wY314u-37TsyoYSASRiqBbCJl6d8Ke4Ez1KcAW89TWMWNRUMzs2rmVnvVgBlUDljUx3OAI505Vsxd59NcK16dCbKlElwVp1LGkDhGN~SYQIpsxRn5XM7fjnyr6TrnkgyKMwyGhkRlAVsx8I7QsGxW~pvwDGYY8vy5bmpZjKou32cAod5eCuoQ9O4fT1Ubcg1WWm3zWZIUDdjNZj~alsr~g~-ngs8SJOMEDMULyXaVZyjFHJDDsRNaAuFiIZ7Gr~xQ9u8IgdrpKxSaDRrg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 44,
+    "name": "FOTIS KOUKOUVELOS",
+    "country": "GRE",
+    "points": 18.58,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/649c20c3-3ec2-4164-9015-05c9d2b3935b.jpg?Expires=1767349679&Signature=EW8Vx4XnOFh2j4Hrjknlj9pjG1QBQR7~RvOjhpNccD8tVNG0m-Zzu~zq5y1l552G6SkNY2x0tbwxgkoRCKdPg~bngZTJLwbJv2~58znx6EoWflhUB6wM2r1hRiYWHJ3aNG5RVE3ORAUHr54ZsSDx6qiEGqK1nG4t6-Ybbj6lvxdRaXNtjZOphYWQttyatk7ashV8QW2IZBZBgFT0Op6KSeVcFfTLBcmKKk1WeLHPPfP47AGM2QHlBxbz4~sP7~wFM4FZDXQ5D42o-jxQiJ2pfF7IC8qiXWSShA-mG7TBKNrMOZPaSuqKVhqHBdhTSJCERJsqqPvhnH2CK0jrJBRtmw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 45,
+    "name": "David Valeriu CRISMARU",
+    "country": "ROU",
+    "points": 18.36,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/69010354-ba9d-4fa3-a674-50032e86facd.jpeg?Expires=1767349679&Signature=e6tdjPUQX8fRt7q80ouTQgqvd895Bs5FKxl0NLjXVHhuTgOLZjiMW0p6Umy3mnzyrFd~Z6JI6sUjX3rG2~SApEpuk5ktPltmL~tTHlirJj~DzVJaAfT1fXJG4mHvAQHG4~73xX3sdwmzOCRegrps-IBPob~1pqlLwO6fFA4ggKE5oHnNVHI5GFPcyy6o77Lhu8L5d7vULzi7l9m62-2V5OgJzRgiW5A~aBaowYCjm6EhkpIwfZQXYsSwV6v0uO5K7w0a3N7LD-32rUUA8TZTjuNnJ~gnuKvUZOMNitGWzKoL2SgBbG57l6qrRIU0imhZtiHrmWnDF3eWE~TPdvcFkA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/romania-size2.png"
+  },
+  {
+    "rank": 46,
+    "name": "Hayden KHIN",
+    "country": "GER",
+    "points": 17.72,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a3133071-3893-4d69-a448-e6364a93dc75.jpg?Expires=1767349679&Signature=WmZxmFM4OAq~2XmV26NW8EnrbMSwDucN2hhlmdU-ZqCkhMgkaVEtwnovygn9u8MafTL7QDYk23WqAhoCKzq9ekZwzstTBtHW6nVDgU8BmavZQVMymL~lG~Q-XAzoCBIcT2~ZOjIG~7usmgx4v60~Ffmn7dHlj7uHT40ptEWvChBeKRS8jXq67sC-RMbDx2tvPHKh0n6qcuM7eZIeutRi5Yx~ig2m~R4qy3SIPXRP92LzqOH1FCd784wDhmqe8~9v0nAEDd3oxi4TUHfOHSXx0mFnJc~orqhJYcLyhtuyzgnSTra3ha-IfH38uYODtZYnqeo8BuC7Czn1ALMU7GE90g__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 47,
+    "name": "MARK ZURITA FABIAN",
+    "country": "ESP",
+    "points": 17.28,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/da2d10c8-8ef4-4f2e-a02e-ce0cefedbd14.jpg?Expires=1767349679&Signature=LXO9nf4lXb47FCXK3ktGr3tHE274aZunKlrzNrsWcypi3fLi2VLHopzxBiD8eKAG-bKt9V~Xxdj9nFAbCs0jo06prqLm6Rr9YlFgAmG9HY~67K~HcXSCf1cOssKNqtzlqHyg8xZFBSaNhX-3sgWqdIEEQf1C9c~giFaycNeKQT0qzXr-OGTif9c~DVA0~5GKduwCa19RiZKs05GS4-4XAKMXRfCdPQlfJjie6IENDSlZkgYhZSh6qVK8rC1CAn8zsqG4zsdB8G-b752IFpRUHnevhCgitVEJ1swLBVlGVP27r0cNAcjRD14Xgh0Lu2j7Bbgju9ifpPRIkz-u3H5XDA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 47,
+    "name": "Arian MIAKHEL",
+    "country": "SWE",
+    "points": 17.28,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/50a64f29-cd0e-492d-8e84-a28cef565227.jpeg?Expires=1767342551&Signature=LEUcyC1LEoQKLw1oz3DYnREXbidcwrjBXejdHmRHEpLmyavKUPA~4VLhBXlykW9EAm6GQw47kHDOaUJkIjQ~jy3l8fYxOw5jegCVo6XnXVSdI73FRJh3RpHQH58EX02FHfzwufICwdaD06gdovw9UlLewFXOD9YXc3g-dcvgGJwRBIWWn8QPaIVf-~P8ARyFK4LOYZyPZtpQIeMVn7bR6dX2SGeb1TrYmtN1UuDc6kyDejYuUv3QXtm1KOvy6jlmL45vqXp4leCAGqeNN3A6Q5Eo526FD3twIi4U3pc2OHNTc65zT1nMbvo53ZeARRgPujTJi00-RO4JjVXDM8Ymjw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
+  },
+  {
+    "rank": 49,
+    "name": "Daoud EL BARKANI",
+    "country": "GER",
+    "points": 16.48,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/497f7403-5676-4bd8-9cd7-861a3af8a70a.jpg?Expires=1767370911&Signature=EYSZm5n32PzOOTIJT9NkJ6rSAg1IDiwAZ8MiK~5l-Oh4cDQYhTw9gtCNzWdLK581LgPxi1-1nE2Fviyz9RzWJZAg7xcZbVhEpcCIVQbTgX4IJj55iDZUmVJEdHnEywxWG4WkLqlnH2fJcg3qjk2l3~geG-9ojnU-m21rCOcOmvecDhCRjUzYAwdvOwdS8vWpmVDFZKsh8bDWv8PYzQM3IV-SGxdr9iYjUmuD-bRyB5pCltVfGNcNCtWmSHiyXM3g6KbcLYp~vxlDiPIg~2kgyhCVyNHD2BAU~g2Q7Jm2DvbnRKVDVJJefgeQpE1GtnYWVWV9361jdwOOyqSg~2rccg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 50,
+    "name": "Qaboos AL BULUSHI",
+    "country": "OMA",
+    "points": 16.42,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/60cda9b0-a098-4329-be57-d29f501b2418.jpeg?Expires=1767336284&Signature=JZTj~ZdN~gnLTjKcz57RUa8skyDDlfjEzyEts3auGEGrx4iG0y-ydyVR7RJhA1NFtPafbilNkMTxQzCiXwZlVm5iZ0hcuhKG9H8KfnSxnJ8NUfiG2bDTQUlbUvLc-vDiVON2wxHUwgDzyB1~c~e6gF7Mb8P2IiWSIGh6ClMdIDipmQpu5GNqxLaGyKansnxFJoyLF41pEWGvEa7a6WIJ350YlJjdZbe-yQaZJF7zLzX8zxVa02FvPVR91yUQkMEgt2gi7niLPLjfePlHPmGoNfQXPISIxIMMAWeediOUTWvFripxGzI9fAtXt2TgVe-0QFJxvLukm72r6FfQEi6fQg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/oman-size2.png"
+  },
+  {
+    "rank": 51,
+    "name": "Felix CORAZZA",
+    "country": "AUT",
+    "points": 16.34,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ea99d3f0-85db-4f25-b107-b3fa0181fbe0.jpg?Expires=1767353326&Signature=V~hwzDQN0tcelWmWx44pIXv6nEqrj6jeUpLBZTPEwrjNlLypqdw4FrbVoFcPD2E9mX3ia~F0XnXZIpDBCEc8NyI6WPzlc~J7A~Mfegdxv-5CR697EXnWYn06zuJus0hJYHueX8GU~FKowYnUgGKozR5jhlx-AOYpg2D-hGRgSSxVJ~-80XZVYQwuuolPrReK-zttXyfdSY1RWCz-0q2XYpdmXQUO75uMKtTsoogboEP0WrkEsEfx5oHp2pvIDpr-vrEWwMy6r0h4t4JIIqXgore-iERX8G4iQxw4mDSFe1QVtTg-zKos5VkIx8hrSW1ScksNxkkDHH59sqKW18iXYg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/austria-size2.png"
+  },
+  {
+    "rank": 52,
+    "name": "Abbas HAFAZ",
+    "country": "SUI",
+    "points": 15.96,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7ff3fd51-7498-4ec8-932f-2efc26be466c.JPG?Expires=1767385192&Signature=AM-jnrEcByOOET0Xx-SDEYKXuImWYot7HOUYbt37xryw3QYDaOD6xtEjhVsnIdlMkX1A2swr-Frk2UO9kuitWZxPathjv4dP-Dj8~ExVvDyo5W6w4SEarn0l0jLGntNqtkRntG60JJIy8ux93Bq2DhU-jUMDfeEoeYEQk6FieZbNkvvdfS9TnkfgB~ZdEb4Z5fpLRe6~4-UTVbMqSYYHG5hsxu9aouTjYuqLxSruGsu-WyWPN4Fo7bx5lasws9woFImExrq6E8rayPaCEC~V6iVitd2DQERTKz0PdbUlbTkVxBQIhlL5aEyqXwXyx5GW8gh0T1STSbiUsGFCAJVF8w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/switzerland-size2.png"
+  },
+  {
+    "rank": 53,
+    "name": "Uladzimir MAROZ",
+    "country": "AIN",
+    "points": 15.55,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/c2654e3f-b7d0-4292-97aa-3109b9c5dfff.jpg?Expires=1767311152&Signature=gZyJw6L4vkq2PEFZDBAKNJSXWumGTok33NQSBRpIswKJRl8K-quaxeyOU5EQeLb3r1G3Tc-gREn4FNzrl0NMFFOg73LKPlhSihLQcjPVD3uxHtxnIEp~Qra8meghgwYLHWnDo2IaREk5~MX4nb819Dp5ZcMevOfVCAJDCb2fUO11gQVjtFJ2FHj4ZGjK89tPt46XoiUTnzF8lojf2NFDBREY-xtXNk0P7K9YatOL5TXQKGClFADocUiSHaHX1Jr1h~RvncRJPjPxiF1qT435zXVCCCzIvjtSKzmZV0bjuPn2O2h41yS4Xa78CTHUPARpD6s0CcZgB4Yfmqp5u2tfOQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/world-taekwondo-logo.jpg"
+  },
+  {
+    "rank": 54,
+    "name": "Andrey KORNEEV",
+    "country": "SER",
+    "points": 14.93,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3fbdab57-d07e-4c11-b721-6d5ab0e61591.jpg?Expires=1767312169&Signature=a9djBZnQx8MgO4e6RaqpT7cfoxNyTRyMYHp5COm4G5g7IyiRL0yi8PEf1-0swNySctCFjrjH7IcMI-ksdEqZV1135j7WG~ro5wVTPp0UZ5bNa5886Us~cJ5VKrcNCKiDjO0AKkmVU6WXwI1w1T6ZCVVPr~PoT6YDo2xCuj2l5rqq8DNJus07Ze8tk~a9QAeZodnHSRA7Pz6HfGK0Rn~T~PVc14uNEXP1eie4Epl21KuGVu1LxZGhRKBKkZm20WBZLHtkb5t9UJYiTsYA~x8i~rxC0lHMqhzLIdfbAsdySWDT2LDFiM9zca3jf3ruH5QpdkOGbNbNFuFmNwyLpd9Q8Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
+  },
+  {
+    "rank": 55,
+    "name": "Kristian GEORGIEV",
+    "country": "BUL",
+    "points": 14.4,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d91cf3ba-c376-478e-a775-a7ec3da8ac90.jpg?Expires=1767386991&Signature=diT7O5rhnG42qM5qWLJmoMs-LqZScOwCNxgKaBlDe76PfH~r88v0G-93nGmY7NxcLFNJmCNipca0WeAbi~JMBqKa~5W3eocQnkQeW-YkPB8e-t8Osrkq4R-BtzNvGjQN~I76zqj6O0KnUMf~nm1JLNfnKs8USbFFZgAb9X6KCQeu~Zp86kbR6P~D09fAiqyLcgESm1R11CWVBLzrjpFUVScGXDKuOMMy953yDp9SOT-kt~9w9BAPhCrYug0R75VrdFi9hpZ4cjsNiwDku8GHWEyP1wSA-vwiemunmZaLuo~Mnis7niKXyyrKpDtJs28qOgll4vW9Lgt0MN37NmaGyw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
+  },
+  {
+    "rank": 55,
+    "name": "KIRILL PARA",
+    "country": "MDA",
+    "points": 14.4,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d52ba92d-c8bb-4289-b47f-358bf91c9c5c.jpg?Expires=1767311152&Signature=FZ-mmc2k2ZH2tfxyKygClcdOd14ZtOCGBknNI69ko1qwupw8~5Kcb15HvYkhTwc1WqnNohcUvG2FbTHmSsDmYtm75aS5NdPfeh6WNvfzPe06fJYk9Gd36WYr~CjYdN9h4Ikc04v8o1Gqf6OE9kbc-9Ib2EwpEQLxm8a7qe7frSDoaqq447muv8jVEjbJ7hHItk~Y-4P-UOu~Cd-LNrZ6rdM0YDSXVKYqDXaRfPOlOAO5hySY8TCwFXEo5By~BxsZMqRd~AFDP06YwUdGquyrDnkra1lQTYv4mpVBdQk86Ocj9cyIwlqUVBtrGB49GUayjucL~dvN9W2teFHpn8yM7w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
+  },
+  {
+    "rank": 57,
+    "name": "Tiago SOUSA",
+    "country": "POR",
+    "points": 14.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/eb6dde3d-7d8f-456d-b979-a53aee6c6e9d.png?Expires=1767378187&Signature=E9Fr3dZ3p1AfgCAjNYYB0LAbiSc4M5EHSyjIAG8HxXJKW95mJBrq0csBKAO08pbNvKftl6ieYis9zCSqplaPs1BmzV6Lu5xS83td5S3peg5~p~Er1eHhfs3H~Q4XV0VxUCj6fzllhaAulkLp6n39~2oM9yTDXBns3gklGHslrlpu17VhFFIJ2Rd4aVkwp0iIV4d09m5wAHtXq6ekCaWd~JJnSG1~3UqwXrqJGD6NRsOryXqXYDRZ8gyo215u2c8xQDEEBqi9C-byBjiqMOPxPzFWyoj6V783FyCjzoLSyKpTfp9t-4bIeoHD1TZc63ceYN2OiFJv4A0tJocoyBnxVA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/portugal-size2.png"
+  },
+  {
+    "rank": 58,
+    "name": "Blagovest HRISTOV",
+    "country": "BUL",
+    "points": 14.26,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1b2c0d17-0561-45ed-ae66-ba94b27f44b2.JPG?Expires=1767349679&Signature=ZcpFIErqs5G6K5rl0Yxp~VR2iWCZW~RHONC1yPPj06wFx7dYK3L0mnNcXIzGeVWfMGnXCa9WrSmgTxyVWD~XM3mtohwMxSEbk7~7jfFSdQ8EeqVQuOCsk-jly2PKQ242LYcalbo3TGPRdWxz0unIK4lWy0b7SDKE-LAX32dvH~o4MKJXMBh~Xq9on2RLg6RUpDJ~kqOMXPoWOxn9oRHqv2vT2BGhFUBsVqcicM3L8mK44nvlkUFSMHLlTdLjOoPk5uNhgJ7p9icBTWPHq3c13~phXMDC9ntzjSgX72m4zRUHs4Ez3C1wkHU-jmwp~EPyenKzDWyqjPekKjJOfBxCJQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
+  },
+  {
+    "rank": 58,
+    "name": "Nelson DEDEGBE",
+    "country": "FRA",
+    "points": 14.26,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6aacffa6-ad30-493d-86f4-9775966703f9.jpg?Expires=1767313606&Signature=dDbC4Z6daTOgkm7wjHA0hjzS2iVUMVRYLUGZckt9C1IcnEjHC2G5uF-~ofZq6kjO26P6hp-m4bC3gRPM381TwZCVwoWa1Fxl0lpsaj0yIoc3OBg42sIymgXckp5sJQnQX-eZJc3xnokX79jpWJ5WMGC39PXrpuPPsntWBKxLpA9MGLRSxA8g62AAFVQoKCsxgttsMjRFambfpX9uPpuyytWVUUr-lw2z1beLR8xXd61z1Vfrc-zQoTfQcBUF1rxrB4Ua2ZfAl0dudrSiNIAahYdNYKc0cCY7o3H34EK06LrIz9XR4qERB~LUVb~Mp7d9AiUMhKrLc9GDFEvlAPB8yw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 60,
+    "name": "Aidan Mohammed BHALODA",
+    "country": "GBR",
+    "points": 13.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4a56df9e-5ac7-482f-b2d1-962971ff94e0.jpg?Expires=1767349679&Signature=SRuhIC28jKtEEkII~SBTGhkLAAJsoQUJfC0SOdryoMIPm0vpK41e2SPgNX~5RNh5iFiH-mtIe0ZuWmJ~NVc9yUaSMakaAwCkuT~0txPZ2zwD-P9CPg7W4IZV5HSEYyO882nZ0dXY~mzc~2X-3KotlBi8k7aHE~CrPYrT6K3XXteTyvWrc0mzYQQl4GYh2-kFuhjiy-EBlZenoj6Bw5Ag4JPGCdmwLAsbiMIiaQOxJCBYCftT00hVm4C4WK2p1SXWT8x9A71hUYK0IqtKv6EY0fEA0mkenk2yHPf-sEnsOMF-wOTBv4cqDOY8IOIa7NABHXb0E0DKK33FvQ3q-wGgXw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
+  },
+  {
+    "rank": 61,
+    "name": "Ioannis-Angelos PASTELLIDES",
+    "country": "CYP",
+    "points": 12.7,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6398125c-3010-4c96-bf80-8b9c1eabdb1f.jpeg?Expires=1767349679&Signature=YnVDXKVM48sPv0uMXqGk4sssnv~Ibgq-KPt13B94JpAkosPfTRpy~jEumkwoT3buRTzPV4WMa3uVaL18guxlIGqgzWPEfYoRxE5TPQlTtxbB3c5t9xU26yJHi50HI4yZCzSPElApIdcSj5yhEOr5~~7qEJOaitnlpH34aubs3uvWnIT9ztX6N4KpbwN7N3YMDqpa~aln2QtFDF3o3yStHwUhtzLV9~pT14NqdI0ePnQTKtws-pEYfGIy~SCg31RGwAy4I6T~DJIn6xkuGUuLJdE2uc8Ol2DKoTzU2gFsZ5VEF2yCMei37ZmAhBCxOCg6RcRwWI2RBUjq~P91hMxNIQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
+  },
+  {
+    "rank": 62,
+    "name": "ANGEL AGUILO HEREDIA",
+    "country": "ESP",
+    "points": 12.48,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0fbec9fc-84a5-4083-93de-ff6c810fc08a.JPG?Expires=1767370304&Signature=B5~Bh4K79gjmz9hpK41B2LbW6hFJy2IwgjDCiwK7nh9okDR1F~W9qJov-vQPbCItMbKP7FSCZQKPcn0RTlZ40Je1mJ0bWpegjrOoqpU3SAI3owyI4mp-JBlkZXduxB9leA4kdRTdGRf5~IDdFrAp3caelVddDT8JV6Emk-fSASZwJysqLFz~4~XF-N3hXcU36tHbgn1X53wdnMJ-PWi5ZmXskewQiHmzoPUvUY3Pw98wt~0J8Fy7yYYQH0RynO8bYQHdNkwupj5ZzpyrHIEZCsmWN0fLc7m8EGnfSzbhKHxaL~OVQEZEytpjU0TO6nD85wG--P0l-ACm2ZpUcORwOQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 63,
+    "name": "Kerdan KADAJA",
+    "country": "EST",
+    "points": 12.1,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/c68c86cf-aeb6-4b70-86c3-1deaa69f425d.jpg?Expires=1767349679&Signature=aNmLM10dTn6xHU5WD1YdAO~rXK2XOrX23gm~xJ9piL~4gKxTHwY2PqfawQXoqenlnAGoXrgh6WXZ1VtD9JznadG8AV8fXUPexzNPAsS8kI4XE5rruJ9sckggMoVgrsHDHJXiZk9uI7XVt9zgGKzu5wnOFWYo0Ylmp3DklZOILPsklmkGcx5P7zgIoBl~ommHFuWyd53qS5J1PPmYoR2jIpBDH6GPzYMnNTZikolRhQJ6L0sBLBAM40ljfIvb1MYkhvSCtr8FkuVnViMqhHiLjAa7wDt0MdvORkg5j6CX~qBUuu8qkKgoU85-8YR1Ps6UU-EZ1~~PCOQFlC8LxkjCKg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/estonia-size2.png"
+  },
+  {
+    "rank": 63,
+    "name": "Alexandros KARYDIS",
+    "country": "GRE",
+    "points": 12.1,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/2dddb2fa-df42-46c9-86cf-4eca8d583f33.jpg?Expires=1767311152&Signature=hidkVSBB-l4SedJJbjAfYn~6EHx-PSHAEOj9~W7UB32Dogstz13LA0cEQdESjizcdTIUt-ck7wufCpBgyZmu7XlgxI2Hvxmmik6A33PuqNjuNaoArkL6JN9NNHdMh1uvp4XQLUZdsP27o344e5sMSrU6lxr5uI1hvbst-y8wxFChc5tmMZUT3GpGCcB64A0vv2OG0FihC4eFp3tXsN0j9dz21X~RaWn1SAdcOzSoULIoJZjz729cUU6JsNT~nSHZNq~qm69Vhw2PWN~6K8TPOqRK1shXuI1iVCdq8kgIHnE~gKH1KkEsfT0Gsqp2ADfokqamfAJfkbaR2h~CYgu5Nw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 65,
+    "name": "Teimuraz UKLEBA",
+    "country": "GEO",
+    "points": 12.09,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f622ef1b-24ce-49df-8dac-007d5fe53e29.jpg?Expires=1767349679&Signature=YAnOZ1BSxWkn-SNBkPpuVlxp97efDH0eyUGliskxeSU1ZcEr0bAFuwgLlG1XLRgFQ4kh7wF0Uf4gjFpNZv4G83Pn~qzrXuNmBZr3NO6vn1tcrWwbyELvr~zxvXGTqwQyoeyHv7onKVPJl0-0y1Pg2yhuJXY6~xdGuS-n9Xe1Oro7fjaEBuylFahXTZU0krasuzsOOX~fUArfpK-Jn54-cKV7FxLQ2Pxb-iUurXO9ZWSKGH5vFQCwX6uGOpkYQvJxYVqRovFVY0FbmKyOQgIWTu747ocw~t1JRSMBws5lp6eMgEHlpALMO7VNDZMklFwsF6BoKY0Yzjg8ErIJAYSvcQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/georgia-size2.png"
+  },
+  {
+    "rank": 66,
+    "name": "Iasonas CHARALAMBOUS",
+    "country": "CYP",
+    "points": 11.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/5e37da76-d285-41a4-afb8-5c3a1efacbca.jpg?Expires=1767349679&Signature=Zgfc35IuIDeW3blITfIjmySgax5vDEELEXPoHvTqW5MINC-hhMex1v-siroYM0Qh398sDPq3pre0tVIfiSqGKtfb4mDiHcGOQtQ77KjWc57AfWGbH7EZId1pWr8-Rmyh4-rc~lRXkYDqPHVJkcHHzdgn6v7gcNUQPkQftJOIrb22OU~oMWaO7sxETn8eV8YRZrIN6t5dbGKKm6-e1Xj3p8IXrfNbbFvbuN6H6wMYAHMe4K5AQ2ll-ui9DaNapKDPKfvHcaSZjnOcWe1sX4cYhgaHO8ua8hoyNXZgJmuuDB1DRfufPTWENXU83zGpTvC4K5v7PYmrryJVk~m3~iFRIw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
+  },
+  {
+    "rank": 67,
+    "name": "Vladyslav MARTYNOV",
+    "country": "UKR",
+    "points": 11.17,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/13620057-1097-472f-bf6c-5fb89d0b59e5.png?Expires=1767312214&Signature=CKvefOpWsGz9up8wUzwN1uZPWyeDhSzfc6qVmbd233Qj2ya1rr2exDjGkRojOQD9PcVHTOPzYL3UyNujfYPKRH7xF93LJLEBdXj2g~SxLJxWVk3A9gRQsngaIVJ0Rfu-fetrglWbqxHFkaa3rCNn~p2YLaYh9KywC-5iDWhx3peINyIRCJ9SpBy3e~2qAzJczpIJ6JxzPzWMfV-xJEkpBQsr79E7-TA8fk-rK9TMZO4sbHmmr0aEFH6ypfX78QIHTxkPnLBYLbuNQs8cEpKv9ccd1JaqmkmR-jhyGIPZiFvKJ3llgctnIq78Bswt6Mb-TURGf4-u0XtlUMAk2Yu61A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 68,
+    "name": "Matthew BELL",
+    "country": "GBR",
+    "points": 10.98,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/e8c274b2-38b4-4796-9ff3-51ba0073c4f0.jpeg?Expires=1767349679&Signature=d4BU85Eju-88sOeQ--l1sycl5nVYq~k3e5jb6j-6jIcWrRJeUrwtioKO8ROjiOpIRlmoSrJOIV77oiLMWSwXnabaI3wcWmzEo9flv~7JgGWLRUPhC~Y5XRg0DjTSemDvCa4R19VTueP0GTpzqeXrn4NJbDHyb1gyzolOGOmTWr-yu2VrBwInNAbpmr1BhwO4Plby2hV4pbRYMdkzmJos7MgXahT2SDqdtmC8k3I4~WNw7XXJP2Qd12XsjPZjvlJ3fZk99VpQJuiVvKGIgMlcWAy4kK-zzWhWIBIYJvYfvusVhMxtuw4OhWGjIZpsBm~DwZWtp~b01JHmNx4Y6nRuiQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
+  },
+  {
+    "rank": 69,
+    "name": "KONSTANTINOS DIMITRIOS PETTAS",
+    "country": "GRE",
+    "points": 10.8,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6d63e9ff-57ac-4b37-8641-6b89826e25d1.jpg?Expires=1767349679&Signature=E~dCJc0zqeMcmRKot9KmAt6Dsdpa49u6oJaz5UD3BKonWu357YMK6Hnu61RIhxXwhs0JCe5SzJXfJHxl4WvOhrX73y59RSYxldHvHlS0lY~qdfi4XKwPNmVeOfZxnrv5H7~BS~Ljx-hYXX-xlNNb8hyH6inHnKilgAXt2emaP7NN5-zlQziMK~7It0cj6t8ORFaW3DW0CeV-pFyHwiid5bPBsenVmFYPYs7QFs~n2-wEr7FMiZUQsqZhZqiCmtgxWRYWi1BBYkB~izOse8IaH5QGOWCVfzLGU~JcERhd7V3ZhEq04WEvPD7BQeRmj~I5FAs3C4mpYTNN8xGHLmW8cg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 70,
+    "name": "EGE CELEBI",
+    "country": "TUR",
+    "points": 10.22,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7765daaa-dfe2-4ba2-955d-917faeb7180d.jpeg?Expires=1767349680&Signature=YhnopDPBXQkmMM7ERMkhed6Dl8Su9HJY3wz64omHBOOeV3R2PgshbVPfwu8cyUiC9giD~FxfgD1UHOcYCSvzs-jFmuqPfs3jRAbIKImgJlHOqZBGL0p48TGEWyHsc5Rl3aY2NL5UhrAtiRLEveKb9jsz0vrS3qUexqc4mrv05PCBaN906YDhhGrZuGhvkHLAh49JxkUmoQOeiVyANB3AEJ0~FprEWTN2w7bXqszUUwIakm7JjaFXVnW4QKW2vkaOMziHeIY9wjjuq9l-Cnh9-1ppQSDUmbt0ajDnGiYxcUst29RMJH5wWoQQVTRldxJawVykqgrsSwy467T2Kr5Kpg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 71,
+    "name": "Vanja ANDRIĆ",
+    "country": "SER",
+    "points": 10.2,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f93aa2cd-6ce9-4d28-8397-b8e196fd2bdf.jpg?Expires=1767349679&Signature=CImRWW9-bILTs65gYHT7AQROPRQ2mIikYRw3Qq-Ik6FIzpt8oJZEchYruJ~OPxlNiO-1EM8ardB-P5eEOPaBbFArNABjN68Z6I-n6L-GT2cadyz9BOmHiMIbb76ZuDMFqAWP37msJGkQyhcdirSRy5u54~~DrTneg3hya9~JDHc6z~ZnC4ldyEgf176AGO3CsIJVrwwl6-lPvN2L392F2gj2aP1wA3bNY-Ae82VUy~Eqzyl-295z0tyYMk6Grd6AoO4eQH8XeFOCoe3r4eaYOJJ-ABn8Y2PnDzkShr3Ar0Qab4AmoLrA~5HS85-6Q1khu4B97AogrbxS7H~xPHLJKA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
+  },
+  {
+    "rank": 72,
+    "name": "Albara ALAMI",
+    "country": "SWE",
+    "points": 10,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8886aaf1-3138-48f7-bb26-b31645513701.jpg?Expires=1767349680&Signature=kPJQ4E-bAjnEn56n5Q~7KoRJPJWm8NGdLyLbN8dfcjAg2W97QUGAGWczhlNsGoUNHgyityb8iZ-fA-NXwHmoNeZk37Y6i0mayNcCaCKR25jmd6wo6soH498G3NtG-0kGyhF-gK-~qw2KHQl3O649CREF0suJfm1fwDgL~FndBSi29ktW1RcKCiHSTyOiD6W8YIZLdcbQlH0VFNmpeM45XPesbWUDqARDGTiLwxYSlNSuQPDfG4GVLB1A0jc4Ln3yNBKUNGEZMBJKrx3sSvpsw-9bQ3RR~77XuaoFwl4hMWTquLWmLxFpl6F757KOOuuh6ndJ37-UnS9L8cCGxg7pYQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
+  },
+  {
+    "rank": 72,
+    "name": "Roman BOXBERGER",
+    "country": "GER",
+    "points": 10,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/71f25005-9bec-42a5-b5f7-2c6228d465a6.jpg?Expires=1767386974&Signature=GHD9fORTJqO1XQgPUogAHeV7jExjP5gXvL0L78WqTsSe5Ue5RarbWjNqhlicfxNmDV8BqCHhjm1qnd3oGbUCcjnOF55972l2ngcM~AFA90q84Md1Mk4tsEVHfMiBfC4DPgNZu8hoXhVEG1l6vcEtp0WWTJpIPR3mIDG9VIY4S28XCSyt-9aqEzpc4833M9oa9MyhWiFfP94616j6pCqFYRVrLyPMt2xn~J9PLF8azIeHLUZLdRX-ZOjTmnZWpTCgGz3PBFWl02dk7-O2uFKc8LfgiSQjOnm4pYnTk6LoeLH8giMTX~U4cWy0EyFBbUUZgMiOglMW0aRHpgTrf3KIjA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 72,
+    "name": "Minsoo PARK",
+    "country": "KOR",
+    "points": 10,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/5bd5c925-6f61-482e-ba62-05e6426a07ee.jpg?Expires=1767349680&Signature=W-51n6WoxAXGPmrNOk0noutS8kZi6LMZKXkCnKJ7mWYnKOD5XRn0kC-fe3vvPgwx7Yjww9xXZSzVOjkcwk5F2OtcNXsVd0PBJ6PUJQwDw6rlG3Wa4DzlLxq3hTLWsw4zDV6oVXHHmQ7zQA0Ep5cNOgeVbDmPw1EQ2uWmUMN93CCiTpxobzToPWTY3ah0glwsrt3ZfEnHfFPuuUh9KyxYEbO~VHwpQvB24pKNTSwtmAStf0CpsWrjAs4aS1PP6MlsvJ9QVN8X6aYKuDm6M0GyBsiaWUjWQD3frmgWmlZNIHDiIaYSvvsYxu6Bnm4cqGFJDf9mrvgE1tN-HHEg7yCuWw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kta-size2.png"
+  },
+  {
+    "rank": 72,
+    "name": "TEMIRZHAN TASKYN",
+    "country": "KAZ",
+    "points": 10,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0c484991-fa37-457d-977a-174b5917a410.JPG?Expires=1767345148&Signature=C3ePqm0eHfpYePXwwYQvq4iTKRj9bL4CzoFNW~lspdKlEZ60gg6sntgJE~7~8yMnhUrYka6gXT5Q726wA6xURmE2ZR4yO6AYsvUKguwLKqsfxkbiRKerzybsWoIXWcU6u7dpI2zTlHxV4mQMMpQ0Kl7OjNtERK1DleGTqpbYkg25tvP0imYaGS0uSsTzOVcRnsh1Z3O1ie44NPRg9PaNLqovez3emyMj~pgv-viiSReZwGnUdQyLPAc2iLvrNhzrph3LVr6bZNDB6ZtiiK16jpMaodnsjGGNxDi7WgPmPJ7JmqfIEALhdjJkI3-1P-iGFiEnG5kD3hR6Hi3Cn-m-dA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
+  },
+  {
+    "rank": 72,
+    "name": "Thomas ALBANI",
+    "country": "SMR",
+    "points": 10,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b3022f39-554f-43cb-ae9f-ceefa9714b11.jpg?Expires=1767312142&Signature=CswFdIIm6JjQU4kKkhcQP~yV4KKu8uF1IO6nua8So5tdFv1nCgD8aKfw32yDp5~0JHW8C271BSFo4vRhJFFzT5JoDTF6ZcwAdTZ6JfI1zst0deWMhzJesnYaguV-1NhrllJltK8w1QfzPPqaQOTz~NdZX33uzidWnafdqSOFStmolXV~0Yhl1or4fz3sORFu9wOPSFNEMgJ-JT55nI0oyrjEzt~SjGhUCtFaz6ErvXWe4CHxwL1eOEpifkV9V316Y-4fsmf0HE-FA6157uQlWC2IVx1YCAIMr~9-diMGaUXKhb4Xyqs9bcBZNQo2-lx-iSHNn2kJ2JPgWpaJQVUtzw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/san-marino-size2.png"
+  },
+  {
+    "rank": 72,
+    "name": "AHMAD ALHAMEED",
+    "country": "JOR",
+    "points": 10,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a04a0f29-f1de-4fce-ab0e-d551d52477a0.jpeg?Expires=1767338046&Signature=Znv5rDM3VG0py2Vl~eaiXkd1T5na5JIyQze6YjWtgXE8Xg64YZKPNsgeoRIlay7PZXBYBw4jOKcnJtbup52ddjAH~7zlMkeL9Zy8BdCT6DhDlTSEOtZlSx3cMxNXsycEHhful6Ol-DXXejzn0N2W2xAnyvGLJx5wue09ZAuLaAlxV7hRcyHf13Dgi~KzsTXoeSfUqopmRdWlah9ZaHILcv3tiGBZSpgxt6J84ImSwfbSyIKtN9grS~2BPrY~zGe4MJ9TolU4QcEYP6TPFUeJQy~XYed6EWokKPwJe63USLeJrRovlfeJXjub6oXXTYUDfd-CZ5eLF1OHBK1MmP0xsQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/jordan-size2.png"
+  },
+  {
+    "rank": 78,
+    "name": "Mahmut Esat YIGIT",
+    "country": "AUT",
+    "points": 9.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/82888b51-1142-48ed-bb78-9b765954b149.jpg?Expires=1767354965&Signature=RVHVvRsgCc9zqeMU-pb~YNtScgHBKUymn6h7TA8riFD3hMnhXWJGwlbBOXoh11EO4k3UyMmntgNqvaMd08m-SXZPMUPyQyaiGceCMqnEpRlb~LefeERy0iifEUHXYQKoLee7vTbdiwH4FjoQ9-SAiiz-ErfTbhHkbWaH2keDMKRMhaMUUwUmKx0f2mQ9ELSZGKxaP2CYiv5ABeKmXcPxTscpKHQ7aAVB1xT~hsoGBkZIBLXPlWecEEZ-Ln7i5nM2ETfkVcJ42f4L9K0RCniYgeEGcmSBvPHyhmkbCj-NhwLq3S2Cd0NxNsAbKfHI1ENllaOVgqxxmx5oI6Vk4YyJFw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/austria-size2.png"
+  },
+  {
+    "rank": 79,
+    "name": "MUSTAFA KUCUK",
+    "country": "TUR",
+    "points": 9.5,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6dbd63d4-358c-4cdc-8943-6ae565160f69.jpg?Expires=1767371288&Signature=ikYio2L2kx99zl1bqMexKhSsOfjZ8dYiGL19iG8qumSgu9bG-JgveJuETGmlU16RbS-C4Ua1qmtKt60Hk-FUDXouY7ZK-lzPHQFnJsrb5Wxu2NAAJs544NAjFERVZY19gBqAowaM6Y3ChKCemOCCVfONpYPpcwL8WUI4xRsZcsRv2Ou6CRU2nnHP2GrCRtYWXjAn4kIsbJVTBkxY-1ZecevJDjlyogI4pLHHZcDy7UBithysJ6CfUfKGMuj-sgJeEvJnwSGIxTsNHOd~ImG8hB8FpTLFEcghHzNb6YjCXpqshZxbFkA7S0rbs2IJgmdniL1yjcjCorSSnHCR5V9OtA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 80,
+    "name": "Tobiasz ORACZ",
+    "country": "POL",
+    "points": 9.07,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/deda5848-0936-4639-a8a9-4eb8e0b35a75.jpg?Expires=1767349679&Signature=UTQKpiFd93wgGj3SMvKYfrpnuJxkROkzLaVCCZslrurO01uX1N8wpU7d--RuplVY-1sQ-XDkgXcZIA3RUOUqedwaD22QkVhMzu7YiWzB7-rxEWpP2gPBNfV7OwkjpsOqji1yssHh1MRe-i6OEAawdwMSPnK3rE2KLEzY5ib2vIMeKL99yeaG0-zWsEiu3nfUM6uuNjYVXV~8gBHsZCj4nTOsat2mwXpXABDE4AiyE07CHoMqdEwX1LlhtPNOZw~Zsb6KmM30r2MNvkek2dlZLfN4bPaeA9EEMkVLICWQ59sTj4mHlIW04wA3cEX4xFHtwuCzb7YIL-91sNIenpE5Hg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
+  },
+  {
+    "rank": 81,
+    "name": "Bauyrzhan ISSAMEDIN",
+    "country": "KAZ",
+    "points": 9,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/48446850-a344-45f5-9914-c74f78611139.jpg?Expires=1767386991&Signature=Xy7tAIILgbhEULFvoaZ64PPPcOiqwqciwzUU6Z5ArjZ3jN-uM2HvJyzsvHgrIrexB-XUfgwQ79g5jXff-lsFo8AnFosJGo8NIgtCCH608KpT8YdcXhSqbq4xYmzrnXap5OMEMFrSrgcCbHE4f738KF7A2oHeHJ-i3Jg42QKjDNGW9sB-GiqaQDyy6hBC1NqrFxKCY8IWrMplePMu~xKpX2jyHic7WxCSOaRPS83LmSqTvJ9k0iKYe3kCYWv4G9DWVdRYPtq1ydk4nYWL2vmr1s2vWk21Z7Ag9nD3yPWAef~YzzLlodZ-mhSMKQiKImqPEscsbwdUMbUYT2CxQFd9zQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
+  },
+  {
+    "rank": 81,
+    "name": "KONSTANTINOS FOUNTOULAKIS",
+    "country": "GRE",
+    "points": 9,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/aa5907b2-2dd4-49f1-8681-4f68e5029395.jpg?Expires=1767349680&Signature=kRO6ty0XRGgrqqd5RCekmLyzlttiyaFAroUQxBnO-4UpA2iX5f-79Ghg4rbbVasDhkC~I~ahGrLwjiu0TMnv3nDgvye5KAuCM~uLa31m9H2-t~HtbBsr2RTse-DtKKtnfWEief6Oo69xJl32GF7XnNClvMNo6-y9mRfKj29WIGd9ltSyUYXOQUJ69KyAjdP2WjNDusZGf4wKzQ9p-j3nM1Ze4MxhPvN3HBoHscnm~SnLJNLPb7iLrTmAC8wkeq4upVG52GFn25OvC-KWcIGWCT42wi9gQJj2jm6ZCbQOP3LByt2yu08lkv0X-fZJ7949J8AQ2-Twf0Sc6yAl7BQ-8A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 81,
+    "name": "CHRISTOS BAKALEXIS",
+    "country": "GRE",
+    "points": 9,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/987cadac-f69d-4373-a1a9-7c7315cb1e94.jpg?Expires=1767348832&Signature=hoi2OHfzxI1qqi0UIURiQc2n4yyPAvelG-BdyiTUtJHorbD5rnK4fAtkObdIkoWyRIlXyCh7RaOAbjoLK5jQDlDbBxEtldmI5sBxU-qLkOX-RPrB3cvt-y4LiJGL2BfJIyqvZYHEjTXwX8rvI2nTUri3hmIrCgVwe-08t5xMcw4x6RdVL5hpJEZaKK3G8XUnGKWTn4ulQFSQ27SfoSSeqogpqEfjkk8O29hTk1BjWHCzBJVTVZ3StK8gYzxV3XVpZJutLcgL01WG6xjxkT3SWLd2tk09~KFKqvVndn7tOcALWp0oymMd8yOrO9rWPn3RUolSV5Y3lKT-YgWrXlK~~A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 81,
+    "name": "GEORGIOS MICHALOPOULOS",
+    "country": "GRE",
+    "points": 9,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4574144f-7603-4b2c-a95c-a305faabc6f8.png?Expires=1767384928&Signature=fRNKvj4K-dCzx4KkInASr2gJyKIFOAnEoL7Ram1yAi9F-LQxJ5jMjS82jvTxU~BO-QqzEEtXRzdIk2T1wyNW7mrhKXIp1nNV-QiGd6WwbwUTRwoQAkDccqVS1yjE-3wXxnJV9DoiyCkSvzTGGQ9ictIiw8QysdykZfXCtqWDGVFMfZtaQfNUSm9N~RSb412zCW0NS-XP-tfUfb-EKrHvyV3TraA5q2lSX8c-nEec2b54FW-WTQRAuY4cYDKwKoI1w5kqOKfISrWtxWUGwVR8WIqk-0sLzIqIlp1V8Ski-JRStjSX2pk7fmi0zeLQoG64dXu-YlRdSeyfCOXPXdh-Ew__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 85,
+    "name": "Matthieu BULOT",
+    "country": "FRA",
+    "points": 8.75,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/edcb9c31-ee79-4ed6-b4cc-03f34fc701c3.jpg?Expires=1767348832&Signature=iwMAbgFEvR6wAPEIZjMKjydQXapf66l6QQrDWaoDtKzbjgMCDaNzgPkjGgxxUad0FPC0r6vJsH8rFwRZtFX7vhhrgtCDgw3VKLEdkE7ZourpK2LySgpjCS7SC9mgzGc7qUMJv6dicFKClSiNwZn3JIAXa78Z4z5729KHKVgGc9WYieMZ~69BCwQI3ZNTSh12-~zXGqeNKOG8KWPEFfRwVkWUUR7LJ3QPfqmJYn-L1R0kyKvNfqNCACoOlQhNexogeY4uuKwu-PlrMwy7JbT6OXGhT8lHVyaEtUfPq0fnnu8lBPOUkthhyLxuJgbGkXimt46-ThK4QcU78TSLBtZRLQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 86,
+    "name": "Ekrem ISMAILOV",
+    "country": "GER",
+    "points": 8.64,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a42eb43a-e44b-409a-a17c-b1eea8db68df.jpg?Expires=1767359512&Signature=dlQCUU-haDP3pApcstIxHEO~hm~ogINskawzf~ZDYBsQ5cp8eaJShmEbWFnRlSucGiyJEOO9q-CwaF2CkeZ7dR4zyxFs6tHVYCVDJSpPkWQmmkWE60H-9GNz8gqb2Hv8XmWlrsyag-LvkJzUB-~JWLy-5UNUrjadJvFquntSGu7b8HFRzJ839BDhNy56bUpKu~31y5VVOaWqveuXHdl65s4VzTNZ8V1oj2cL3~5enV19v5ODM8nwtE7fxSbrvpqRdavdN2ZXOaXCIJoXu3RS5TUUJMICsITJU~HVIpp5bAA8b9T5I6G5kktoFplzMioAt~RMT2oZ9igWm4hl3VtgPA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 87,
+    "name": "Alexandru ELITA",
+    "country": "MDA",
+    "points": 8.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/115b9372-72db-439d-b7e3-9ff463c2f8b9.jpg?Expires=1767349679&Signature=GtR8CfRSHa3wwXDAo3eP2zRcTHzh2xpuWDEdKFdE4-Bvz6~8LDfC25qkptMaj7TDqbB7hdS-1IqAxeQ57NZvVJUSY0VB~gXwNixV7Az83Aj9xZi11szj~-FNTwGvBnoBmJTw7oPZoqCsZCPvXH3I4AO49oA66k51dPTNUEpKFGlmAwkHCu-8kFKy4oUS4vDxei7TAlIXTrmAIbJ5iHpOtee8411a3VJlGQFJv83bm-hbu5CwOB8ToNjrEvZxzhbpzB2KlYX0Lo2Mw3GoGagUNnAn6wzVXOSuUiEVbyj-qOXRW9PDtwebGOxiNI1h9~v~mOYkBFtMnzsVsCblwRDdNw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
+  },
+  {
+    "rank": 88,
+    "name": "Tomas KAING",
+    "country": "CZE",
+    "points": 8.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d89ac320-0986-4898-be8a-bd5a9827fc47.jpg?Expires=1767349680&Signature=CDy02Bw53DyxtaUJ-EKSjEKtqjiy1oro12n~do2p8PTrsuYyAUgETrkyaybnXDuC~OWONAr2q8VQhDaBwiNA~moB7rueApFuP7mrJehXzDhU-sFu-~2W3aJbk~MhZQZd6sFIkb7ukGgZVOaX5has6X-lB1HNjviJ72hsFoxy~1NfMvO-5SwBCEDWUTTe~5GMoinJZEDUCw0CuZ~KRNXyZWqMYkovQZwHsBT72ofxuV-VcE7PLoj-VkMp3~ILeLtEvgH6oC24008sTNaGCaq41OtjQYnNqHNEOs2p0pkMZHPwV29ci9DXkkzQatFTc1nokWQAopLPJlU1lzmeo-d8pg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/czech-size2.png"
+  },
+  {
+    "rank": 88,
+    "name": "Luigi STRICAGNOLO",
+    "country": "ITA",
+    "points": 8.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/93a4f18c-a82f-49e9-9678-89d0cdf05030.jpeg?Expires=1767349679&Signature=A9KLxajCth4R0meH6y5QhMRGfwDy8M1HGOeQwGrfI7LG4K8QY0dCrybGJ3CW0~DE7005rzVGmRmO8RNSyvuDYWr4htDsdCVdyiVRaYLRZS1w6mX6mCCOPbVbmVYp4LqzUvSumeJDPnepuKewsHXrPnXbyRup6-u9WkmmpTaembPUuzteJPuE8IR0KpP0itWyBJl026WSH-anPkrW1hJDxglwYruu9A2cDlbEIeqMz-zL1QjLAG9Vr471T8Ay9AW92QPGlgvw95TYH-THM74L10mY7e-Bs~3eN1~DCGJ4u1sIu-vVb2uGmDNktKb-ryZVdsyJKCmBpzt7Gw7Fy~QhGQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 90,
+    "name": "Eleftherios Ioannis TSOUTSIKAS",
+    "country": "GRE",
+    "points": 8.47,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1ff41b89-704a-40d6-aa68-5ebcded77b80.jpg?Expires=1767369711&Signature=Vd9PA0cb42QorsC75lvqE9ctcWAz0GuKNbCWTssFpGaSkVYJ88aoVoTi1up-Ee8vySkPwXQi0ph3axJWMi-MZjE-U4oYdX5GU1imFuq8YJsXkvFjxWQfAKHtnNfJZ2a5LRjnI2jOW8sQplYabe0PTTPOOnAh2jKc0KVFQlOx-8NUTeh4j86SSXG25dxZCo~~OGWVhKzYJkihdTuFjw0vIVNx8FBUz1pSBEkJQUKJCcEXvPj8qSnWlSOUqFItjNJWzG21T9veB7ZAOAMFO~9-ghThv9fZcxeed0nc8QcdH8yDhfW4UAHWAZwSpYPGhthVdjI-VLr6dNycvgVhXVPELg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 90,
+    "name": "Cameron DONE",
+    "country": "GBR",
+    "points": 8.47,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/af2aeda9-879c-4a14-8358-c65746166a03.jpeg?Expires=1767310672&Signature=Kp-n7d2b4kt7vJHsu-bbaj2xHtAuNVN52ko3Ecm0jv31N1WAzZ~GncTeM7Qxpiv6cNkYFGDCt2-KswW7rbsJuuc66gTKBhLqn3f1U1kU0AMmKdcBVCfQgkhFwRMHFLv0y1clJ6-KrL9ub12J989InxrqJSyq81fSpMGGDiyrnPWQGfiftTb1WgItu0Qqg~Dr3mq88455w11x4MjYfDLJJ9f101iX--vw0lgimfSgEU0hrGYKWeLA7APaTJUfX9wllflBVi4gVBxpDGiWxxkkSX-6LFMd026mTcbos8lC5Hets0BehFEig8zlOtRhcBO-X4CgN43xTvfqpE5e0bh2rQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
+  },
+  {
+    "rank": 92,
+    "name": "Hristian HRISTOV",
+    "country": "BUL",
+    "points": 8.1,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1c8d5ef1-39aa-454b-8e77-a9c70e299f2e.jpg?Expires=1767336901&Signature=e69CEtRyYKzLD72LNdeokvFLd2eFqqArhNI8G0w0p-GinFJ23D66~2wd2d9BKfv3EOd0INe0prudXoMinMiAbTDruzoXFkltKuq3yjaC4Xo~VLxiRxLsEX42rtxye1n8IcgepMCZHE03xRIhcaKQ0Q57uOM~eWdq0gCoTbwHZnruD3yqTvfJB1bvjnqs20gSwVKN06iSKUQi7FAYEQ6mEJJhqHufr9DwUR5m~AbbumstR13xDmcqXpAZ2AGhrYnnOmhFypa1z1hTGDtJ~1g4erL79tdY9wwEdnFAItWorzMbkbcc1KQglWPHBIOZtdHUoQwXxN4E7tw0MdTArxUN9w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
+  },
+  {
+    "rank": 93,
+    "name": "Ben-Luca PÖTZSCHER",
+    "country": "GER",
+    "points": 7.99,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ad3d04b9-441c-4ae3-bbe4-accb66baa871.jpg?Expires=1767386991&Signature=DUgpSNn6tBVHRY9MXwt7UpzM5LcahJoTSRwxqwYOBRVXlc2ypTpQ-4ZZ8eDI0BJ4Xymc6KrMkUjeX8-P2rUjNQvit8gA7oGlfpEIbDZ17Sf4M~FWBi6Q5FyweE1SvJVS2nqx3Fnjb56wcfsYLQ9op8CXRd-4tNbc-aFTsB0VH~OIo22IoHCzFwp~ZkCoizUdIqd6GYCyoprEXZFMQqvP2Ku9Xvt1~gZ9dZQ0trGKHL~EkAP0qbacfB12LOB~fHvYGCmEMiZwmAMnn9edZt~5ykx45qUEnUaSKKyx3Xp0n2vdXX5N1oJSCPC9~vg0bArdSEsOLegoVxcgecMXBokLBw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 93,
+    "name": "Jakob KASTELIC",
+    "country": "SLO",
+    "points": 7.99,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a9a7eba0-483f-4d9f-9f06-c09103904c76.jpg?Expires=1767338054&Signature=EoWQ4hjvG93sLInZqCmQqZvqf4xNIeLYjOOZgqBKMINQBHUJ8HtXJR8XFnn26WO12SKjN-kSTrHAzGe2~ZG2o0HunIrUBFTYAgPXBr6r1QgCm6gtQ2c3-BT~KZGxZ-w3cm2ov9yi52YQ4SMXQqYtzoAuuuy9fPC38xwTeKvj~obJ4gueAL0QRfYGb2hZesiHUdsj8VtgYQX9lhYAbizq4NXcLCz234JfBz927LPy0aHBZVVXnVwNt0rMq6FpG1kB7oqnf7XYfJeuRCO-vvNR7VYorUdUYXdQpTvPNsT2UDRx6DEyWZNI8lA0LtHccZCU5h0l-zmmua4csO6Hm2selw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/slovenia-size2.png"
+  },
+  {
+    "rank": 95,
+    "name": "MIRAC ALI GENCTURK",
+    "country": "TUR",
+    "points": 7.78,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3911ac1b-5767-4356-9931-3946746c07fd.jpeg?Expires=1767349680&Signature=iKYeAhbunZILonLwMaUF6pW22lr5m06KN1DvJO0lTwzlRMgNUQuuIExVuv~rdhacRSSxO2VxGa4yoByFYZKiIhjTuq0Kf4Do1w4AA4eca6xB6-82QAk3pBp4Kj9cX7Df46iCg8kGkKDr-UBJJZ70wNOoZm0q0CzCZuWlirmhdw8Q7Q7ZvH9CMvoL9XOcH0Ty2tmlHHES4Iz9Qbrwi1vvbM4G1NqAFMxdRZEkeC0e9K-Xm9n5jXaN86wKVe6j~sncMil3yOfYduqc93NVBEVyqxtHrX7wod6zolduYxIb9RtO0reZmmhjILsmYZnWcukPj923ZBn2bPVb7nd7V1TzdA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 96,
+    "name": "Yuvaan DESAI",
+    "country": "USA",
+    "points": 7.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/657cc6bf-ad91-45a7-8473-cd59f521c1a2.jpg?Expires=1767349680&Signature=AWjyrrmwBdyiPsLFdB4pMlNUuTTm9wI8CJlknfDFXJleB4SMIfn9ccuZnKC9kanp~rsMfKI31-YGak94~7E4HriEqySyTVEzr0iq12erM5aqrn8w1dq6SE49YIEtwZitFbqoE6aqLww8Tm7zJeuIPUwrcocGwoIwqyzO2doepSA06GrNiQaUeoUzeUANl7oUVik~y9ViMtNaL7zSxoo4JEuCn~rhIKz29mwUU~ZB1i0CCW3CdKKixNzHQVx1okaNDM0P7UaEvzN93eu9dWnk2bgduG8RlezAq-VrNrGTHBIL7Htxyo6uwHaS9pCuf9Fwhf6cfR87GbeLfo3joKqLqQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
+  },
+  {
+    "rank": 97,
+    "name": "HANEUL LEE",
+    "country": "KOR",
+    "points": 7.5,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/27a41623-5b50-4ce0-b38a-42d672b62106.jpg?Expires=1767349680&Signature=KsYnpcJQyFRMRxij2CTBotevo~b2At7UI9mbuR-6TqUbpoTUJ11bgZaI-Q4otG0j5aGoOxzbRqAd6KvWRac~8CxwOLcIDkIiBXONnOhgRtKaWDLN88ALiRKzQJysk6qjq2CxV15FDsfW6rqLvJZ7MJiqQhcy7dSokldDZWSjeFkAHNBdhpvJL6a2n9tyrT64j4AkbA2lI3qx7fXOCbPtLnBCfRinhoKZqigfC96gwtelJBDUOLY0KOqGtyj92E0cwI3ogJWLRbBwvM4WNfvliUul00JPQX7K~ahUuRTEC-~MEcjZwTYOqXN7vS-XNUnvGbm1upx~dI0e7OFx7D3HHA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kta-size2.png"
+  },
+  {
+    "rank": 98,
+    "name": "Bruno BOTTONE",
+    "country": "ITA",
+    "points": 7.34,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/2242cd96-b47e-4e62-a18e-8e5edc688167.jpg?Expires=1767349680&Signature=ZD1iXRUw4q7fFhPJGeDkpsC~iByQokrAeBDW4LxpI1-FFb2HZOb~VkQlVMvhjJnkZRIPmakDPjz3RDvjdMkPtA46aTD6Zwxn4EejS8M3S1V52nLc0QjJpBHHgnnLhVXgTXDqlPR-mmIvW5Ldh69zerGb4fdL4J4VE0NE-tV2r2D0bFUgt-Heujpc~aGAC0ld2k4q9VtaGPwHBY5hzUd5UZ6ye-9QUGFRMyLtZsFiaxtY~9NRAkYet4Rx~Q2jtmQjL-EBZbb2RKlPufKCakLfuPAf4hBcipGhH6Np2jGgWFs4xc7aCJhsaGAJlpuova4EgWbUlJXysZdpo2nNljKcmQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 99,
+    "name": "NOOR ALSWAITTI",
+    "country": "PLE",
+    "points": 7.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/9717a065-f9ba-42d4-8d8c-8173ee9ff018.png?Expires=1767349679&Signature=jhVTYbYqb3mmlj9~TRWMC25rPbPKrUL63bjOroRCI7FAjt7M~b3XEU24oWmyCXMmzvIkI~RcNm17aJ8vpKetYcl5pKS2G9ntF0V~pPYS0kIlxmvEaI2IifzRbBXWAMBkaVxe5FFdmXwHdY9Cb1lT7vNXvPxG3C86kF9kg~PPUTTVnLJgKiuFylDw8PaCkWxYrAPQ03A4uhW1yniwv6JFfuHtU0ny~f3E-V~oTTk81DPehtrDZncwnLoEMoPSqH4YnvvaRfB7buwLr3IXxH6R~3LzX0fU~aGpTmH0wyqnnNNcIgnagZQvHvtACRCWgRbGCnWbBcGokQPqOjklHd93hg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/palestine-size2.png"
+  },
+  {
+    "rank": 99,
+    "name": "GEORGIOS IOANNIDIS",
+    "country": "GRE",
+    "points": 7.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/c899873a-2d75-43d6-b19a-9d949d34cf3e.jpg?Expires=1767349680&Signature=HQg2fIwdgE7Z0B~ewBtYXybAT2cQy55jzrXzTqVAPRaflQ~pXMSK7tKygmPOigl599O5I4KVR8amC2WQBsSnK0RNVscQ~TwScJ8uLpU~iR4KZNWlL7q-LZXOC~UHRVKTwXjL4U7nhy53QZ4jHj4eBhYb9SWBePWQurHw2iKP77hSwfBqX5CZyvml1EhVOV4aIxzsntipwf3l5iW8IGoXG0QXv2Mg9aPayc3GG0YazJ6lphzMuQDMu4Px9rUQGOZAvyEOvnw2GnkpcSjqWeZAYPWnUK8fyF50LnYSj77vEerfSDkPqZtEzvryEGKaGbCwcFL4C4TMWNKWum~VyTCxbw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 101,
+    "name": "Gabriel RODRIGUEZ RUIZ",
+    "country": "ESP",
+    "points": 7.2,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b88d102a-6954-4362-a271-0f789ebbb49b.JPG?Expires=1767305973&Signature=JqQaD1ooIHtOCt2LtEmv54Fxlv9IoNPTnl8GqOJC891ZCcTtXOHD~U3eOSdbaxPhDzvFGCz-gJJtlSoqbzp4mQTVa7HuEYLhVXYMUKEiwKLqRlDOOw~037Sue4uuvTX6FWQZBHUz8CD-p4LD8U7JfQzmou-V5moDPh2PxDpb2VHvbZM-L7egdj3u~Rtr~PRA500e2Oa54P97aBNc6OaV28nlEWT2fkUpKn4~C6RYoqtz1mWIy-GO89Oj-Yg19~0aH2Vtdvg-ww9B-j8kKTUKi-qDL~tF2f5f4aXJL8faRPTUfpt9juQyif3vEMG-bkvB3QzKVg6l08iLOmVZ780BLg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 101,
+    "name": "Averous LOHAN",
+    "country": "FRA",
+    "points": 7.2,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/18bac241-5e00-4e9a-ba57-75a3e113ab15.jpeg?Expires=1767349680&Signature=fRbRKwXHqOeaR-4ZeQu0qkbcHQmduKBkInSpgW9EnHTFOX9Tq0RzXxFpk9TsQZmh5TFzl0EfBEuseOr5Fau-l9l61cdCqvHh00UyMKg2n7z-hjx9U2R3Q0e4FFDOl6IG7bkSC7R4MKgzm3-0muyjr65Kylnlyo0jGE83XyWoynSCIQxQtlPaAZmAqgflLE3i8BeLg4iKRR2CpKfZENO5TVCHvZl9uW4FJRSFlO2gi7cmDLKONjl8dROLsnmcRusu-4t8uXfgdhJUYHW3Fjo-aTKYEFWslABh1RzwnTMd5cPirTcLk6qrCuG3c83AImd~4eLyy~3AU1kMME5HZkRXgw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 103,
+    "name": "Victor BOYE",
+    "country": "DEN",
+    "points": 6.7,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0d48af11-36b2-4572-a641-642420182c9a.png?Expires=1767349680&Signature=aewf7PlryTPbcDh-xO5S2-xZQKDMws06mwFAODOUqUc~EzPjClo-2S0yZaz2dNAOQmGUdVWxY0AV1JvQduMEI7xVaxCNNWLKcpuUYqMepR~E8lEwXnkZSX~KleSH7sLTkfHH0OESm638jvlwWJB04wfsvQwg0kGuu9KiavRH7DOcBSVhnxSaq7MBAryagghOHSpo5OjCJlKlvETZpZsIsP~L5XyqlK34byz5Rn16NSHRVlX-1XZhVOi0NLLQK6aRll2vBunR4eFPYaq5A-zQujYmX0KImbbF-h5dMP59~gwRRHRSGKI8Q8QavvhFtffUGXWfthIsvwF2EY-frb-CLQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/denmark-size2.png"
+  },
+  {
+    "rank": 104,
+    "name": "Jaled ALQAOUD BENLARBI",
+    "country": "ESP",
+    "points": 6.62,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ee0ce7ac-6945-478d-9940-66d3fd8bdafc.jpg?Expires=1767349680&Signature=Z~EzuRmHSjMUTToslhkwH6eZdWDITAFdOtIsWirAIpUERUFOvtX5mduUEFgoV2WreAd7-kFv45EY71ShhAB-Z0jIOO0rP1Zky~1zUJw9UdnCjSl7mJRtbO1gk2hg~RmecERKYmO5b38-EIWdtr5uiXvGhdSmXeR3rwRS4WxHOLr7HL4NUwKpiBQGKrQG8r3dy-tNr6nv7VDdl9rixXD51TFPMrXBEvfRoCsMQom~YsHBA5LZanpuB3BqnQB1WIcEo53rJ3DliZdsGk34q-cIvB8YW6jHR5BxBqwFqAxjjHFHOeGOGYBkuefop4Y0gqgkpIyYL1uWS8JvVWfcdK87nQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 104,
+    "name": "Waleed ALMUTAIRI",
+    "country": "KUW",
+    "points": 6.62,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a43137a4-8cb9-4699-9d9c-6ec47037fc06.jpg?Expires=1767349680&Signature=GcCCccPhThU19VD2LmuwgELrjUNYNpM7M8CDpuUOEaWnF6n3XXhaE3cN6oXy0~2rlD85GK7ebMaaAYOp9aVyOFWvoeEAgTGVp~J7WohtiC8pWupMgBtilsxRfkKrEeX8ddCl6ppBWxE2-Om1o-dilm6D-U-neofOrs8Ej6rCxfnrhItNSRBN~qmoi-IlAkb8N9nuQhZLp2YdBsckk4URBx3nlGqQrxioGsO0ER-tPIZrIQRKCycXd7fFbRww2TTMtZ1OrKQq1rrVmOJQxkganGiJnbIH9uqeT9yrIU67awe8cQXURaJN92tn2EbdnXGo82t94dmiELgVplIuAsf0Jw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kuwait-size2.png"
+  },
+  {
+    "rank": 106,
+    "name": "Metehan MERMER",
+    "country": "BEL",
+    "points": 6.53,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/e73e0925-f41c-413f-9c99-8daa13f97f59.jpg?Expires=1767386991&Signature=VAfva68s1EypErkIzcyrp~kimBcdm7hnSOqDpBfI6jLab1mHuddfxMWoTvzbiCoQvWxohI~dNbfPPCESTC7ExqRhXU-nUXQ8zoRfyZXvm0t-ueq487iQrBe1PwIHtZsAT28NRQytPrGDnOILx54xGp6fma8w9Gle1b9RsLLiBasyaG8Wivj~M3Rq4L287oX7Ce-MrKlbKjQS947kICBfQKaFBg5e4le-w72FRAtwjP49jswA9KDC0S1SGdzMr~c6KNrUNy6V-ha8ziKSuE8OanHfcx67qXcwAXCvwch4ghJUrGXftg2x9GoSS16upVAySJqfacj-BPimpyuSM7AJ3Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belgium-size2.png"
+  },
+  {
+    "rank": 107,
+    "name": "Ioannis - Michail ANTONOPOULOS",
+    "country": "GRE",
+    "points": 6.48,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/180eef6c-6012-4645-adec-741e79635193.JPG?Expires=1767349680&Signature=fDwzrwlcdEJzaJzFhIyTBGOlYqdQJYtOp918bJt6VdCa1lmhQfg8qwR4wVAnJZLxBvKmDVs9QjTbkcgaxlSwxusSVsF1fM50sdSQKiWf8AtY6~cVuUm~6t4KwpoNwg7Z3kmEDSdPRxsPIHxkqbWYKCtxYGaMs190RaoYmkzNNrZ41Eiuc9-a3OuGAkLXyjYQWtNnj8svISPDz8Y5tOOxaDWi3lx5MCMnCuYpVu5rCeUGQxQ-NyAw~2XbmY8E79xz1H-l8mqFr9ljbUOgbzObuEg2uvV4S6mzlCz64i-C5wBK09qczdmYqPQGSY40VJSuhodej19eMMcD13TiP6tuHg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 108,
+    "name": "Petar DOLIC",
+    "country": "BIH",
+    "points": 6.35,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/fba91be1-48d9-476e-82d6-924df224ded8.JPG?Expires=1767349565&Signature=B0~9ojscht8fB8e-8zHAR2zgRYGYQk2Hn0bDu9dUzqeBdigQjcgM97hIxf-Zm1TJdy92oE3EtKW~4McITcUpTq9Xc4A1oCiRXgqxZxeEJZ533sBkC~wM0MguUaxwH21S5IzDfRVjTt3Ra~zw3c~-wB6Q3XHv9PEPRD~PSdgEyoG3dTDjaiMhliSMcsfZHKf7tEjsVuHp750EdZ6OjFFVjNXVMg9f6GsO~nIhLEtc7Q8r1k89rjX9eoPD8fCCVaFLpEc4ILF2khVUTnsogfLJCsJMSfTtgxavzlqGuVLOFv3HV7nPf~-ij0uMXt8Pdb5NJC3d1fmxhdJ-z-OMzm7B0Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bosnia-and-herzegovina-size2.png"
+  },
+  {
+    "rank": 108,
+    "name": "Davit MURADYAN",
+    "country": "ARM",
+    "points": 6.35,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/83fab1a7-2efc-4016-a191-129dff22b743.jpg?Expires=1767349679&Signature=TeY5hVXRF07T-VNW-XXzhGYxMvbrmI2knbWKM3HsBKeLh65bgrWUyzP167R~NSLUbnpyydbhf8tuuMlVwkg6wRYZphtkVhuNBzzceK4DA8Z23~GLxP6e3eey1mh0wgSu4rOnVv3mjUuDATaUBgNF0ii2EhgfRMShyjVbQbzo9xy6OBncrJ39bl0~bb-~FM6SVnTjUoach8vLoo87fhVEbenbb88D~WFH2kFrVkiqdvWYH-4Y-jTAZBP2Fp6vu7vpEONQNm45h5KnJin2tip1jvQ3ALkP-sUzkl-fIqiBRlmQFHK~cbz2LaT70MyY5IVjAejs5w2yJe3dzLXRp18zzg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/armenia-size2.png"
+  },
+  {
+    "rank": 108,
+    "name": "Armaan DUBAR",
+    "country": "NED",
+    "points": 6.35,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d6b1c782-3456-46ec-ba05-fede38849110.jpg?Expires=1767342591&Signature=JD8iwqHLWikqx5uAiSm2bnF71DDz6pcHHwcR4wAWpHdXLjvPPZmBeZ7fZdxDyTQZbmBhtP3jUeemzN~cBip-C0HzownYEBZ6FUQ9Sh91NFtlkdZP7JKgk7cLcT8ra2cH1j17gRKEynPlcK8rvLNy3NP~yzj4ahBwhhi004k~Eg4Ltix5ru5xx0X0Hq6bUEeJ0mFN5NHRXNwWnwi5KHV3c2y1nb-PawT4X-~EbVmLN8JT9IsbHeNdodk3LfvXQKA3r2JFnuis9xzy5HKvH9KJty3IeKm~iAp8lG0je7YTQrG8vtt3Sq9lv9KuKKSVPTyx0jNreKfZ99nP8WzAm5ixpg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/netherlands-size2.png"
+  },
+  {
+    "rank": 108,
+    "name": "Merab ELIBASHVILI",
+    "country": "GEO",
+    "points": 6.35,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0982487a-2256-4838-ba81-f22f43c47864.jpg?Expires=1767349680&Signature=ZWlWBLY1s0Ks~LHH4M3X-pNOmR85WKBLxalkDi7pGjXT8CuPToFpvOjxgFIJrJBJ~0eUKIkuAjP-6UY6AARlnjpecQQdWkX22eYCQuqDbMVowr3RnmDG59sEtovItsBzQNYoYj1fJZ0Gao~ypkw5yaLQLtFijpo1NNjfDNxbaHQ9ep05Y3a9i6cnLEe7V7ofSLdFzjfZmzqf2rJbv44XszozNm0StvXgQ-evKpJPUf~oIU25~evD2M4GGC8rXL73CMjgxO0lQI0t-pqe2qEh4GkNJCv6qq0KNWOZCBnplSonPtbWKOW4Y9TWsScmXUoqqaozO0niMh0624jjo6jeMg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/georgia-size2.png"
+  },
+  {
+    "rank": 112,
+    "name": "Ricardo SILVEIRA",
+    "country": "POR",
+    "points": 6.2,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/458cb43a-b74e-4585-9233-b04b437ebf77.jpeg?Expires=1767381825&Signature=ROWJ769jrVd85Kv3L4b~55RzTfPpW9XhAQvRTHRz2R07FCErCL9SfdVbTxQuonx~3A-sg8CrzlGyaA9RueanBp5xUC~aHhZsluzwczdVKHR6sWQy6QzdNVQZo4rwh-PEuz4U0JFhNu1BvHJaZQmQSu0tfe7Uw9YdGZ9PvQIFJ-HfyYlMNv0v1n~Mj3xtST~BoZtu3yVw66OTdjwE8yPH3QoobL4gMQ3Jm0dgc7N7p72gqOcI0mcEMMzbtwUyi56TIbe5vltEr7DWzLlXtbEX8SGEqoVkKkFLeEYe4CqcImKzzGJKaTt1L~j2lpXUal2mFTmvF2vD8v0ybQ0nSr07SA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/portugal-size2.png"
+  },
+  {
+    "rank": 113,
+    "name": "Christos GEROPOULOS",
+    "country": "GRE",
+    "points": 6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/bf64a487-3d7e-49b1-b716-4693221500d9.png?Expires=1767349680&Signature=ORUEBIEnC0EBRIC2-aTyg9ms13DR1EgFQGWqUZEcl82pREXi~7P6wgW6J1tuyy0xxKbqTrZ7DChd56d18NnQLPH2ALouMKx~~lkxRQmru3RTo9PKxjW4rpl1JCa~bpd11WvP~RwiSUtkCcbZm7Wr350MOd7hBmc~jM1TeES~~MFfJeIAPz7JAJ5dMwTlkc8DbHEmBwBRw0~8g-oE0ThFP0GzWvaavF8MGPT52UbRWMpoKT2CVYkto5nigUfdUqKXmMUN3JxuUM2ptOAamPviDuSz-9uQ~XHCwOnOd3rECrc3qJVzU~fpSceUJ~QOZ0GOZVerlgDSBCki8JfPaUvdSQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 113,
+    "name": "ABDULAZIZ ALKHALDI",
+    "country": "KSA",
+    "points": 6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/03feb590-d559-44f3-a299-61303422c992.jpg?Expires=1767369239&Signature=Evq7WbltyNBndP7NS4H-~S6rJ3yLMGzczihZCFbrKTFc0-559dJC0Bx0bsq-9UB79Q~8cavv-0L6jPvbs6YGMwcE4Arg~m-d7VepLDtVM3nV4t8OMqA94ixjnFs3AENjZ8ki3gHZtUOdebxLv27ytoeywZPQ1~1oW1eQqYE3oeN6RPPtMS~-ghTwbpR4J7t~4S8hZDrb7sI~f-myZSOwwzXeLckE1UUoF3er9u26AROASjstHHtrVRsyVhCmiAbxZk2VvLahXetVXv6aYcmhVChEcpYhve7Vu8R5~BdrcRaIZ8pmn2xK5mZWGgG6fGgJlsWOp~J9~hMalxYVHnbNvA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/saudi-arabia-size2.png"
+  },
+  {
+    "rank": 113,
+    "name": "LAITH SAADA",
+    "country": "JOR",
+    "points": 6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/bf3ccc11-d712-4f06-aa42-c1c789b973c0.jpeg?Expires=1767338052&Signature=UAjoy3LYRSk4q0rP9bDsIMYCHm64a6whSGQ8l1b6OvzQYekP9g0U8vqhmXWiZzJmLYVj7SvundT4BoEFcZjf4OQMtTECpaxNPJfq4JL9TnmW65sCT19TnVwRPn9L41Lj6XbRCBhzmHt5lb-pZpvZA5o-3Hs~u6JC9iiKgWllRaBy091b6qPxeip3Ufms506RJOxf~GCpF8cb1-E9up6tprnxpysfc7y-LRBnNWUxJ20gCMqSMZqaB~Hwul-gad8DyJ9ulNAPUWL4AwVZQ7sn0eecQtdhgo1bK4LtjuXx6~3PGK07SaKX4ira6u2QDlPcigi7Lfoe5761zxaT687SmA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/jordan-size2.png"
+  },
+  {
+    "rank": 116,
+    "name": "Kidlin KASAJ",
+    "country": "ALB",
+    "points": 5.94,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1e543e5e-c425-47a3-b6dd-2918131a0e59.jpg?Expires=1767349680&Signature=MU2xPvLpkaRPCh1oQXSl30N92VW493Sw1QXIHX7v-S5~w84HfDbtNCLMuITSG1YZOOrlsmmGpPt6KkHhz8oOx0Gg9VOCYk68HQmc9RoeLf~Me0AUkh6eVMw5okbDQxqYoSDiCV2D5FiDtTfda0jH1ehe7rX1dIcX-r2x4kSssXgksGINjubkHXHG~VyREcC9zrWvwsjeKKKOibxvSwweadZK7izPCbTWop2nMEMaV5KadU9aLzMsO9HXC0~60hfZ-KdDgPrR7BpcWnWknUNEwk0Zeu-~ndrvBK2FZoVWh9kysq15YIuQwqhOm4Ttjl1qdT6JPn2-GQQFLQ9xxYbSkA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/albania-size2.png"
+  },
+  {
+    "rank": 117,
+    "name": "EGE KURT",
+    "country": "TUR",
+    "points": 5.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d4dfb681-d454-4f87-bec2-3b23dc7da024.jpg?Expires=1767349680&Signature=WV13uSdwvBqnMkDNYFG2lAYk15BlXTpgqD0uDIjGro-5dexEXvfPmcGOFf6kf5lHgK47u4ogIewaz0B5CdAKXZaAOJXGZ12L~hECJAyuNQ66iUN3i4a4KeiR~uUhrRaPLN9JIhQmxfq08WC1fXpTyY44SwfC3h-rKBs4rtzavKSpkDhqX4IvfK~CGfaazZKMVQVofMj32pQ1gaOc-pRnvnB6M-xQqOYTBtVlnaSfpUz6vGGIxYMyGhpRIEFjkHxLHw8ElposHfShpesloGSgTBjnI8sDf2jXnKE~1E0FXcegmJ8t~-yhAAngIFJOmKyN2xO-8HxY-hkudkwvBSQ-~A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 118,
+    "name": "Antoni NAWFAL",
+    "country": "LBN",
+    "points": 5.4,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f6a6c330-6208-445d-8cf6-9ca3063313fc.jpg?Expires=1767312169&Signature=ScPeOBl2IeUMVRcHF1Z-8k0juJ246b7QW-J~CoFRohm9J3LRcKJPpNKjQ5bWxUi-HHE6nAUuY~OYKqzBkTq5Vu6NLXOs8WgvzWx-gIIEMnpIm7UwhoX7IcfaeaOuvG8QDsLJstK6vRs7rZ0PmG0NNJ0GiKyJR3nkd~GfxaZiuboU4NL4aF~TUoyodg-~qs5OOgvS4lOgiGaWa0n4ra2~bRNM2H15As3mfcSNNaMes~gZWKg4GA7pi2JAP4v1nDTfpk28ktbYZoiAgs7P8fqOJA0TQnkJnWDThZSFp6mPmjI48nRCxYdVjGTXV412t7oN3aS6WOZ2j7qfeH7EYamUFA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/lebanon-size2.png"
+  },
+  {
+    "rank": 118,
+    "name": "Edrit COKA",
+    "country": "ALB",
+    "points": 5.4,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/baacb28b-e878-4f42-aaac-356398d82694.jpeg?Expires=1767349679&Signature=i3IDrDpXPGBF5MkEF8NOCLrg1-at-2pCQaw9hFTkJGzjixS0z636DTGganf82~COCXbtiWmDaAlBldk~ucdSzAtEhrWHhqAs0d55kqskX3UgCpabfFyhwKC5KHnks1fFYsfYhyD5iPb6qDNPOL2FHzYhYT3BYvmgE-agtdV85eujr~zTemeHFEHu6UsLbII9CORrK2PVVTIVCfK-tA-PgqifTcNe~HouVcSBR7FCf7gKzHA716CSC9KgscMBvQg~fzhh96Qukr6He~1EBU7VO3PN8rlwcZKEbF0BG~WoxhUR5~Wa7W3goRmHsmHOWl8yJcVkZhIVhV5FYY6YH~P69Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/albania-size2.png"
+  },
+  {
+    "rank": 120,
+    "name": "Nathy CZEREBA",
+    "country": "FRA",
+    "points": 5.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6dffe0a9-284a-4127-b371-bc503a7e2957.jpeg?Expires=1767371196&Signature=KNXAjGNomQ3pU6zrWDw9Oa2aP1aEQqlQ4bEf~8rhHlA4ibcWq09bs7FWpl3xreJedeGeSuIAVdT0zAMLit90UmsuY1EVAelb59gJ3kmuDlm5tez7QKXB47umN7WCA67uPIO1xtn6qgiW-Vb2zC9yfwtutVDD6X9smMCSwgBaWMzgwQMQUrjeV9bqw5mflLFZgCiRKl129JqKyXa8tnZy6~hWXGBJYO3bb8hp6~Uos9VM4sWncJv8n~S3tJgdBgjwXM3TE8TbBMkGAUEM8kk48rBQjT71sicme8QYp~iXM4I4-0IKfxm7Zb42jDFEtRiJeLqeXq3pJgmAgDaTcnPfeQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 120,
+    "name": "Matin AKBARI",
+    "country": "GER",
+    "points": 5.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/adca046a-a959-4f70-b3ae-a30dd5d96859.jpg?Expires=1767313769&Signature=ZmBAxm2rViiHZ3o1BVuDumr25nujIvmVDpNlbpIqD5C8nwEN5ffFRLWVK4C6OUdxtmAgUbU6Hnrx-9xUaUdrv~dAYWYoWPg-uiyzNiUcBYVydz0uhgGKVck-GzWu7GohYnfTE5pkcNWwHoBFG26yhuhrlcFJkIyDF73q7sBtORD8lPcv-nn85h6FwuwUrYMIlD0stfkvOnvb-n1876fSKzS8xTrPIEDx6b-vxTQYNC45xOs5PF4V1OfmSZVRA59f98onKMi-wk6J~byncTx4tPCpzR9YB8bcNaFMxFKm3qQqI~vCJpCPmwBwD7cht5zBFTxGyv2-2pjXfO6moAFjYw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 120,
+    "name": "Borys ZERA",
+    "country": "POL",
+    "points": 5.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/4a9c262f-79d5-4634-885c-a76a5f3d8571.jpg?Expires=1767349680&Signature=YLr2zjpyPrm2LwULBH1UngpjFjezu4hlGoQuM9OSykDjYzVBfbH20ew1Ihu9NGEmiD~fn2svcaaC5cofBGdXYG~yCB8cI~7-FE~81SidOtWj-IjskBGFVoYSMIOlGTpO86Q38D-G8DGVI2a6LCU17U3c7ASRjI5JZdz~HcDWHs0fc~i5R2ca1J4BFnU3bw1hL6KXZ9rjizYxKSR0EgWVpT-n94HBRtUw7znuZw-T6bs~8lAEm6JXyCezs-8dDD0XWURzNqtsAKKjsWfGLhXAMg~NWKkxyGwk0mT9Ia7IxCAFkd2Lryaig~E4AK2qDhF7ysFzXApzx-~HsDVaYYaU7A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
+  },
+  {
+    "rank": 120,
+    "name": "EYUPCAN CIMEN",
+    "country": "TUR",
+    "points": 5.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/63e02274-b4e3-4c7a-bb04-f167193b7ca6.jpg?Expires=1767338054&Signature=aUk27sQhS5GMFILTQDkRalQQR3BRygw6viNrQiXBrnfwFYpYgZCADXJ0MDNgnZN7YxahDCiUBbgblbo5RqUluL0F3Y2MpjGd4ZJE8Mt~yE2AY2DRM0Qi9mZlsEkyr-BKA2FuHm9AqvFMs2AWHEp5xW35ruiMq3Rt571cJmPNkPLnEC7-zZ4fxzb-4DzPYuLMDdK7WFKbhhL7sjJY2eYTa2r8X8rh4bpMWu5o6337FTas5r5RjO9JRN1NlUGTQOmuSeWK84ztmpLp580dNdvQgxB7gL2U3FfuWatqeq7WaZeEM6YoxwDp174Faxi6y1lm5kxcmC1OC-ijOpl1AjI~NA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 124,
+    "name": "Adam EL KOUBEE",
+    "country": "DEN",
+    "points": 4.86,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/25510d80-fd87-4233-b114-29aaf90b71fd.jpeg?Expires=1767369360&Signature=cTmprRkj-rOQ1KdDYWOKJXvLAh0ZXmFo8j9EZIgBkkkz7O9ECAv4f279MemN1NX8snGmFF1caGe98x3H-eLzGFChZUlNzcQEDcRB8ezEkui1rkSr60K~4Yqk3bzVxZeF85EO6Mr4R0m7un7kFjJD4~acYAHjwocARHIJ3jIp~POV0IXSlfMlaOchdXjCnbdqX3Rg4aaKS1Gj4LQJ-Vs2JYH1KpubFi2H-VZsT6Rcx4D3ZMnT66w5zE6kaRhAjt5f5EPYI0qVqdRPpm4aT51itIw~x1~p44MquAqwc6TL~mmwbVxG6j8Y2pHspbnVWKFUfWypA0mLxENhGmVKfTpuPA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/denmark-size2.png"
+  },
+  {
+    "rank": 125,
+    "name": "ABDURRAHMAN YILMAZ KILIC",
+    "country": "TUR",
+    "points": 4.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/e185022a-a904-4d0a-8ce6-3c4e883a0bab.jpeg?Expires=1767349680&Signature=IvXX8C0aowPWBJHYg1Qfig-dD4M59fWneKd-4Zk4D8y5sGPNNrOh6pCheca3dZtYCwAU6oKv7StaWEj2fGLX0L-zEeQL4cXgsYv~U60k8aBqgwtnTpbqNtp8Ua7fzcBTZeIzbvOMQ01GVJ~WqgbCA7XWREvY-A3lGGRi5bdNuERGoB6t9Wf~xG2v27Q5tOQs~Rg2CEFBSYbZCaj7CW7uGYxi2s8EhBXY5qSLXlQuMHpv2jzoWJ2tVNzLwZOQOhTZk0ewYYvDW2mmOAESIjQe~F8w0724faQqkhlbT9ZD7sZbPPovQBMZ6-rQjDnNCWFybCM6~purMnlfmtO81H-u7A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 125,
+    "name": "STEFANOS MARINOS LOUKARIS",
+    "country": "GRE",
+    "points": 4.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3e98acc0-0309-4e01-93cf-06954e79a5ba.JPG?Expires=1767371330&Signature=Nq3TayU0tR8WKLs2fV8wh3pxJnwaUZpudimn-33B6XLbYJYsU0QoXixEFrWzbDHZUCcKxHVeDgWokAJ8HAqeWE92BxhQzsu1XILCmU1AAWozIuIN5d096K2~9fnmExZbD6d-NlDU0WZw~SbIzWFLbFpadxk8KPHYBn03L~9Yg1FziMxcSLSuhF5PyarUm9mHsU97bl5g3lE5dvBhD~wLO53BufYLSqNd2wuPciWNOmk2FMbLzVJ3-hkgnAeeG4lWzBt2RiXhREkqgv8duMJHXdrEBb4IEuOZiiGP8shHdl1QlWK5A4a7YmO-AHoEVZ0Cr4eyb0lyB9Iym1fDCrmPgw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 125,
+    "name": "Davide CARDAMONE",
+    "country": "ITA",
+    "points": 4.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/5d9aac54-743b-47a9-a6d5-0ff9a2933a60.jpeg?Expires=1767349680&Signature=NPl6sqHlVLN9D4XSED7A81lIparQvMGw~uWngssH1u3HCZCIaWryrHM0gG3wd9fupyEWObi-sXN4fAmnkhBVqrTYFZWG8Gi-DUNFwI4OXsfFgbWeAGLqunLH1TvPVnLNa9Nfq5RlqIkosiMMD-tY2SJvW5i7MI-gNuHVO5wT8KQllZt8pYzyMydawD7suLl2WAUapk09wNCscGqkmfm6c3YVrAa~AkfxWDAPLj5ha8seDGeqkd14oypkosyO80c4n0oGoTHCqqtXRcssYZJ98tKJhr8WB~vK72UruSDiBAIaopmGHqqYERNrznIgFRsllHJxP1Ra7QQtU0XQCBWSlQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 125,
+    "name": "Athanasios GKOTSOULIAS",
+    "country": "GRE",
+    "points": 4.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/45b1ed15-e8d9-4d81-9e35-59342d79d9ca.jpg?Expires=1767349680&Signature=LCdy~ThuR6hCIMzO2Ia1QYQvD69qTCN-h-XA~Qj15XTRpa~DYQo4hINKTy51HKqEwIlXslAxCzN7zrPLC-rXTOdJIu0x5RTmpjL45th3tHU8CoEcjojwxVy5Eduf-~prl9BtI3RqLUy7QOSyTnTNE-61ReG~i9Dz46b7raXaysJ5-ow4VGSfrgINKBZ5N5ud1zXuO4dBb-kk9gdh5fVo7d27NOO7R~chwHfsQzIK-vJzUG3Uq1iIo5LqMsWE-~AxFzNlKqSHVW6x4-MhpTDVP3KwYA-ypj705h4X8Q5v9JJ2nz8Ny18LmCfDXGqxp3lc85~I3krxwvAmipYQ1GbQmQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 125,
+    "name": "EVGENII MARIASEV",
+    "country": "AIN",
+    "points": 4.54,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7b3016bc-4e98-4e98-8a27-5e808d0dd072.jpg?Expires=1767349680&Signature=IG0GLXEETekEEOnkaCpHd2oWRFnFvxTDTxs2KXzYv4~UQdB46geRh-~KAlFWYFZjiF0X1-zXqACY6dMq6-IIu27zJUcJ0VRwV2dDkyKFmjGbrRDJcXHLSFFJR4JPm6-wwuDZ8l8w3SHFpf38UwkexxbR3b4EDEQAtE987WrNNOueQEJIBgtm296ayWxCGFNU~d~vKNeyeijM5d8DLMcABwny2aV9TyNYqZwaY5-IbzY-~TykhnQQDYgK4qIS~PWYEmNfkrKOOPvFLYDFsErCT~zknYJDai~8FJ8YSoH5NXLccMUxb1Q8c6MMJHdbcIhL7VZaf1Uj5Med14zI7Fgnlw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/world-taekwondo-logo.jpg"
+  },
+  {
+    "rank": 130,
+    "name": "Lassi KOHVAKKA",
+    "country": "FIN",
+    "points": 4.5,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/913e4010-9f5f-4882-adbf-1192813dd041.jpg?Expires=1767349680&Signature=iZSbCGGh116G2ijZxNJw5Goiu3w3CsJF-dIBMoZ1xAH9MCNGlDkLw9DzQQRrW3I0~rtN2ybuCphBf9PAeWwT-s9V9mwRSGJzN15l8VxZV~7oFWcn2Q-~I-tMpI0QIL5dPRyiWkr-oJUajI21DaL1KiAaLq1F7hrw~eOttoxp5LASCpWNzHUGO7isNvtrhNNJFHbCn77Zv~sHXWKiBShg13sgKIEn6IE8foAdeSjsDqxPU7YQWkwKq77leQAxozXrA31IRpANoD9~XRIGbvy4ByEz7PwFFWq4h-nkwHMCNMx6YV8Z8majNFEsxrgA06osidSpfpTJ5xydQrDjR2VV9A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/finland-size2.png"
+  },
+  {
+    "rank": 130,
+    "name": "Oliver HUG",
+    "country": "DEN",
+    "points": 4.5,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/97fe76ff-a8da-4f6c-b5db-2c1bff1f658a.jpg?Expires=1767386991&Signature=ZRM4amq890T-0Ig-xiiprhlK3~Qqog5z2lr~1lEKnlzxOl1ISYrWUGWahSePzhtF4YH5~UEH9DIJh31MlqqXU8~YP2TF0qz9Y0Crp9i4-glY9qimbCKsZDTuX~erB-fFmAe1Tddfxa3J2xHrgWf4QAZSXh-o-dSPVOVgH0ZJsueyDQBt866MRwtxCpnWehcvgBkT6ets61VHLJ8N~eUFT1D-WohJlttqG6vyq55BQHz~d4OHsXdIqlzrLa8LFwPHtQDf3SzlE-E-uWMDjE-8UnkOhluIiuv5KjfdQUqS-nB-5upmveBP7Akp-Db0YhhKiN2Hmf8vBT-4CZJl1S0syg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/denmark-size2.png"
+  },
+  {
+    "rank": 132,
+    "name": "Papakonstantinopoulos ANDREAS",
+    "country": "GRE",
+    "points": 4.43,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/aedad20d-d181-4ea3-ab38-aff6a13d9ab8.jpg?Expires=1767349680&Signature=KghQTZt5BfxPNsGrNhU-4sXlhuzCRO1X1gcQL6f1BsKS8xLPTKwCKtdd9j2nJ-k0GSY0WzPR5vZRVTJdfSMkNJ9YK144pZBoRMh4-cfGn1HcTuzLtf-9W5uke5WSodDPLDVJr36eG9jT5XUZS4F-m87qgw3HqaGp6ZcUXgkjKcEntKtLZ8mI6n-ckOFMc-ACDfEPoBTvt5g8oO6r1TzGklBSGZ~1hSAYfObEQNv4rfnreISYWZBgHhoiRFUKmDgBOU36UTrpZeGx8GVHes4nz5rwwDmnQhNGH8JMLUdk1mbfwrFQ05gvssdc20wIDy1KNxbkz~lupKtk8hqSKe6kfg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 133,
+    "name": "Ilyas HATAMLI",
+    "country": "AZE",
+    "points": 4.32,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/04a9cc32-7e19-4bca-9224-68f1ab656948.jpg?Expires=1767349341&Signature=GW2VA~s9X6-b2Qi9KDC73OisFlfxLmuZUg~NKj3NP2LiDz-7S4OtKIbmGm5h4BJ3kI036Vc8WKfMjXQhW1QjVd8U5G~2aWO4-odzJgcpFuD2Qvwnx1bQMuRF36RshKtuXZymQRsmkkOnJhg5cCF4p5HasHr0OjsbaGIQ02B8gQ2K~wx73wXf-FtDYPq43khFwaTjmfW5l67WAI~E4jqvTx57OGSoBQAYjvVLlyEkhNS80Td1bpnkikI~a4EmIR4hHx8K-dQeQMtDQUppa4GGwu1leUL87UmR2j3NI6jQyMls80sWdRFwHqqIRVaoCRFeErAK-6EMiFJOJSYTwPc~JA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/azerbaijan-size2.png"
+  },
+  {
+    "rank": 133,
+    "name": "Daren BADIER",
+    "country": "FRA",
+    "points": 4.32,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/41cb1085-2694-4513-a5ab-0903db89533f.jpg?Expires=1767349679&Signature=SVmSs-CAq0uWOSnnNJcehQKMYrclKw6wbDERDnKb34YY8UEj4XDW02c7FIoIzKRlBmZ1j-Z7SGqJUv~vuex7SubSkFIQz7-HPrZt7SmFNyz-wchuUCNTx2KAfqi3PgCEgkuJoGLaQg3pCBE-NAO6jOayj9vA4tkJ8I9BVUiW22LH8bhW1u0CzbnaTqRtRe7GaGQHAbG7bK~f3dYciRtCJfwI2ZPO56X0vRwXssxL7v6cFaEBDNVwXI5jzHqbD-vgfBZIKtl3-Kg4zru4uW4KOw7TdmlThVpr6xtRpdz3rTSxqMjzW2tHkyN0kr4RxIorpF-LpspZx-3LI0Sq49~puQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 133,
+    "name": "Yakup Ali BALYEMEZ",
+    "country": "GER",
+    "points": 4.32,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7493e9a8-1aac-480b-96a9-f5d122da25c0.jpg?Expires=1767353508&Signature=YqpMzOikw-XmTBHk-vpSsPeZABscE5JF2eQ8E1RS5zVDAGDOJ3jVmGzIvhSL1ExI8c7gYk6XvhVZU4UOZxCnbhqoWZuehnaHXSVlosFshRyKJovL41CYPrdmeFXLV0~1GooJsHkFkqd8kCe3GHis9wGEr1YqhRWcxk0txsOOyU3tYnMHO3xyXlzeFH-B8cx3BvpLtLuHWGVcLzGMraEw6ThTe2UeE0ZMOA579potgE7pJXXLHXWFG0kfs~LQMfBtPtN7VdymQ9OBPNymUShHnjhXGpaRqkr5tVWZbVJu2iQm6hF2ztKfghaLB-o-KH4ySA3QCfEpmn4ouypiL412Pg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 133,
+    "name": "Juan MONTALBAN MORENTE",
+    "country": "ESP",
+    "points": 4.32,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f5740000-09ea-4614-bc81-f54d667d6086.jpg?Expires=1767349679&Signature=H-gcUerAqR2sScaJ5~th~aX8E~3APPj6XxPXpuA3lIhFKIJCfP9wPB1Jy1VoqrIK62u1wBQG47pUeJkbXvJh76kVOp42tJuGHjA-GsO2dfWoncJ8g4z3skx7OUTOzsVvxhepu9~axOJHEdyvhXNTtMsIRAd~t505kSxEcbiEjDxFic-E~~lI2lDDfQpqPemv0Y5YW9F3IOmHf6kdwf5L33fU2lBfXSBkB5WOwyRGV47NOPbsoIyKbxZCrSZj3rSXcO9keW-L--1EywmO7l-LOSrQO8mZX10pWVDVswGp4QqDFzVDEwNWdCA-XhkK7dwkdvc50cu0SXGBJhgH42Jf9Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 133,
+    "name": "MERT EFE USLU",
+    "country": "TUR",
+    "points": 4.32,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8dea3d27-d0d2-4130-8a89-dd92f6300be4.jpg?Expires=1767349680&Signature=ioHHooebY44y-MAIGWhQ3BmIAEI4srWXUW8TsEppw4A5GNJqvnHXk8cR-d-f-gA~YX5FcoFvtrFeXhOYpt5XWRbpIgSY2hbxeKHxrymbHhazOWDvLb3dVlc495s1nXv7BY~yDNeKOD3BxZtz1hHCcG-MhsjW6Z0MHwuQu2Z5QdBsDZL~L7QTCPE9NRB3WLgZzGqxysrwYHCjSGy0KNBY5qMv8tTCk6lcmYTNKmsldYTErnX1poBaQuLRMSOSHWY~zuyuyBqe9O4c4VPZ6kSx8slThyrd5HQeVjysaecnT6D~FR8E2MSzPSE-6fxoaTSDEFhrtWAABK3-88kUCGHxKA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 138,
+    "name": "ATHANASIOS ANASTASIADIS",
+    "country": "GRE",
+    "points": 4.15,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3a301ade-d63a-4d2b-9a88-68bd1706eb16.jpg?Expires=1767369711&Signature=eVBStizFLJ9ZLC95KXcqd2cqEF-fB64H5QCGVG24l1zLQBANmAhG-EjaU9ahnOJH0hGeI~UoOAHY5uXifEPx17CvYn6KJ4Pmu9a9sKswk1SIM8TRiz6lNE1mwOIiXiRMrGgjwr0UcttnophjscY~eZNICjG4v9xm-dHB4bi5gNT7XVFO83iNqwMHKTom5dLb89VEQlEReguBC6f0BBEgOM8iuuzxNctN8Aeq3Ze8AnUgr39Pvy7eTuV~dJRecikNXkjBylh82Jr6-xj725YxeoTE8BFC-3Q-BWFSc-yoJFYtkRZJ4HUzi8pBT3GGWKA61ZY7MtocBznACufWCFDWaA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 139,
+    "name": "Jose Antonio GALVEZ GARNES",
+    "country": "ESP",
+    "points": 3.67,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/efd54a03-d53d-4a6c-a4fc-ea039370a208.jpg?Expires=1767349680&Signature=AldoYJZkTQOTUaftcVc0x6t0idyxud9xKm~Bqy6hOowRCW1WlGO1Jm1kDwtKmlntc2c-91guT-TWodcFE0MWL0C9NNDFPYjPCNSrMHJNgvdiGxfqngpMvRE8QJ~aR4pZWmJ1tm9CNdPohFTmeoPYcBqlaBEeWKrCjko9Fbnp5vi7m3DbW-yq1S5CP~ElJ2dG09D9fJGjrMc9ZLunddBNzBd~G0IJVAOxL7FTkmxEsfPZfu2kou3qq4Tte7sKptVNcLh2AVtogcYlRBjZJ29serPmZYNh-tQ~Fyu7lG5vc1aKaHl0fNCDrLM1RPEDDDeLjg0dUH42HmjkAv9bEW8YPQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 140,
+    "name": "Dmitrii BALAGULA",
+    "country": "MDA",
+    "points": 3.63,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/71ff3487-a845-4b4e-8878-3bba7299c4de.jpg?Expires=1767349679&Signature=Beh1zoyoPstC8xGN5d3Vje0Z6a4rkK1znRRO4EH8LQAx8r9LyRs7SoVTMI5~MfcTtIqwPi9blb9joulvyt2W-LLptU~f2cap6~jYGgTonWyegbXwEEnB3SdhqLz8VSSOB0AY8rCF5YQeCuKi1Lv3LZ49IqUElx1H30jwPV54nR8QraIu7N2dEwsqhXyKUt~A9LPZCDM-JdBcTqOXEKVsVeENWH98TWcsV3h9wCmF3NFE1TNPMH0UOoM9JBHRoCBMNrZv~fwts14HbAsQ6r2goG~MRapuLl5xB4mx2h2fjDeoYuG6X5F1N7eDbjc9sx4PA75sYkfCDLDBeKmNVsri4w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "Manuel MARQUES LOPEZ",
+    "country": "ESP",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/dde1e4d9-5b81-4725-856d-9913cea8812c.jpeg?Expires=1767310672&Signature=f8GspiHDG0CXh9t6okbRET2S2MiU7MREx1HDxsdUNBrzJ1i2feFTNj9sRKl8WWOtBd2ugr0nXruYurOxsmBymbPHaOqoT8t557yrpSY6h2MvRZK4ZJTDDped3JEEwHShCKzSCTbzm0NkJgtR3nYapuYCBA127oMT1bXUYwcf--DoLHI8Sm7vNOFWyWaFhwOgRf-gjsaKtq2nC-DidmPMertGXFl9KnWeC5D2YaKdiOnvj3vAC8wkZtxoMdTJFMgzF8HbCgyp1jjFqvT6kS84-ZqvLb1T-1JWpmwXvH~FBdLKl2hOXpKw2yHaczlATOhfLk3LwXxqP7NIE4adifw2LA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "Mattia SZABO",
+    "country": "ITA",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b1c292b9-28f6-48ad-859f-0de91ced9cae.jpg?Expires=1767349680&Signature=j5dVUywoBMQ0hlHySv-1hzKvDoO2tjlDkMN0O8w3TJ~UPEUj2DjA0Y-4T111gbC~TuLzt32Fu4Dm5EsvAiwCiLMnU6Yx3YoOL2nZQMwNDgxw45BBW6clqvi-Y4UGoYleyQYw631VUjyNV38Sl0kEIGpTkIL69Ud~h4W87hypQw-PvSp6P26M5IQ8gSYTTQyWR2vkMssJA2EWkGZPoakKd--ezCIU41yInaOXqkc4-hGMl9kk~ZFzC3pUJqJjg3aknhxNjcQy4mz~7fZd5Jbe4Zg4Wc~37L2HJlIGTL83AZKgKls04atXElxeeQQllx009gEzOiPGUuAyyFionDENow__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "THIAGO SEGADE MANEIRO",
+    "country": "ESP",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d3b86d17-e660-492c-b110-55b206cf67fe.jpg?Expires=1767349680&Signature=goMp45G4Nzdm~UeuiPhhNezn6lGAHtf4AsdhpgBalH3IVQtiE2I6gFi3v6yyHhOaI89h-lmx8XNXC-zIF5wzpaq5lKeTzAnUguHMsjzTwC8D-~PIKrQaGQeqFA9h9HkB8SnIvuLzMW4AXjou9OnRyK~84vUVYzS7GkaytD9mham6JYTHIPxy9eBb7qcdnGGBZB6uxM0PY2elf47T7I9pt8-ljoTidbcebJBGPL0Ll9SaaXriqON8~9jgfqZPbX~ldeKfCGlDMFSfbsO7qCbA2J63sI7wWq7pAgLFWEC8a4gIsh~fUPb1wBqpZJllF-7-8hyGec~rTAGVSVR2EftFZA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "Nawaf Awn Y ALBISHI",
+    "country": "KSA",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d8e39e97-8871-4cdd-b4c0-f74f84b042ce.jpg?Expires=1767349680&Signature=WHEZ~sw~fZs34zqxsJiHBC7bDuh1fw7wmvgxHxVolIptDEOseIAhxxd8ZIQ5jSsmTpoZYLRO151CoWiNwcAuqT~DwCK5aP4P4WfJFDQd4zq7h2Zsu3anEPGKtZvH1jyq03BQjkpryoSOcEvIb~LbOlDlIYWY5DmjRx~t16jKIZ9LZvUhR1EZG8wHM5YDXjzXxgkS5tPtP2zblmSQm2z6YPcXh~Vo4brQVc3Oekj423uYzqL8fTTZi1pFbHHQelYEZ5ywDMCwxnNWiDed-Qtq-uY5hDMn88ms5-mOrIPrMzLYHYyp4uwjZXdt4hGl8vGWfNBiOPEdYAslV97tp19oYw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/saudi-arabia-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "GEORGIOS SKAFIDAS",
+    "country": "GRE",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d391b12b-d072-4545-a065-a78639c074ef.jpg?Expires=1767382884&Signature=H1ttszMUJoEK2P8fhthuG2UHt2tK1cqeUZbaHEMMGaUu6jEZhHA8Q9~jIY9mdfCHrB6bFBNGH4Ehmljj72gXoSToHS2YP~MMwcvOiFUa8cBZdSHAG6ab7LOYupv4yMDUlut7uAIsDWeiI1GEoCBfXGYiddBfzA38GJtagBL~kRS46dM2VXsqRzfjBzggFc9OIz3NfSuVHS2ychvxbAlow1beagipv3udaGr2NcrlXmJEkpFyUuBWSZWVT2g51uVUzeK7UuKYy6AHx~j4nzniK93Gz7I~dMMKQCvIBt~aUSyFxXLudv3-obhEow~RmvGzB10p29cNwc69~7qjwP8RhA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "JOAO VITOR ARNALDO",
+    "country": "BRA",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/dfe0b502-f225-48b3-be08-ab45c40807c4.jpeg?Expires=1767349680&Signature=frF7eJ8mhkGD4wUX7MPMoE3NyynFwjSJ7t7b-3Z3iGz5gut-QfkCPmOjPZ2XJjG1BALv0RvKHzOU415NtmFg0LJf9lgkyq11t-HAksjq7yVVI1PeR54VLkdE4GUimnPJ2qbfHiDgyfhzqEstw3L3OMSc6Fhp9tjkrZFRdpPKIY7MQh85oLVKjBZ-zcnnxGNk0WTXu2hdA52Ldz8CwLNHF6YDiteM1UOQ4q9Fc68vhYhPeud7MWoxX8jFuMUIucIug3UAxBhg8Dn2lfUHQTJ1sD5EugszhXEKCSe8qwd5zXww-0XcMYhobRMXxISWcCzkMg8JZUhDiRcOd7JF635E9Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/brazil-size2.png"
+  },
+  {
+    "rank": 141,
+    "name": "HADDAD OWEN",
+    "country": "FRA",
+    "points": 3.6,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/9a903faa-d735-4f0f-a96c-7458ecfe3260.jpeg?Expires=1767351208&Signature=JUA~0BLOlJ45914r40LVgbh2JyG5LS9n1YjdmiBkshbiXaXb1hzGkmi-x0lulswAEA0r0ngNtEFlofx66SsDi-fsTQwT5GMBAEYYFfSL0zeOVUJs9bMgQpIAUkJiF2dbaPpQ9luSTRdbNt4XWwb926IL8Sn8pcF8qWoiHC5PuAz0LD6xFbjZbLmZbGcqy4Mg1joOGeEMMud26a8Yr1hCUA6qTzgAm22~i1kOverSXGEIucPCHZ8GFCAN0gnMcSbMB1AMo~sXgDWMakoDcl0B-LudWmMXJdFr4x8TSzV2d5fii7LNdIZxRzqZSbJC5C1kCskF9xMLzyvesvkAViYjkQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
+  },
+  {
+    "rank": 148,
+    "name": "MUHAMMET EFE BAYKARA",
+    "country": "TUR",
+    "points": 3.41,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f64fe62f-60ef-4dbf-9ad1-b631019d07cb.jpg?Expires=1767349679&Signature=MBwpQpg27UvnttuLeTtjmj5cCZTvjJEoJ0P1blNazdOGBO-v~d95jmX~LJrd3oqoK-e-kxpk6yqc9NvzAUfI0wiiPDCQKVO4ZvP7~sruZvB-uJvd8KtL08z1Txot11ron7Ft8jqZ1FADmwSJkSFb3XSOJj3CX50wEnrqEHJ0Rl7hlJchqUgo8t8CQ0hxRLVIr5jk2wI-adLj08WxNBtlWM6mSFXP9hkb~boF5lrkqNTbuPUsfsJA9wZVCfWvW9LWDq9qKuV4eyQUlYfT0M~c1Ik8eApfrMfx~gRQBhjhpyH8nSpEYbFnwcFGbmGwNZwzNvpJE6guj~VqqSbwXsV6Fg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 148,
+    "name": "GEORGIOS NIOPLIAS",
+    "country": "GRE",
+    "points": 3.41,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/5121bc04-f552-49db-80b8-eec532fa2c33.jpg?Expires=1767349680&Signature=iSJmRUypviw-CfEifQJI5oY9nFdNAdV-1VyXMlZqcf4j2QH4UyL6zoG19GgcHg3b8JU25YVuAiyoDDHjkWlnkgbpeqp6-xx-Fp7T-01jwbcilmTIcDr5IxMoyK5HdzmYxs5LkKgUmBO~cQtoe9YYSGYhOP1WV9yPHSVEhPgs6q7tRd79HGSX8LnKyrkPZEHHy~y4GxHiUy~M~IeK7-1y~jsFGBaENvPqC9bk-UZstrZ-Vbe-D-~rXUwN33e7IgV16s8dpNFy3okPVOlL~rkBqJnDJ1389DZ4D7d3iCFLC-FmWXq5dyiD477zsX8nPUVfz8gKQ39fB6WPLuqSmPE9HQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 148,
+    "name": "Kaan SARIBULUT",
+    "country": "TUR",
+    "points": 3.41,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7d3b9b9a-34e7-43f6-89e7-84c77cbfe054.jpg?Expires=1767349680&Signature=T-Z3rFv15fpa5ZbolbuMidMcav~GEkLNNYNEZsbrDjhQdlIDxhNTtEyBf7nQEJg0SSV31BJ5RgNeopbSG0edWQ3adoIMU17rqcZdSzGjUqoKSYPmeEetI0s4008V4G-4kSCVxsCU3HokipX3wdBYt1ii4TIrp1KsVsTz45S9UCkb3n-U4KS8HdsECC6fIb4XmcFIFT60wor9-G7L5VqMkqEYss7NRrccatXGbb1sw8FwiU5sS0~VhzpyS7F4IJoshNCU-Zq-CHHzP-F2I29Ac9kETu8FWeN529W~UEJE0ZPycpbU0G1HOuP8nVm00wgUawcWUpX7vlP81KJVqy-Plw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 148,
+    "name": "OUZAI GIALOUTS",
+    "country": "GRE",
+    "points": 3.41,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/18570972-2d0b-4147-8abf-8592b36f2225.jpg?Expires=1767349680&Signature=d8qHa4dMHt8qwzBrDaR3zz9LU3XTi~IDSN8z2YjNXn-itD8otKXA8A1b~-umJManKgKTzqCY-eCOXV0Ew0iI~MIt~DbCzceIJGyBW4x2ce5N2CkIvM43YL4m3Q9fAKdcrv64BBfXg0tDET44nPJ40IcAluCj1nHDPh~Q4ez1CKWnKZ1rOkOug~K9cDuw-L1gbYEExzPz7uD3Cn0tK3AmUPQSNVJdI45Ch~oum7RvLnl5gbY7wJVU4ezA-9JYBwlVxSW52W8qDABQQzIKgcCMFua5V1RK4246TIcL4kj2QLtGnFB1KZxuNdY7Dh7sTQminWdPmzFvMf116FTKe455Iw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 152,
+    "name": "IBRAHIM HAMZA HASANOGLU",
+    "country": "TUR",
+    "points": 3.24,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3b44ee69-6774-41d0-b820-4c7d1bc51116.jpg?Expires=1767349680&Signature=EO0NQOVl8OMxhU~S0aR6aSYYckccZp0lprt406KU921kHvwGBF5FZVgjamZ~fVIwmT5APvM7U-4CBoYHDPu2CKW7EMCG4s5OYBPgdy3TUMBPykgzH7ckYIF7gFrW5md0XakaJZKpSl4vSAZ8~XtJd54g9PpVsWkO3Yi2w6GaEH4sFNimzYNHLFXxEgg7Pqn6DgUx-ZadkOyJx1~OXLtX1bo8oGidvN9phyOvXhRqnVo~KO9ITGDme2i0btW1rFYgswyZoGl2KlRA6SaWJAFQPi5U25uJ94EoLsGSLhnZhe-x6jfJosDfIczBgWpaIKnZiaU8vHS6i~dstI4yNOydcA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 152,
+    "name": "Roy LEVY",
+    "country": "ISR",
+    "points": 3.24,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d946fdb2-a765-4223-9004-fb56cdab7153.jpeg?Expires=1767340996&Signature=TLJV64c2WR9Sj4P-ehJGxpdYjDy6Ry0K1J3yLv54sbMjHXmicKiB~dElJH0jsbGBNM4tHlqvXd-iMr1tM0Ktm45kB8a1r4ibLc0VdWlboF1~XvPyCIyqw5RzfSYOgbLyosfrk-qRexORRntKaQQq-s85QFZ34jN7YP2FrmZC2RyYIYTZe5WZpP6df9TJiBk4wf-LjZ6l5ADRy9Df1qD2Skqxg0Ol51u4HU5MEO9NIZvmctzgmSZCbpQnYy9S-azwwfnEYAaVib93ZFFiCXZWrtsAExS-AcLUndSagWNl4UriWA0-cOq9FsO4Nuw67Qm3A1J00CH4~EfacasoLGNdyQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/israel-size2.png"
+  },
+  {
+    "rank": 152,
+    "name": "Lars-Lucas LIIU",
+    "country": "GER",
+    "points": 3.24,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/29c41f59-7b1e-483f-9a68-a94591a9a22b.jpg?Expires=1767349680&Signature=ebWD1VqfTB0wTPN9Ky0QzbsHayxHag2IO8wYslq~vlyiNSLqZ81HSFpu9mzhEUv1vHj~eHZjmI8JMS2JeHDy1DSGs7V77qQnktPEAdD6UijXAPqupA5gEh1MwQF2tiF0x-iBzKDIkjGAjT8K~h8ksNgyeb~1lKGXLPwHLlA-RXJOipF9AM4QPEbyfDtHBd8g0ci6FL36xQvh~4luSV7-0yeZA~jVTJsJASJjTQ~Nc5ecg69RE9VJsjMlb9EkpuOMLNQAC5KUNGa4joonevjIr9gSR5uKKibxHHiVXUJWqkeVeZokkWoq40WRUtTMvZPsCYr6jLyHISkU6pj7icXKLw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 152,
+    "name": "Dmytro PODOLIAN",
+    "country": "UKR",
+    "points": 3.24,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/48d4262e-f9d4-42c2-a742-46558dd4068f.jpg?Expires=1767386991&Signature=kEGM4lrS2V5r23AUUD4o4lCGx-KS~K802k39aMtTNpa6MJHjS~LD7wZkwCof3mj~HLjCipw8UEKAudkbg-q0eSqIsYHFxoxGlO09HZ~kowv5cR4N8shbs92IKwE6e6KZkFCJ71XioXaUGw4DzLV0TWcsUh7AS~36F2q-jJeQkRsFwr5bgkTs4v5gQ427iJPliqtKSAyqseVnWxCBaaJYUULxoTx8qGF507P2rKsJWTt0ZJ24T4oHubz9Z5rZjDz7OZF9uzSNOJ1EqLdtNjxnzvMIrkM09cuKzxQB7qYG~LGtsRgQrL0mYEIHfKFNFMwyVQUE2XtHXDBwGi0~eITbqw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 152,
+    "name": "PANAGIOTIS TSALLOS",
+    "country": "GRE",
+    "points": 3.24,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/68fae147-2a09-484d-873f-b32e7b07879b.jpg?Expires=1767349679&Signature=jvV6GSFDKEHifZmg8wLVLPum4R99v0nunyeeZoUNVvmAKm-2HvYYodTzZEpzpdv3Xes~wkOfHfX6oN7qa6-7IIb3v-~5cRZTQ-4Fx21kNZM3KkMQ400T2NVnMgEYhFRVpqJX-MOd3ESrjUubKTN96DL9kCZ10N2tTQ6K6zIT7rb30WqF4bsqMCvaKX2ul2oeBjY3FqrqrRrpl2QvpISDKc46DIr1Vu3bJ6cnTEOLZS3DUEQ5ij8vWp3l71XNvyfGRuDnaWvkUuU8DkqtRSNv5ROhAWFcXvF77ss~Waat5mOI8dOqpQ4FXVdR0NGMloewnHY5J2PdPQfdr0~zpp4OkQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 157,
+    "name": "SARANTIS DROSOS",
+    "country": "GRE",
+    "points": 3.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6df1de68-1256-4786-ba8e-4d8d83e369cd.jpg?Expires=1767349680&Signature=jazqzjaRe1xgMgcA5Iw1JVGZhPMZJQoVpmB~ddHcp-o~jkfeF5czUbbp3Yd~0NwlDPXl5ZCbCYEEqgLqG8pn6bgbjh3NvCdMvvYvRex84tzPDLivjhzzSjtTfndz5HK-6IxZRe8go0WpwCMTqqBb3zYmJ64K9wt-3OU5eh3-JHAiVSj1GJHwUI6EUC4cffntswvLznS6fsqTQrU0YWvvOBTsbkMy4EoQv1WGUVT7AvkrzDOdqeOgIJ5yjVCvEtReE1nDMZ0hZh7f5qUS--BCVDM0zwz8KrFjgXad6nony0puCDV8BYF9EPzw6oTNrNfAYMvqRs6qezRr7Q5X41HQFQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 157,
+    "name": "Ismael LAFI",
+    "country": "ITA",
+    "points": 3.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/09aeecc0-e619-47e2-b6ff-2d35bfe36689.png?Expires=1767341083&Signature=M~lli1M3DJrT57l7O26iMzg~~z5X3g24JgMCvTi297vhliVmvMWC82kiZvC50CHd8GWoZAUR2TINnfDN2z7jpZnqcW5qmQXLTlmSbAHBiIAObTc32GyWIxYmsMgQLyGb8Um5tztEjcr2FiOJhN6CH72A0VJQYHRjMUZTQGL7ZMplWQqsfWJPbfCJNc9kKeBd-0I6Cjf8K5Jl1yV-g1Jhnyc6DgRjuZPkyBwIbcMMWif4P7IgHWsx3Pu~k~tsZrGvUGhK~qnvRnS3DGvfYLk1u~I4MwTSMbuG6JMDkDRo4RNmdLihWakFCKtAViBLJPxzg1zaMy7-5MHz1gP2WsgMtQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 157,
+    "name": "Maroje DEVERNAY",
+    "country": "CRO",
+    "points": 3.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/f53dc615-856e-44f7-9d2a-ca21bce3a802.jpg?Expires=1767349679&Signature=MR4oIkmLIG4Ik1sz~SP1NXHlMvE-Hue8sjPMRK1DQH-2FMXApHPzzaB6d62VoFBNCtUKPdFhpuu76nd8af69h-9o5faxF8ks9spcCdc2CEafVkBhEZOeHs~XXXF5aKtyuUE~o5oj826KjlMGsp-O50fTBLGziHxtuZHSQNKF558jjD8Tpcilsy3iXWv88FXWY~Zw0sCwEoyTW6Y9v127SxCg8QjmpuFuUf-E5RhA1lCK~ls5-FMu7sxv~nCg8vG9z6xtsrEPXU18SDyKzqzc0UZFFzf0NVEesyiSEXDF-QtU3nnzbBxOXhYGm9GfXFQdNFmdwen620e68LSj2M84UQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
+  },
+  {
+    "rank": 157,
+    "name": "Abalpaz MAMEDOVI",
+    "country": "GEO",
+    "points": 3.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/10858342-a789-426f-88ee-a552d68c3e1a.jpeg?Expires=1767315402&Signature=K449XzJmyvtZzVgyUSVAIuQt~OHxNUOsj1p4jxo2kBNmLMgGfIiYf~D74y5Gz3IoS2pq4nObQRuOJO4Jqx-GWtNjW-Fog-tXFeZEXNO5xaTv2vGjs4eu8A4F50kZJds5Ro4dxRl-~C6MjTFwLQMepYqowUqaQpU3zKof6A7Gn2Y6JWOtPQAoFyzW~MGgl~CA2uOqmL4dTKNWR5z3HK4hjqtvnopY~AcPWfr41JNF9op~sPKNUMc3KyP04bQh-T5ZDkjYTr268FjVe9BzU2BF851g9zNqcHRbgcNbhaz3ceMh91ta6H1YcdqTicYUxokZ2VvKuP5ClHlpk7d7lecpZg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/georgia-size2.png"
+  },
+  {
+    "rank": 157,
+    "name": "Umut Erdem KARATAS",
+    "country": "TUR",
+    "points": 3.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/def2c91a-3e3a-4695-b4fe-bb4e1040a779.jpg?Expires=1767349679&Signature=HEZIo90-ELUicTQOovdWySFaWPcQbFTAlcNhEqwf~SsWhW~u6C758EQWiY6obKHgKbqPeYfrPSjvWfJqTVtOSGU6r5RbNLcWbU7A4UqwOdWBJJof8plAP~YgUi7LmZrQydEmFjT~kVWvgT-~rIoqgvLoTwqOTvuFJX7eyPHupFivrmh18N7hImQ8UHYwpR6IKbLmOp7v9k--cSic8Ti41B8BPulZdUBnWhFDMLDQU2FetNZYu4hJZsCQHZG-bEqhrvHOjM0xIapHsy1TFjpeFJ1ld8-jxy1Cp9Zv1iemD6h2L9WS6NWE-sfEOhEyCChb1QK4isv2MQ9WNKczB6n7ow__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 157,
+    "name": "VICTOR VIDELA MIGUENS",
+    "country": "ESP",
+    "points": 3.18,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/45b73e76-6df7-4e59-a39d-55b0d16689dc.jpg?Expires=1767371288&Signature=JrNrDZ1vspaKedGVkRfmz~IZ3w~hCKyXXpkPSfxTcET1mcHhHtA0MdCigXpfDOw2iAHRKVbv58QbKCSxDQYVw5DTmZgoQ08OAxepsNHjFM3P-XgCFJ9~T2vkMFnvCaK2FwOIW-86xXepKobqGaFngUJb5m28~ad-ZJciCPjB5Nhx1I78kH0vM10FOBtozKEkue24P-77880lIszaq8ZS5n-Dkdhp9HnQe29KmM3nVj9WHKlselv3PkhGzfkXBQ9zCKcqJXOcnML8ydGaDGN2SPBZkjX6ZauWde9PrRz0KJK52ZuBSDNy6Uq~ME6eAEsIYdcPLTDIqWHGr3-9Av3VvQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 163,
+    "name": "Bilal Dursun OKUMUS",
+    "country": "TUR",
+    "points": 3.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ffec3bff-a4ce-4b6c-930b-41998c1cc2b0.jpeg?Expires=1767349680&Signature=UNo2NmywcntgKMNOQIvYyJ1e9Op5b3Uh5SOK3KYV0BAjcXYy~YEvFscYJc~rXAdp9WKEu1SE4m3iujAn47nBXThb-K~tWrqZLkgQDQL9IS4woBV-INkfmAYQSr1HttF6ufLVKM74~z5JMnts3~WFo7cyon8~IEJVwd~9Oq-ff4lgvWvIkroczDIR2PcS8MWBDqkbd8YRT93oY9pu9ykKCzE5CwxWmRhOwsdHQOOfRyEP~FJ7FQVqBTzsUz1HuAqBapMgSV3o-qM~2283PQqXKw4RD4RfVZvVgpHjx6EiA-M-sdhSumwlxTQ4rP7fMN8mYCLdzoD8HoHI519KxJjrEw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 163,
+    "name": "Kadir Eymen ORUM",
+    "country": "TUR",
+    "points": 3.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/10a800b3-79ca-4e4b-9b3c-24f535528c25.jpg?Expires=1767338054&Signature=gSJdjCkrZQTnMY3N3NkNcJa5dyPW9TyHM~5y6NKIFh2L-bWK-enflDvgzDZX04kTM22qRoucweRFK5T2Ilk9NzXjw9LjBkmWK48KLqF1G34efTYpWwFiTvi8-VxA29lHjG7BLNlRyKdVXRZZYljS7~GWUg7JFOtq6kLDn60lFQDOgn62zmgZSHl-3gz3dkVCYR~bJXNYoJHHeIYyObzTGX0kxdH4l5H2L48GDE~Wdmy3aWOdjDhLDBmIBzM-E9bAaEi7NDakDadFmNLyiMyyjBY7je91kqS1~nEyynuuSi6LteI53KK03OwW3n-Th-qidS5HRWDCxNR~zSINb5jokw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 163,
+    "name": "ARDA KARACAN",
+    "country": "TUR",
+    "points": 3.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/516b0af7-53a0-4c17-9d0c-203a8d16fad8.jpeg?Expires=1767349680&Signature=Gs2awsaJ-zsf~Idyu8xYKmVqt3V9FfgSHTWY~9fwQGFgizbOTF04JbEWleuDKeAqSGi4U~ROZuDTwY4EvBd1KqnN0YrdKYG2YwTrtWFU~yKrlUuZb4GvOEwIEUxD0C-nuAPxzlECu8-tgFok8fxKFOfE4b~uJrk9VrYom3sQfrqaIbksqbOo4m2zL0MLO0H~GTCbHtAjJ-kYvkdM2lDXhoKGk7DxrTk99YhGf1ryvg1Byjfonj9kzZ9bBjJHqku9~m1qv7QGaBk~DzZnGe1JzINBJmt2rLO5exmbrB0iHrAB6G4cUmn16g-xbvPlTFgty1eTh6QFlp7mM8wOX-RILw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 163,
+    "name": "Joshua HELD",
+    "country": "GER",
+    "points": 3.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/9b95fd81-ee01-47bf-a708-3724ddded2c6.jpg?Expires=1767362129&Signature=fVlVoa7NaugBEsEdnexTMzyWD8290qpa1-0EZ1WUI3S6pT6C8hCMKI~teeOrZDXTa~iI5e9XcCxBrMZaF4m85pNqL5c6hF52rmFdRLJt80BV8rwBr2lR46vSCwXaDg9IeDxVSk2muIw7Cw5ONykexOdTNqi1A~mnSjtU5YWE8rF1fTpRFzggE1y7-ds3DD5GMlKhRTJ9iVntAo93HL6Aarvp1Y7Vmz77uYS-hYEMROSSnRpGkn8T4prA4qwzTIcRMIrvMI57AG7Qk~wIhz2Dow~105lZziiqeXWc1-e4ldqygBvrLdAPp0mHJDZd7XaDpHefpNF2A14E3GtJudIQTQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 163,
+    "name": "Pablo JIMENEZ MARTIN",
+    "country": "ESP",
+    "points": 3.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/daec93bf-7bcc-4b56-a351-cefd2d50a21b.jpg?Expires=1767349680&Signature=FqAElxhewGYKvXdBL-GGvAt8eLsMimKCWU~8NKHiviOUQtoxLOBMaiqsh-q1KwT3~73bUUx29s48FM-wXuEfwKLia3ZyDaiEa6TBc9syd-mqBJNLsZ0pgxoowJLxP5keFO-6lYSHc95D55nWrftghaoC44PlFpXVrmy4rFu9ADGejfWVojdmpWu5CPEvA5yc0A5pSkSIQEnAYvycbmq0QzsDfrd8pehqhgoFioq4ZeMsCCgAxKJUiQaAEhKjg-~MlIJ3UdV-1LZzEe0fEZx7CONEy1ipsC680Vzga2HruvllmCn931yl6Nc3r5RW7CZBWCjXNBcC2o7jEksqUYj~5A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 163,
+    "name": "Yousuf AL-ZADJALI",
+    "country": "OMA",
+    "points": 3.02,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6b512177-96f4-426b-b483-f3e5b196f93e.jpeg?Expires=1767370254&Signature=bOmJ6OtzCHHfAR1OZxqqcAQ-GyIQkdcPqGyNDqaec5MUZ1u2ULvkztwODwUTOvPDPAyKiPPkZ9G0Utef2-1JQk2giFu7Sa8xmKP3DkYnPVeczVCU2V4urQ-RmHjhfc3P5HrqiYuztwbU5yTOcUbatf8lh~okk4LaJ~dA6HaXymdk5V-q1yomlI-HwjKylV~hmeUl1bP6J~7j5Td-EIm0qnerc3p7RKyWKUJgDcos~N5nxyzYm42aQfb6A7VXERhcSATAup40lJTzoZkd-50qkptC1fjVkLDnb3VwLJwbbfM64y75QsF3g2PWdu1~BwzKDByvykz3W5cPzpXkp2RziQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/oman-size2.png"
+  },
+  {
+    "rank": 169,
+    "name": "STERGIOS BIMPISIDIS",
+    "country": "GRE",
+    "points": 2.7,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0a72b4a3-6df0-4881-9246-105b2e6ee821.png?Expires=1767349680&Signature=Kf7FZXvvcckZs6mZTZVIZG40r9nc-xoy1HKpkSkCNMFExMO8k1dFFysTUuICWTSwI6qmFTHp7n-AdoXkLGiz4J8tVdIhAiG5OrvWtts0Mb5R4vQaYPkWd3~0TjEuP~Mz3a2hI~sQjmVe5dr1E54c34jqdUydLUj0~oz-1Lp-jSekddzkmKZseguNv9fT66xKLq56NyEiPpYQVevSnunv8xakiddzc4Rwbv-k5mUUSZFC4nWVjoc-ZHzKHv21FyljIWwNKTGJYL1MUw5vz0m0OmWo5LUDs8BSAzLteVHEp-ZNjP-KyTjTrUngFOMlxi4b-nFEvVhbbC3LRA8z9~b-bA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 169,
+    "name": "Nicola GIACCHETTA",
+    "country": "ITA",
+    "points": 2.7,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b17e6939-7a35-44db-9db7-46673c51066d.jpeg?Expires=1767349679&Signature=Wi4mKJwMBN3-vWz4~UGmEBc1n-SymEzgRODGq1Ilyme39~B4WOgv7E~gwdpvM-mdot1a1Qg~-d~dY33wtXnUpukh6xdYq2ucPDefoDkn3bO25BW8fQadvIMrI8oVG7Oyz7zuQlGwx6tkpHVgN2op4yEI59PD7dz7wL0fFpWDJKugUKY7dTGJHR6pr5YlScqaReT2XneMW4zVfuCMS3VT2OMmOYTTVIuyqq1HdbnSnnz36pLUHLnZZoKsgtMV5oym0mkdtQ~Se19rW6N5R--SLTHpsXuxeaueX8kbXbvgJu4Ma-aUyw7oHXEd-vizma2Bfv6t3ZAKX6Httar3qhe4nw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 169,
+    "name": "Michele COGLITORE",
+    "country": "ITA",
+    "points": 2.7,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/73d6dae3-0296-4e89-8559-94bf4ea22c99.jpg?Expires=1767349680&Signature=KUQNhKVQLwXXAJm5Woags9UbyoQ-n2-eVDGk5j3~-dGk6C0~MRtARo~JylKVGu6pAq3MugBWtiksIfEY6EMRKPexJtGgm014FE~6iiY-ZSFCVk93zkFXBJOPYOF13qEU7jVnCbwW24ZXZLrn0zCPLPkmBVyZkiaFEZcB3QkX0122amVr7CYFvBFXKULXP4exFXe3vWv3u--4oYhUz3~R40Esm~O0smWY35wuUSV5rGQlPXDN0IfNSw6FSY0O--ETiVAUex0TdQTJjlnpNsk-UdgEUrhF5gN~nD1x3tGbTt0ZezooFwcUzj77herMqlKWqA7t6X8bTM6U-1B17ZB9iA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 172,
+    "name": "DORUK AYDIN",
+    "country": "TUR",
+    "points": 2.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/9da50fab-264c-4217-8f7f-649cfcfc2fea.jpeg?Expires=1767336901&Signature=YvdwOIAmKBD~R~vnNSYQAPm972dgrqUzA25IukMPCirWqspM-P0gxxYjf2oFWuMjheJKneISwCMfcbQI5T-gCICtso9wSmrQZSsRdIT2ORPkJwzYn9Ovc43D7BgD3clRmrYafztv36MRSfhN8DgMqTQk6RkFXVey5s2dLnKWu0VBgTJtjoLykRDhMj1CEkbIPuOCR6tYJmG5Z8zCNEP9yHUi59vhxMq9wFPMQ7HYNvdIWfHTXHkE0nOvj5~DXsipBi8CyB9N44Ci6Zpcyq3aypZw1Rz11MeuzqTGJPodlFBqhEsGDD1ODkvHR2FdPxXSERx2frpIDsy2UFJzf~vF8A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 172,
+    "name": "Justas ALEKSANDRAVICIUS",
+    "country": "IRL",
+    "points": 2.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/a8154990-c63f-479e-9706-a8c379cac75a.jpg?Expires=1767313575&Signature=XVICt3E85z-Vu8v2RtQKtXXvIa2ZeoDEwc3DBZoAlU1fg~PY6f96AMEAD9cUatykV2kf6s-28rQuFWTDtAHc2cYy24c9pJ4VVhIzV~liWql868bj5VeIJuQmUEy669lH~wzfVUBpRhxJuaszE~qi8c2K2f0lb91OyCVzqk9rlKHY3qOO~U8OW7lX50T6eEeWLJKCSBXtbPZ2f6C5H3DGcCsfS7s8hohFeWv70YydY5AJMLyWyddyZiZJd8HR6Y3VaJCUlhMeq~4E~~oKydMl3fzgVTatuzBuYzf1TPi8ZWujBdKb09RVRPNxYN47uuZe47QYTjQ~6OlqLo0T4sY0yQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ireland-size2.png"
+  },
+  {
+    "rank": 172,
+    "name": "Víctor COSTADO RODRÍGUEZ",
+    "country": "ESP",
+    "points": 2.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/e37453bd-6f33-47ce-876b-642dfc63ef21.jpeg?Expires=1767313575&Signature=GBDmcQVrztXLTscu7MEpKWx157C-Mb7ZLSe0-TCLd7SgiPgqqr52bK7d03pV9sEkrMG3WAuz7WDhz4N7wLyYuS1wQqaXkQZDTgTDvbBYVC5Vr7QFsHmqqtyqWmjCWlhIsRKWTvXMI18g-JBOPtexVpOHqxAhdztk4uN1bpW0-ISf2cQlAcjx~1E3Tyn41wUqByBfUo~Hm5cJgTsMuT8su6jH2KFSdRn~c-qqbwHCiLzQrryiO1vJ5elKJ70TLAN~fvmQX-DcGnYiWMOiLSGOBr~OY~YYobyjWXWoeVrQ5Zzrr3we78BrnDR8xZrkgluU39Om8Cij5AlboDl-x0dt1g__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 172,
+    "name": "TAHA ERDEM",
+    "country": "TUR",
+    "points": 2.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0b12834c-7587-4f58-acde-a7cbd137dc03.jpg?Expires=1767313575&Signature=RhAG8fCC68mTrkL~BdrjLRsUKqlbEZaIsQgbYTLMIya-kUH3mf95Y8HCfDGq10ZrJrVYVJUxn6WvAtY0MBfQBGEcwdR8fnWThpWCOWUGCBE9ORSJmTsRhdS42kOk2MXGWyjrQQIC6w1E5xHQ5ZQ3jn75aDQl8id-DiNeOYUslU7vleuotlpVRKOHE74haIzwEFpjRmaWcVDJ8uVWik2pBjbxDSVbI6r2AJnaEwpKZsoEucOj8KYl8ettMbA-xSg91v0SNjMtBwu-aA5IPQRTV8YajBmZD12~jLtPxoyLyU53WrAgi9k5e8~7geyRBGZ-VV9lqOLgKsoxeTNn1wWL5w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 172,
+    "name": "MAHMUT YIGIT OKUYUCU",
+    "country": "TUR",
+    "points": 2.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/eba72a02-635a-443d-93cf-ea4174b52a23.jpeg?Expires=1767349680&Signature=eeznKb4rzdbAH-pGAH8uybBeEqy5rN7Q3ogwipqfw7786u1VenvE2OmSz6r14WoYMjBE2urVvPOs1QgZYHWX5b6TtyPtPXAWkFOzRSnVLiwIxIhHWeUDXYQ4WkKkphTWpyGctm58kX01KqUqQN5cBidGrVJNmUOdmmrdD8b8yqSAFw0o~vAoITw1jyWIKeXHjvQ53X0g4ESCKYdLAox4lWwbmx6TIzF6Vlhy6Oy1kQj07B63yrk-70jyQxe9lxHI9rX3rn1TGIaXr1IV8Fl4N1l-3JwMp4OKXTW6VSBJsYwvr2OIPwgMT1d0AIyn2QUmzX~PpX8V9uv8mmtKjN2V2w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 172,
+    "name": "EFE SARICOBAN",
+    "country": "TUR",
+    "points": 2.27,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/dff46910-2bb0-4f92-8207-2219eaa73247.jpeg?Expires=1767313575&Signature=UOcbIwn3O-R7oBQ0C3KHclg8~2qAEjlGXsMmgmCgDqvFaj7qalptY3vSPesKtK7C6WJLHkbwXw5vrx-S06AXkq8HtPEfPybJb8T~CHHLydDOm-WkqI~RmJw~4HYczMDpF5uptZLve9eVvCsovNEiapxIZFP6beM7Mk2S4h-OdaaGXwWXoDap2ZwTc6gvf0pUY1hC2bBaW4qzWGj2ovYl1pvudvaJzK2rUZmGOEycUUFJY1nz50LiiK4gvuh5MDtmUC9-AUKZn4YGTVyQEbw9jk10xemwWzOK1mWRixvn1llvqZ25dHZX6uEdDjbA28KivMQlXn8sHpuF8uf0JDR4ww__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Mihael VISINSKI",
+    "country": "CRO",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/5bae8462-3743-4003-8764-b92eea64bcb6.jpeg?Expires=1767382655&Signature=hJtlc0RYWNmziBrdPOv3XDb0-Y13ufiO9M-dqWax44nVmIVQG1Bx0p7-ZrR8twUV7cgcZWFKoyIFTes-yIfgv8TFkPYpOvtOZ230wZZKQEVfUsY4FBbor0vo8fFxup8U16cJHOU6p09FaCBr8W7A4QXo64aIoiT0BCu2i75XKzGuIN13PTdGj48Wa3cq6V0IBPgLS1wltWzsZF9SaJ1kXTDA0IxqfTN3eiYu0d~KaJbmdb7lPUIxDFLiP7tiA5VAQjP9lcummTuvjuxg5y1KweaxVMWm5M7kMD0lWBUiJHpNRc3J~lkAQXf2UxwU5ybLf8lCABOqn5U2mh6~JhPwdg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "GEORGIOS GROPALIS",
+    "country": "GRE",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/e9e1aa15-8757-478b-af57-6dbaf15f337e.png?Expires=1767313575&Signature=B4CxhqWdh8wNzKKkIbxrUlQxpCQ7vSB9SprzZ4KPON~15v0yFDiMI0bPOYGYYDCFrsAWFTKuRLsXthmihnXMlKsYnShaZlC9cvb~kNYY4daTmVcM2cX1GxVxkEEO6F8ZIkHCvoh7pmxTpmQUS3pM2sOSRvSeyKAObwwiCJU1VUXPfaxXU1ec8VReIxerePJAFEYLVxDQ8ByYGFQAAJiurC~juA3JLISrd3NuL3EbP5uBpWwyltmuTND5dcYUma27JL~9Ipd0IVw7iP2YTbw51lhCJKyPZOXqWWqhVRNxmkXnGfbVeXlxa3JbemVAJt9nYf8Hrg~kpAqVO9E94~BdPg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Daniel BAI",
+    "country": "AUS",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/03d62c32-0f8c-41d0-820a-b6f2fa58ebd2.jpg?Expires=1767313575&Signature=cEsx1G5HrgCQeExelsCMPQPC96sgzb0wwxslZrOC2YwZmuac0yQUF7~uP1cFI8ZUhxOBggeRkkZglqjl8d5FsuO7y-MTavMt5eUa3kOfQQ~DbXLq7SBGTbvK6d1TFW1eI4Ipk3-EM7eHKC7TsF1E7~~3nM9HNxTnFTSlrZ0S5cCwLpkRmmb6YzBb8YsgirGNS67uGs8bUnzPXtHnas3jotLiTFbbdQ5hyK9zqbhweCNwGMMpThyWbfEONmD31TQvAZobE2Dm944SAVwXZlWaKp4naG967sJ3Sf4rK1hrbDfNl6B574w6h~9LyJ-VIf4UFYtSEqN6aS-RbVkoVrAh~w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/australia-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Moaad HSSAINI",
+    "country": "BEL",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7a7b0758-4146-4592-803c-fe8186ebb138.jpg?Expires=1767313575&Signature=OfumlsGFgzVw5XVJFxnJB1pDAdrDmcOLvxFnLykaqZS7vhKf7Xu37EI3IM5es~3gAqQ87E5MxgnM0JvHEHmPWtuOe7s02~0VTykA7WNRuLHv3XOClvlMGYxozaz8dSQvrh8mj~3xijXsDqas2pCGwfCThCtygnPEXacJ9ITCWudW8QUztQTFCvro-LKm3WlzRrYyODw7R-YeOPdIMT6NnJqMDiPLQ55Vj3eLrI68o-vlx0hD7im7uiE9tvFys1iFAbhCbY8KIqmn39s3ANJv9DyPgHQEm--IR9hqIu5UXavzYEjkYObHlxkc5n13ahcojA3n3hzJl9Uae29P9pDOsw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belgium-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Mykola SHEBANITS",
+    "country": "UKR",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8f1276ee-547e-4743-b85d-c1662aa5efc5.jpeg?Expires=1767313575&Signature=JTjBdZUH~CNBIrkaOprBTls35Ymw07ogRM3m1a8GVAKZtg9MjByFAHOud4GeVxypK5KNXd3CFo2qOXejpkHbe1tw-APgZZc4u4UNzGJCJaZJokgh-S3DoTr62dRnCfJXElVxu9ZTaPoKIZuAfeAW5RD63mo5BvPYwBpCfgR2gyr7PkptVYx1rYdqSaNZ-fle1BiYxJUOPOHqNIsEKP~4DPmOl7Xja7bUTo8Mr6UHErTC3~enEk9K32a3CNu1zaKu2HDuVg3H3l9hwBGLrqLjGCen5r~rRUvCtXiLhREyBFyoa3pujhHBVCIvTwr0ca0V71C2h8oa223KCoGNsx4F8Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Minh Tri VU",
+    "country": "POL",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/35c3ebf8-263d-43d2-8d2b-6c8ae3cb7436.jpg?Expires=1767313575&Signature=QVuaG78XPlBx--kwL5myTAB9pZcJLVw955E~Te5J1ea0YjOdW~n9SXMmIbUJC1OHvInwzJ1EBDxnCpBO0ixjZDZmgFSv3vnNk~~Z~PCXhfL5jw8y2jmBcW1QDXlYQomThIXe7U7iQkofv-NVKg49Bde7iSWpJOLA9KP36c4-ZPSOs9LOVobnjpN9Af7oG6lC0g03wIEgPrz78ZEfKwjtf1aZ-WbGbDkGdr3RVf6Sp7HDY5NSUnygAP96~isiPIodroQNXEAmRfVxptELuEPw-6T1mB66eMP4oFHv3-qvpX3Wfujsq3DiZYsUYtMKeNL1F~8HK4v5yFzCdtIisx5aHQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Mohammed ALMOHAMMEDSALEH",
+    "country": "KSA",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/0f9cda15-635a-498c-ac0a-1bd92c5d66c4.jpeg?Expires=1767349680&Signature=bbS4ydYHG6wkE7qhMDmseu97-PCmP5PlKuRtHM40iNDY1u-nSR8wyPUejeJEdYoq17ZRzPSEv4ipaqbka2EtejUl79otC2Ajycm5GTayPbOuw2xob527Ies4w0J6keytbchcA75PWNsdCkWmnqiXi~9Q1FPfFSfSbJVW0oxmrXUKq~aA84xpHAuFOXGLNbeDBnyi7eTPCPHFrBNXO7ZGFnLvVeu2TRnZ08yvDsa9qc1Gm18D25HsAg83F1aSfs5C8BNWEZ6vWZhnYjnVt8aCzlhuN3MNrthTp03cOjQrvW7Sin4Tv7qRsqoh-kCCU8c5Lu0DLVUMLi44980L2m-PuQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/saudi-arabia-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Yaman zayad ABU SAALEEK",
+    "country": "KUW",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/79ae5e3f-6227-4138-b9ad-061a10b081f9.jpg?Expires=1767313575&Signature=h-LHkm1YvBCdJoqws3EMdJ42iZJ858RHn6-HOJIzcUY09rBHFMWrn-h64RdhMUkBeaj9BisEHLAPNeSYV-cwuv7B-zyTy9O7b7C2CdQqcsXq3W4GqQFzTxAcipzxmBKV-oD0XP4aV-AglBaCKLy~hnHsAiX7EvDfIOzdDjlv249mRegKwlGoNbVMfsvAMIUVX0XOhWPyx84NZLMbFroSwsqzKwHDufH6GhOWd9ooXdj2gfTF-xhbBel572G8OpNlpqnSaDhGSM4YlrdFunfkgJ3-xdEnv1U0FyiyShaErw6Rzyfq6kOPGFQUlC22h6bgZM3OszbQ7gQAVMk8vs4kzA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kuwait-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "Marek SATKIEWICZ",
+    "country": "POL",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ada42fb6-e6fe-4678-b268-ca7aff07bc01.jpeg?Expires=1767313575&Signature=YRjq1p7h-aMIt-himNGawyl9Ch0JQgZkyB8sxVC30ckqK3G2RHB1vuFdf5SlOyKlnyBYBiX5lhoGB-Sd~3LV84ZWRAYVSuRzE4k6u4PTU7-7xBR0qnEpDrSHu5fSr3BdVBnJa~vdpi8SA4hXCrmfq9XZKNDzBtj-VxZ9ay2JW7Nf5Izely1hd6M8ms97L2u2JujEEZI6~AvZXrW3GCn29ZAppPL9sdq6VGx9F2wV5byP6qSouN9kUMWQzpvzPgPI-vS8B5p3qPJOG7LGLMRm4fp1sIXzvLIuKRzlxj4wBHkfwoebyT3ZkoTBbrqsgmmYB97WxkAf0xuHnwDPt7YoZg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
+  },
+  {
+    "rank": 178,
+    "name": "ENOL PEREZ RIERA",
+    "country": "ESP",
+    "points": 2.16,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/97f07328-566c-4eeb-a729-c33b3b032bf6.jpg?Expires=1767313575&Signature=B5M~f-mn8mbIhsYV46Rg~Sh4lKBl8lHUo5zxRuh3qavnw9gUn28iR-JmfInVebqrmTyxtFc5uliHeKCb3BuJRHP4~hwF6-q3Rrd2llcmTobKD2CLLahY4oz0uZuQsrvWsj3zajwwqf-pjVmDDTEg73TY4YUt1x9VmU7bzP4hvRUlijtEPyXWumDLIiYGhl0JD9zYTfIKoxDHg3I79Eesmu1zaME6BHXPC6fDONYiL86k5y3E~u0CT2LM-qALgKpMGR-X3JsCzXLJbXDR6p6rqT3RCH54NFHBvJjP5oQoAhrZ156BqyVCNSRRS52jYygvcbBf38nkSdSQldaSOtmg0g__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "Yernur ZHEXENBAY",
+    "country": "KAZ",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/c55e80ff-e58f-4f97-be27-d800daa3238f.jpg?Expires=1767349680&Signature=Dthpb6~-CW~TaKI4nNYFroeM5tHZNpD9BVWivhHl0j-3GlKNqijCLpQdQHfWJIGn2Gn0e1r-xGKmZ-iTm0v5ZxkJegXx0KIqMZKG6T1Uud~Z42tzLGMYDvCBFQ6MAWeCOhXXGkMtpJroXcHXJ26EEen88ZUVRuRtQmk83EOJSEutjLninVbyeMG0EAvDOO2sMi~M8HkyaId3GNWuk7Bw9C2fC4Y1qTZaaN8olIaZjFWAHrKjHSUuKufExw475nkasWW3lpP3dCsvEI~gHJSEQ8I9B3TLKJ-ekTHFa7HOBM~Kz1KP31KQLAur0DD2bJCTu1SdxrndepKnx7u0Vdmxbg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "Vladimir LI",
+    "country": "KGZ",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/73562efb-1a4b-4088-beb2-dc5cd4c4383e.JPG?Expires=1767313560&Signature=Rim8y457jgdXGmR~h22pQ4xCPLTwk5uYqW9MdRUNirq8N5b6beAWo-H4D5glcW42ofOzFbVoBGZQ9nfjvPQ1BmRMnJbGv-qRd8s6NgDMp3VQAmu4EeKSED~LEZdFNarwBQxTllw1xWwHIA35ELoywnrpHJGU~fiXGV9do86ILPUGtsxUm~pPlwrpGKUbrgOnziuNu2BMbTrM6YhaCUHOqPDcMhmOPjzB~pZG8-FcbDLjVNeFiV0dGSTB8ebUTacMYJwiRkFpEHu~nss5bbAv4-AW~uxtpwXJ-cArtEfxEdUFRQ6ed~2X-8lvrcXSwbHWYYXnNb-7AtI1zGPcuDpgPA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kyrgyztan-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "Necip UNLU",
+    "country": "TUR",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/e6da2357-b8a6-43c6-9622-15b578a882f4.jpg?Expires=1767313560&Signature=buPSARlo8Byk9UzLffHI5pdv5soyPPbyiwSmv4qARavovSYCQCHU70Haq8hh95n2F15fWJqBGwHhLsT7ViEVsaNLKhugE27thwUUTHcXyp2macPA9SWJvIwXgaLrTyMgE7fDZfkZRt0BMnNfzNPSCGv4wmEcYOmMg0Qnrrjjp9qwbMKhnrlVt~TaS0cPAHbG6niKvg~3O0SVFl9BxUbZjo9Txqyfl8KAhVjbICnwNRnTDLqmUDyEBt9kp6~bjW70apkvSpytfkfV272nI~JGBC4k16S7ViUY7BU5pnAD25z7GQi~F35q7~ye1d5-1XGB7HkyYChRzDieQAeHxGOssw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "SARPER OZGUR",
+    "country": "TUR",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/8ef4eb8a-c74d-41fc-a2ad-97677ab7b293.jpg?Expires=1767313560&Signature=KFJcuxlnvWJVkmNANGufl9ta4fpb0P1dqcLyOEtnt1GgoIQYa2riLC4z1PvwoOgBFy6MAsGDWF7Lj14kaOK~DjeY8IS2NvrebnNOyATvHhEifySw69cvRO9wIW5Q9BfXWbVbH7xRcTVTukATh9rpjcwnSsitoZBMlq4cn6NEzSdSr2bs62J-NSJJaGB~4XtwZCcoexLOkMfl69yqg5QV7Pnnq72KyDDQVIacEJpaOhX2GhZfSUFZxECYOKnIwMYkH0HM8trwHOKqfTa3hraoxpvxrTtq4~PZ25HxerRtE51HCMMiYRcCL81Jr77Mf6U6cpTWIpwZpfe-t3RriSjEWA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "SEZGIN EGE KAYA",
+    "country": "TUR",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/7b72ab7a-207a-4a51-a3b5-89cc4d54655d.jpg?Expires=1767313560&Signature=DkuJBQNF5RVPIeGAbEy0vsEEYz1MDNpGWb-MYUaglAfcG2RriSTloGUQ22TMR22yS9zMlTiWihTnooT2fb2ez9Kg8AZKjsjE~1MLX4BpvnajLh-PjlieLyvKoceJXwrHzT-~v3bRCExPMQtq7M7NjQPBjwzy9nq4rGJAUpFN4ROEUqpF8k~Ev1mE9VdQXkMQOQRlA7NIpZHlvid8B3~XdOTDRBJuXPBHTGmb-T4RyL0C1pgpipJ2c4pLYQmdBL2FyhWHI3J0UR56TfHMcee~j7VwEe3ZgXHsT5dnFr0UbyUBDwMXroufWWjWpZMiDLlRZZj6e1azoTW~tYtCklxiYw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "Nazarii KOVBA",
+    "country": "UKR",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/b58abc44-8ca1-43c8-aba0-c0231d1879b0.jpg?Expires=1767379032&Signature=DNmGP3cCzi3PHswCX74xP6eDVx5YBLWDzyJuy4gSIzC8TUyUepy0ZXA197~h9HxwszMHAynJaV72Hq1~WkylWxVGQBnwvLs2ZSO5K3V9h5w6dWA~FM5yguC63LCmrTFfttbeZS3YNyGfkwjiF~qVGCUSrfiU142nyReHiPO9RNvL9FlPeutiheruacsC87K44WaefaL62aDruKP1pw-MdNzw2oAjP8BOicnd5vH3hixcaXjuWth82v36qT0v1-ID6IXQIFOVXauL7rhBhW9h5ZXuLIaLaQwu1LYzWuAHd8SJ-1Fz67ZEKn26vseV9lNxSx1B5GQvsVWIbqII3RWx-w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 188,
+    "name": "Mattia MARCHESE",
+    "country": "ITA",
+    "points": 2.12,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/ff440210-2735-4740-8f1f-28234ddc8560.png?Expires=1767313560&Signature=euXTsPYXZ4oRs8ce3CrbxrZXnmsClycNRabj7FNmoGWWxaIZN3PMdYUbgoJ5zXFOe19tZNmwqbWiY9j~DNXIOiBqmYT-0e3jQQUO96fxGBklDOE9o16HLXZ-JPtOILrjX1OQ0eDj5VEu5YkAIFzx7LvrF70KGVuAYfxtWsJ2n6HQlbhT-XWjpljMnaXqybT1pzfYJM7hXUqBgM2jar2e-fSPRc1JHgwAMgdRbGzIA8KVRjlzwDTm-wI5FQlpPZfSxwjTTnDegHoDvBpK5Vya0AFoX~fDy40KKjB-blvEOU1OB5VbBLZpULohSGnf1nY2LWvBqy4Eom9-TuILd~KkAQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 195,
+    "name": "DOUKAS CHRISTOS",
+    "country": "GRE",
+    "points": 1.62,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6ed1a55f-7bfa-440c-b970-5003b8cf77dc.jpeg?Expires=1767349680&Signature=cnUAp-q88xlcrOM8uy0Y40fW7HY3Tm18HplBRNUNaUT0E3yO-QR3B45SJuJsIFktGEEeAtRcsLcM3f1nrXypzdCxaPlRDg9Vl2dVdqlb7wfojPeO6zUabd2IpUgQBWHxg60zrqIAiQIKSFWP1-klFZM9sGn3~9zgLKW5sny~DyFkrCCACMAwVzol030REWlB4BXY5YgyedBo6Pd~1v~kSmRSBq5yx1vS2mAARerUS0aA1HBtiiEGEkNp~N69687ew8t7jdr5MyEmHpFYziBlf-Lo6aa3Zu~kGj3dEhvqFVOlgMn5nGrFOT2vdfa9IdDksZB6udY1pK9~SaEdJL1jQw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 195,
+    "name": "Vid MILOSEVIC",
+    "country": "SLO",
+    "points": 1.62,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/927f3bff-329a-4259-8c46-bdbcde03e868.jpg?Expires=1767364066&Signature=CaGrwOojdfGRS7eggXP7g8UsdPmz83DHc7~2HpgQ5oCxIt9imIApsHVS-mLgKp5cj1dLRNQP0E~hOKjp~yQTqunPYV~kekDqA~zqL~5qmpklOEZYGss0emEQITfmI3B74cbLS6Y7LXwJHgO2e5F2-UgyLvYr4HrjLMulI0PDJdkhqcCUvd~LU1RJqqaG5cR3MEjWx-IuFAwqUxxIHeF56hpvMNr2h9UWw4g~P4N5Apcqds0cxCJw9FoSN4BHlBLD-EayGg9yHm1sFmVGAz5f7U~~yHofMa9sgsrhFq33aC7Cvqw8Jog-SvAj-k7iIa3JDQHyhwhxDxKxgqEsjZJjmg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/slovenia-size2.png"
+  },
+  {
+    "rank": 195,
+    "name": "Gregor CHALMERS",
+    "country": "GBR",
+    "points": 1.62,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/35bff2d5-6bb4-43f7-bd6f-aac6fb5d1845.png?Expires=1767313560&Signature=DGngPe0f7x4519yrM8smigHxPi7fjMn~D063C2ZXSwix5s~oNxu1wHxrLl~PPoZt2UWdSN0KLVM6a8NIXd8Kyw55BOr9VYphfaRCcO-NO25MraCIpczNu5I5tFbo5wiZO5Sr1sNoPP0ZwQmcZU0GqNIQDwSYmI9sUe7g7G1d7MAUjYsSqLPVkD2rSzm06P9DuVw9Qvi1yIgH~f4CxtMPhUyZoM2BBjBocok0P3oBAcz8~wk-lMC8eITxrwwtV-0YBXVWOzwiUAnADEAdC6I5CSCJIf5qwpKGLKcxcbwCDfbKYXFcnv2neS8ra2L8S4b-bxo2lt1nq0h5OM8mPmYIJw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
+  },
+  {
+    "rank": 195,
+    "name": "Kostiantyn TUZKOV",
+    "country": "UKR",
+    "points": 1.62,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/2f7a22f4-3667-423f-9d14-35d449a60f94.jpg?Expires=1767313560&Signature=EVnugbZpXnebEBQrpKa9wwfXFDm6nD3Hr755SZvjPlUi08ATl5mE7mT3LpC97EiIg0gUGMHWh8u04Coja0vdiPLpXY-UswRQlSSJ7D4WgFcaOfnmlHRYzFoIuW1XB71KDr~Zae3JDGeerrm0HlZqxfKbc25S~FPTCVs3LbJmTJD8Emfcds48-eb5WngGNqmAy2Ghm1y-JB6M7PLEQQeryinRRgSbjutxckc96VMp3woafBR~BeTDRliTiq5fHppzZmMtCrVqIRYA58YuXq9DkYrvckyqAkRGWCG4x~S0Oh3bmSdJHHahOm3wzSrALDWXt~KMKH7bVjmxgHGMKyj0Nw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 199,
+    "name": "ALI KEREM BERKTAS",
+    "country": "TUR",
+    "points": 1.59,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/9642e7f9-f194-4db2-ab8f-cf47f9993a28.jpg?Expires=1767369413&Signature=eHS3A8ju-YmMUEklkUIWMJbvGz2-S2bVyO9T~ruKP6zPLhBUKuwLQfvkbzVsYVSDgMamf7MoLFMpnajirAUziF2yEqhOrPAqZ1Dw2gnwK5e62QBwqRSofuhZxaYj4zXy0OlLdzcpNU67KyhHAptSmFx7I2NPs-IYFzud0uct4qbfo7dJxVezTlHkD1pFNyWMzj0ESdUFStX4Ob8D0emUwJkznkPeFEYZ6kQp8U~Ac0jMbspS3J~u3HBDf9GtXfp3CAhGtWMQI~AXiKJI152~6WaJ~N2VlbWpYVpov~QqQpY7p3fKFkOwwcfxXVeLgxGCSgGKqCUbq~fdBfBNT928Yg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 199,
+    "name": "Efe Hakan BARIS",
+    "country": "TUR",
+    "points": 1.59,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/bbb58e7d-091e-4a0e-9f3c-a0421124dd96.jpg?Expires=1767349680&Signature=hjWN-kQLL7bcqbQkhKxuiUF-TyMr2V0upitegzWr2MgFa7lcsbFi413a93UMoqoAAEH6u7Qm93T8Jb0lXDq4eG3afj5u94snp9RZi-Lj2pTNSPBDufxK0-gbdd-uT-nttclQaa7OmjI1G120FtifIMCDNSHssiaeq2CEelG6G3Xm-KHpY0mI3jTOoQzw-9JUMjZkL1x-JH9y0Qp7rBrQZL0d0WQGJPyL8ZvA1dWOCwsDUy8V0ubkO1bKDNjBkaDvhQWkd1NuPTFviHocm90If6r-vwQh0UWN-3Im5tlT56ybTuOekP8ODIG0m9HlwXH05DX3MLf8BCK-sB5Ztm-T4g__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "PETROS ROUNTARIS",
+    "country": "GRE",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/d306838c-263a-49bc-8adb-17fdd3dc2206.jpg?Expires=1767386973&Signature=ZR9s06L8EM7dW9BWkUrnG56ThUMEYggxj8Ta39YRTBhLKpbqRzu36TijTXswNoStjIU5hWEk0n6Lg~z0azgG9krU9DsOGjrCy02I-DIyLjvdbfyGRYe0LJ6L~KnVxmQ2tli0OSI2gvd1UAOvtmr6q-gSr3cC9xvHN4Fmg9tSrdRGJDlpPzRDh2yNA-c2GVIysIVgInd5KLuMmrH6--OmibzVDS7BAFG1PDod92Sk7VieDL~4mpICosVXWLN12LvW-LdbHhpBiQb0usSsIVSNqjGilSi294~z5w265QUJzNyPFiXOIZkCTFGrCcJun8VTXMT2iHiDaDU10Oro9cjUtA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "DANIEL SEBASTIA BENITEZ",
+    "country": "ESP",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/323d55ed-2495-408f-a386-40e825cfda48.jpg?Expires=1767310672&Signature=OaHbfE21B6TZccgHkfh1kk~Kwo286N0-5rJkcrEgGopbGsIsPWzLP~R6J~uiFEFFsqo4q2Z-qO7qBD2NBwLrHYbg-jenbQNslefmG4qq~7s7ibDriCnU~RO93OTy3C3w3JWLLwc5-zA1Qu5vYokraZfwTidYK77sw~M2PChFs4nO9CyZ6oxYxSlD6yUGJUJfiRwSqlf6X3O9ltFyPGV60f9fOk-Xci2yaMtxGaGW16gN6qzQQ5ympjb9xZnsEqUJ2mNp0OVXFpwGmC9kxkHvG9i4Q1P21aMb0NKd9ysrZXXk4HDDSWL1RdoBk4WjRAoO8wvEDEOkMOgeGtNU-CxrDw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "Philipp REICHERT",
+    "country": "GER",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3ab7bc03-b845-49c5-a941-635b296c0ffe.jpg?Expires=1767349680&Signature=G5N18pOb6cR3FgqQKJsZ9JpPGAyAuIIDP6MfbfqUVl9HIf51eq643BypbTs2WqneUq7Xj-UbxiLAPZyR0QPc9ZQ~9bHGmw4CYOaJjS7FkKu68ySdmZEu0~3tr413oIuWKZetCe7hoLxrmWGQIxFH5bJGFgFdKCosSLOFUt2wba8GXkb9LEXNA-yLh02aO8~8DK7lL1IUNxrdpgswL8TYnKWmzk~1HFx3rCfmjC-x7Cp~UOf6fXkC9GfYd7aLWXenAPknfrC0uwZFgVWJbo2ABtFl6PM6AAwU270lPVVHNaLfTHmb6Dji-wVsBATChO6RZFpCAJTF4htAcQH78xm7nQ__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "Miguel FUENTES SERRANO",
+    "country": "ESP",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/1e844606-a671-415f-92e9-0068a5d8569b.jpg?Expires=1767305973&Signature=fMvc92VSAcO~9UKfcmi~CBM6NHC6cwmNFWo3EzZI8G56Q~g64BQQ7iuhmclL648~fDYgrFwF~EU7H7v0QLkTRqC6CEBP5mHCYh5zT6k6K6Vxhp1CPBzdX7ZhNVnri68upJDHnKf5DXgbFUXPVxNesJGVMMlUJLt9ppOVUCrbsKn4TWyUrxWya6OIUUr749gVOBb4h2vuTQz5fZz4yPaUJHi2Ojw01Vxa8JsIfdmsNR3u3qzkpaul-rEwzs5ymyDBSCQ4P8jfjr8w~nHBOQdvc2Rj-aJMJ-IDowSU41JD2zMpaykqMa31~wkjQrB7fLtej5D6wKgDr2QAD-ZwCFiCPw__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "Diego LIJO PIÑEIRO",
+    "country": "ESP",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/da03de04-4bad-4e16-9660-8cf5d8ec3acf.jpeg?Expires=1767313543&Signature=SdFwbjF7UZaxMPIJvdGtUvM07QiEmaTiUMggOJCUE8mBumxueDxnPgJgKzew8lEagJyH8wgTvcUEA6hsTWs0dS3HGgyqiVjDI17CSJqcOvJ3s68OvwxnknUCixbziWStjRhKkxGn2qPdNoNTsOzVH4Hnnuikk5zODzGoLl-Dx3xeGAMvn~v71m3RCOegUyCzLVsu8Sr8ZfLPXHKR~lUK9mQYIvD2-o-ljWZjZyunS-IkKOBvHvAAG2yB2wUGpsvC-oF91NJgcLHH9xA4Uon-~l7CXf3DUDKF3MN5hpmnqrUgNDFmtrfcSMR1U8Q-R4iPe3eszc~fVER8Z~go23Qj7A__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "Pablo Jose RAYA MANZANO",
+    "country": "ESP",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3fb7b1b5-d32f-4cc1-8ac0-16df42a0d8c3.jpeg?Expires=1767313543&Signature=cXvEFy5b5LP1EWANqp5UIaEWxq1szVsmFKUTv3adc2sn4pKAdR9MQ9L4XJKGLgo3u5jnvO5agtWVbxKfoLcCuRM25w4F9Di-BZgldWD1kM0MWlGPRKStKvXBXNJioUM8gW09IAr56u8nVtlYrh9aNIdm2WrW4GZjDCYk2JKQ~x9mDS7mD2sZpF-sM5w98XmE1JLexbS1k7kZ9LYb3xXy2QZ5QBdfSQguJGf981Mk477yBnJKUSXDtIB93156bLxQoejxUyNWAGsK1Ex-AagFENCcBx3VgaOcXIjjmTYALHKPkgZDc16Rr2F2B09Jx3E65akICh-ESfo6qaZBuw5X-Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "Yelaman AZAT",
+    "country": "KAZ",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/078ac5a4-6336-4242-8104-60331f14ec5d.jpg?Expires=1767349680&Signature=Ta-7HElyAnj8JqIF6QRtmyCu71B-BoSnejc~D5DZ9ZDzmtoFMPBXVjg-imLiVARt4Yg8FZbBVA1rcEuW55qnKFZZTCPaJmNkvXk-5KKxfA8FLWqhaulGvD9d2qnE2s2~1HB7Fk6q-RLI3Mi3rT71nqwrr4V4hTELK26Fk2ijaxJsnqEk5WPN1mQ-0t-9U4g78jcUIwbHBhW2zx9lTE2AHYvriqF5KZvPUfSIMNhEb0gSux4oQhfoWQL8nFUJODGT3bliyacdmj6iaoG8WkwnUHGq8Xt0foM7CUD7pf5UDack5Ms8RZ89r7ZMZTMshrEwSHj8jGvka7yY1-NuIRwCyg__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
+  },
+  {
+    "rank": 201,
+    "name": "EFE EMRE GOKTAS",
+    "country": "TUR",
+    "points": 1.51,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/2eafa8ae-8182-4469-bf1d-7386a5a37b98.jpg?Expires=1767369711&Signature=aL4qsGSpqAW5zsH8TUL85d~1ot925x5IhK0bOncmLxPqwU8YBeiNo7da1w7V8iEJeYbSAhi5dXLRg3k1EM5qJnHQCnjur41CfHnmAa-tYj8ICkO75RJQrnCh4iqRNMIJFtEfumwyRFecf-lcTerCzrPjDgujR8MTDppPlVE3gP97NjoNdRDi8XK8UfQxr36My-jzqm~ns6UunbVxXZOR2ebJlLVZR5upkb1pzFcm2ij1LPYpxT6WxgBMwJ3833IqQMDDjK7hzA1Lkk04GFzBrLXTJ1eLMNzDr2iiv6NA1ziwffZh6jugr3hsMNa3jTJYenjoRlvMCyHOCvi40aog3Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 209,
+    "name": "Alparslan ÖKSÜZ",
+    "country": "GER",
+    "points": 1.13,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/6bda821b-287e-440f-bb52-99b8227bfa0e.jpg?Expires=1767383866&Signature=JzyQI~z2ullO82Szln1bycSPcVSkdTUznPdw1lSeVU9oO41tWY1C6J9Nm1bffQyhyCBpM0t6rlc~gw5m~sfsZ-IwwOd26y2OJn0srrjZupVKHR~Kf83w5QDqHTTCQ-7x~MhvWOY1RzwWPFomAMofEbxYnH-ZGe92NxQ-1y-hLWdB5RawpHw80CMWDduUn05k2AzfLddeRSX9RtH1XHmf4Qsv12pEXgLKl7Qv~tTY9TgKVkQ6vmxMfnMEnm6J9f4SI6~3mRa7tz6mDlpqS56XvkTWfEgqJzxwi2-jrQ~q-rzV0KHfuPxHG5iXUesNpksQlnuww88CPuSmZf-86L2P8w__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 209,
+    "name": "Alberto CASTRO GONZALEZ",
+    "country": "ESP",
+    "points": 1.13,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/3af6f131-2cf2-4db8-a2ba-7f7705ff3ba2.jpg?Expires=1767313543&Signature=UiiSz0gxOxHcQd8xhSWpwrezH71e1A5ONTe8HbKRv18KOq3lsDI7wfCFRA407HvqTOfsflRTeUy8dO8JIhq~O168Qeh0LcBCBHUP4MehERIoqB9ptGirZk639J~F991Nh402Yuii-JvXbu2ZFiHasEEFpr6VTZ4b54tIwZxb3YWP8SXjURHCvUVfSXt-rf01nmxrWpObzvzcqH7cfN0agzec5BV-4C6qPsJ3dS5fnx1M7Ddn0mc3Baw-OdGt0StwLds78n5PwTMGiWU5wqEutmNy7wLxrmnG8L-FoCksHie1ihe7RSW9koCsj8BaO6xe1uaGQTHaMq3BaHbR~Ht~xA__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
+  },
+  {
+    "rank": 209,
+    "name": "Samuele MANDATORI",
+    "country": "ITA",
+    "points": 1.13,
+    "avatarUrl": "https://d1g2abrmx8bi9.cloudfront.net/c8cc710b-90b1-4162-a538-3183fb406ff5.jpeg?Expires=1767386993&Signature=Hsbl963YSMlCc0r~gD9FuCoeaO4csJIHTeG1b02izBorZvdR8uGcjz8~Z-vs9lRm5khwAo9uTI~CTTBg0a3IJo0kehjo4j0Py6bqgk277dYHYFWkhgpOy9IZttMDhhX5K3WqEqPyQ1nfeMMDI71Vga2nLRuDt4Qeue8AlxYGEKZc-QDi4CpF2~qjZ0PCJ5~YnYj7bSVilnkl-gNQ3OyGNri-fqrArmAaiZdUxxDfyHlHfpWPyKGT0N9qd8uQKlWTW~BmMfWkg5WpDwkYXKfususH7Ym8QMwlvz1IXiww8QH27PPHh9lwqR4FYTekEY1FtlvFY24eo1d8vI7R2b8U2Q__&Key-Pair-Id=APKAJKI3OQPGU52M3A3Q",
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  }
+]
