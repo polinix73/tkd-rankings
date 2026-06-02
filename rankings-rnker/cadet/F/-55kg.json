@@ -1,0 +1,608 @@
+[
+  {
+    "rank": 1,
+    "name": "Zainab Mamuti",
+    "country": "SVK",
+    "points": 204.67
+  },
+  {
+    "rank": 2,
+    "name": "Danka Matic",
+    "country": "SRB",
+    "points": 157.93
+  },
+  {
+    "rank": 3,
+    "name": "Ginevra Lisi",
+    "country": "ITA",
+    "points": 136.7
+  },
+  {
+    "rank": 4,
+    "name": "Aikaterini Siaga",
+    "country": "GRE",
+    "points": 135.65
+  },
+  {
+    "rank": 5,
+    "name": "Grace Okpuruka",
+    "country": "POL",
+    "points": 110.55
+  },
+  {
+    "rank": 6,
+    "name": "Rachele Bodratto",
+    "country": "ITA",
+    "points": 86.16
+  },
+  {
+    "rank": 7,
+    "name": "Martina Naumovska",
+    "country": "MKD",
+    "points": 82.92
+  },
+  {
+    "rank": 8,
+    "name": "Nina Boljevic",
+    "country": "MNE",
+    "points": 74.01
+  },
+  {
+    "rank": 9,
+    "name": "Gabriela Nacheva",
+    "country": "BUL",
+    "points": 70.06
+  },
+  {
+    "rank": 10,
+    "name": "Ema Bratoeva",
+    "country": "BUL",
+    "points": 61.53
+  },
+  {
+    "rank": 11,
+    "name": "Oleksandra Shmalii",
+    "country": "UKR",
+    "points": 59.03
+  },
+  {
+    "rank": 12,
+    "name": "Hajar Izmar",
+    "country": "BEL",
+    "points": 46.05
+  },
+  {
+    "rank": 13,
+    "name": "A Anemarie Kovačič",
+    "country": "SLO",
+    "points": 45.03
+  },
+  {
+    "rank": 14,
+    "name": "Maria Stoyanov",
+    "country": "BUL",
+    "points": 41.04
+  },
+  {
+    "rank": 15,
+    "name": "Regina Hofmayer",
+    "country": "GER",
+    "points": 35.36
+  },
+  {
+    "rank": 16,
+    "name": "Katrin Petrova",
+    "country": "BUL",
+    "points": 31.86
+  },
+  {
+    "rank": 17,
+    "name": "Ludovica Scalera",
+    "country": "ITA",
+    "points": 31.86
+  },
+  {
+    "rank": 18,
+    "name": "Athina Santoli",
+    "country": "GRE",
+    "points": 30.62
+  },
+  {
+    "rank": 19,
+    "name": "Ema Mahmutovic",
+    "country": "BIH",
+    "points": 30.26
+  },
+  {
+    "rank": 20,
+    "name": "Andrea Spasojevic",
+    "country": "SRB",
+    "points": 30.0
+  },
+  {
+    "rank": 21,
+    "name": "Kira Kishkel",
+    "country": "BLR",
+    "points": 29.63
+  },
+  {
+    "rank": 22,
+    "name": "Magdalini Grigoria Grigorakou",
+    "country": "GRE",
+    "points": 25.92
+  },
+  {
+    "rank": 23,
+    "name": "Nina Henani Radicci",
+    "country": "FRA",
+    "points": 24.4
+  },
+  {
+    "rank": 24,
+    "name": "Amanda Hukic",
+    "country": "BIH",
+    "points": 24.0
+  },
+  {
+    "rank": 25,
+    "name": "Emily Palmer",
+    "country": "GBR",
+    "points": 21.6
+  },
+  {
+    "rank": 26,
+    "name": "Sofija Petkovic",
+    "country": "SRB",
+    "points": 20.88
+  },
+  {
+    "rank": 27,
+    "name": "Emma Gullì",
+    "country": "ITA",
+    "points": 19.86
+  },
+  {
+    "rank": 28,
+    "name": "Rebecca De Baggis",
+    "country": "ITA",
+    "points": 18.12
+  },
+  {
+    "rank": 29,
+    "name": "Ivayla Hristova",
+    "country": "BUL",
+    "points": 16.8
+  },
+  {
+    "rank": 30,
+    "name": "Paula Kučiš",
+    "country": "CRO",
+    "points": 15.54
+  },
+  {
+    "rank": 31,
+    "name": "Kataleja Rybkina",
+    "country": "LTU",
+    "points": 15.06
+  },
+  {
+    "rank": 32,
+    "name": "Aurora Roščić",
+    "country": "CRO",
+    "points": 14.85
+  },
+  {
+    "rank": 33,
+    "name": "Yasmin Ijaouane",
+    "country": "NED",
+    "points": 14.32
+  },
+  {
+    "rank": 34,
+    "name": "Konstantina Thanou",
+    "country": "GRE",
+    "points": 13.92
+  },
+  {
+    "rank": 35,
+    "name": "Hana Rejholcová",
+    "country": "CZE",
+    "points": 13.83
+  },
+  {
+    "rank": 36,
+    "name": "Una Hartman",
+    "country": "CRO",
+    "points": 13.68
+  },
+  {
+    "rank": 37,
+    "name": "Noreia Vales Fernández",
+    "country": "ESP",
+    "points": 13.2
+  },
+  {
+    "rank": 38,
+    "name": "Anna Tekistirma",
+    "country": "GRE",
+    "points": 12.96
+  },
+  {
+    "rank": 39,
+    "name": "Foteini Papadopoulou",
+    "country": "GRE",
+    "points": 12.96
+  },
+  {
+    "rank": 40,
+    "name": "Zeyneb Albayrak",
+    "country": "TUR",
+    "points": 12.96
+  },
+  {
+    "rank": 41,
+    "name": "Maria Moustaka",
+    "country": "GRE",
+    "points": 12.84
+  },
+  {
+    "rank": 42,
+    "name": "Nadja Music",
+    "country": "AUT",
+    "points": 12.48
+  },
+  {
+    "rank": 43,
+    "name": "Laura Beljaars",
+    "country": "BEL",
+    "points": 12.0
+  },
+  {
+    "rank": 44,
+    "name": "Sofija Vukotic",
+    "country": "BIH",
+    "points": 10.8
+  },
+  {
+    "rank": 45,
+    "name": "Elizaveta Goncharova",
+    "country": "RUS",
+    "points": 10.0
+  },
+  {
+    "rank": 46,
+    "name": "Emilia Mojarro Jimenez",
+    "country": "ESP",
+    "points": 9.06
+  },
+  {
+    "rank": 47,
+    "name": "Helin Elibul",
+    "country": "TUR",
+    "points": 9.06
+  },
+  {
+    "rank": 48,
+    "name": "Irene Valente",
+    "country": "ITA",
+    "points": 9.06
+  },
+  {
+    "rank": 49,
+    "name": "Isabella Colasanti",
+    "country": "ITA",
+    "points": 9.06
+  },
+  {
+    "rank": 50,
+    "name": "Katja Markovic",
+    "country": "SRB",
+    "points": 9.06
+  },
+  {
+    "rank": 51,
+    "name": "Natalia Kardara",
+    "country": "GRE",
+    "points": 9.06
+  },
+  {
+    "rank": 52,
+    "name": "Nilda Nur Coban",
+    "country": "TUR",
+    "points": 9.06
+  },
+  {
+    "rank": 53,
+    "name": "Eda Eren",
+    "country": "AZE",
+    "points": 7.5
+  },
+  {
+    "rank": 54,
+    "name": "Seo-Hyeon Ye",
+    "country": "KOR",
+    "points": 7.5
+  },
+  {
+    "rank": 55,
+    "name": "Dariia Soroka",
+    "country": "UKR",
+    "points": 7.2
+  },
+  {
+    "rank": 56,
+    "name": "Ayse Ecrin Soylemez",
+    "country": "TUR",
+    "points": 6.48
+  },
+  {
+    "rank": 57,
+    "name": "Franka Ahac",
+    "country": "CRO",
+    "points": 6.48
+  },
+  {
+    "rank": 58,
+    "name": "Matea Dinter",
+    "country": "CRO",
+    "points": 6.48
+  },
+  {
+    "rank": 59,
+    "name": "Athina Elpiniki Pappa",
+    "country": "GRE",
+    "points": 6.36
+  },
+  {
+    "rank": 60,
+    "name": "Maryia Kazakevich",
+    "country": "BLR",
+    "points": 6.36
+  },
+  {
+    "rank": 61,
+    "name": "Oleksandra Hladun",
+    "country": "UKR",
+    "points": 6.36
+  },
+  {
+    "rank": 62,
+    "name": "Ceren Bozkurt",
+    "country": "TUR",
+    "points": 6.26
+  },
+  {
+    "rank": 63,
+    "name": "Emely Donner",
+    "country": "GER",
+    "points": 6.0
+  },
+  {
+    "rank": 64,
+    "name": "Fatiha Dif",
+    "country": "FRA",
+    "points": 6.0
+  },
+  {
+    "rank": 65,
+    "name": "Sare Sevde Tulek",
+    "country": "TUR",
+    "points": 6.0
+  },
+  {
+    "rank": 66,
+    "name": "Hazal Cavus",
+    "country": "TUR",
+    "points": 5.76
+  },
+  {
+    "rank": 67,
+    "name": "Melek Yagmur Ergun",
+    "country": "TUR",
+    "points": 5.4
+  },
+  {
+    "rank": 68,
+    "name": "Helena Lovric",
+    "country": "CRO",
+    "points": 4.32
+  },
+  {
+    "rank": 69,
+    "name": "Lada Ojstersek",
+    "country": "SRB",
+    "points": 4.32
+  },
+  {
+    "rank": 70,
+    "name": "Leonie Dorn",
+    "country": "AUT",
+    "points": 4.32
+  },
+  {
+    "rank": 71,
+    "name": "Mia Vukadin",
+    "country": "BIH",
+    "points": 4.32
+  },
+  {
+    "rank": 72,
+    "name": "Tena Zanoski",
+    "country": "CRO",
+    "points": 4.32
+  },
+  {
+    "rank": 73,
+    "name": "Assia Maarouf",
+    "country": "FRA",
+    "points": 3.6
+  },
+  {
+    "rank": 74,
+    "name": "Diana Kumykova",
+    "country": "RUS",
+    "points": 3.6
+  },
+  {
+    "rank": 75,
+    "name": "Duru Karabulut",
+    "country": "TUR",
+    "points": 3.6
+  },
+  {
+    "rank": 76,
+    "name": "Enara Sanchez Calvo",
+    "country": "ESP",
+    "points": 3.6
+  },
+  {
+    "rank": 77,
+    "name": "Erva Baygün",
+    "country": "GER",
+    "points": 3.6
+  },
+  {
+    "rank": 78,
+    "name": "Grace Lodhi",
+    "country": "USA",
+    "points": 3.6
+  },
+  {
+    "rank": 79,
+    "name": "Noelia Madelyn Dimayuga Martinez",
+    "country": "ESP",
+    "points": 3.6
+  },
+  {
+    "rank": 80,
+    "name": "Viktoriia Lonska",
+    "country": "UKR",
+    "points": 3.6
+  },
+  {
+    "rank": 81,
+    "name": "Melinda Drougat",
+    "country": "FRA",
+    "points": 3.24
+  },
+  {
+    "rank": 82,
+    "name": "Iva Majer",
+    "country": "SRB",
+    "points": 2.7
+  },
+  {
+    "rank": 83,
+    "name": "Zeynep Ece Simsir",
+    "country": "TUR",
+    "points": 2.27
+  },
+  {
+    "rank": 84,
+    "name": "Binaca Pantea",
+    "country": "MDA",
+    "points": 2.16
+  },
+  {
+    "rank": 85,
+    "name": "Diana Holub",
+    "country": "UKR",
+    "points": 2.16
+  },
+  {
+    "rank": 86,
+    "name": "Ecrin Celik",
+    "country": "TUR",
+    "points": 2.16
+  },
+  {
+    "rank": 87,
+    "name": "Julia Bertolin Ruiz",
+    "country": "ESP",
+    "points": 2.16
+  },
+  {
+    "rank": 88,
+    "name": "Marta Catiñeira Romero",
+    "country": "ESP",
+    "points": 2.16
+  },
+  {
+    "rank": 89,
+    "name": "Melin Öztekin",
+    "country": "SUI",
+    "points": 2.16
+  },
+  {
+    "rank": 90,
+    "name": "Merve Nisa Mizrak",
+    "country": "TUR",
+    "points": 2.16
+  },
+  {
+    "rank": 91,
+    "name": "Naomie Ríos Trotet",
+    "country": "ESP",
+    "points": 2.16
+  },
+  {
+    "rank": 92,
+    "name": "Saray Salazar Obando",
+    "country": "ESP",
+    "points": 2.16
+  },
+  {
+    "rank": 93,
+    "name": "Simge Gul Gunduz",
+    "country": "TUR",
+    "points": 2.16
+  },
+  {
+    "rank": 94,
+    "name": "Andromachi Manolopoulou",
+    "country": "GRE",
+    "points": 2.12
+  },
+  {
+    "rank": 95,
+    "name": "Lygnou Anna Myrto",
+    "country": "GRE",
+    "points": 2.12
+  },
+  {
+    "rank": 96,
+    "name": "Katarina Kacanski",
+    "country": "SRB",
+    "points": 1.62
+  },
+  {
+    "rank": 97,
+    "name": "Almina Ergun",
+    "country": "TUR",
+    "points": 1.51
+  },
+  {
+    "rank": 98,
+    "name": "Belinay Torun",
+    "country": "TUR",
+    "points": 1.51
+  },
+  {
+    "rank": 99,
+    "name": "Ipek Zeynep Aydin",
+    "country": "TUR",
+    "points": 1.51
+  },
+  {
+    "rank": 100,
+    "name": "Miray Havva Celebi",
+    "country": "TUR",
+    "points": 1.51
+  },
+  {
+    "rank": 101,
+    "name": "Nagore Gonzalez Alvarez",
+    "country": "ESP",
+    "points": 1.08
+  }
+]
