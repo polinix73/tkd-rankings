@@ -1,1 +1,1340 @@
-[]
+[
+  {
+    "rank": 1,
+    "name": "Seif Eissa",
+    "country": "EGY",
+    "points": 218.0
+  },
+  {
+    "rank": 2,
+    "name": "Szymon Piatkowski",
+    "country": "POL",
+    "points": 172.68
+  },
+  {
+    "rank": 3,
+    "name": "Simone Alessio",
+    "country": "ITA",
+    "points": 163.0
+  },
+  {
+    "rank": 4,
+    "name": "Artem Harbar",
+    "country": "UKR",
+    "points": 139.4
+  },
+  {
+    "rank": 5,
+    "name": "Saleh Elsharabaty",
+    "country": "JOR",
+    "points": 107.48
+  },
+  {
+    "rank": 6,
+    "name": "Sergio Troitiño Amoedo",
+    "country": "ESP",
+    "points": 101.26
+  },
+  {
+    "rank": 7,
+    "name": "Jordan Stewart",
+    "country": "CAN",
+    "points": 91.3
+  },
+  {
+    "rank": 8,
+    "name": "Icaro Miguel Martins Soares",
+    "country": "BRA",
+    "points": 83.64
+  },
+  {
+    "rank": 9,
+    "name": "Shukhrat Salaev",
+    "country": "UZB",
+    "points": 79.4
+  },
+  {
+    "rank": 10,
+    "name": "Yodgorbek Zhuraboev",
+    "country": "UZB",
+    "points": 78.96
+  },
+  {
+    "rank": 11,
+    "name": "Vasileios Tholiotis",
+    "country": "GRE",
+    "points": 75.93
+  },
+  {
+    "rank": 12,
+    "name": "Mohammad Hossein Yazdani",
+    "country": "IRI",
+    "points": 62.48
+  },
+  {
+    "rank": 13,
+    "name": "Josip Bilic Pavlinovic",
+    "country": "CRO",
+    "points": 59.66
+  },
+  {
+    "rank": 14,
+    "name": "Erol Nuci",
+    "country": "BIH",
+    "points": 58.47
+  },
+  {
+    "rank": 15,
+    "name": "Richard Andre Ordemann",
+    "country": "NOR",
+    "points": 58.22
+  },
+  {
+    "rank": 16,
+    "name": "Liang-Hsi Chen",
+    "country": "TPE",
+    "points": 56.46
+  },
+  {
+    "rank": 17,
+    "name": "Woo Hyeok Park",
+    "country": "KOR",
+    "points": 54.82
+  },
+  {
+    "rank": 18,
+    "name": "Khouyyar Zakaria",
+    "country": "MAR",
+    "points": 53.49
+  },
+  {
+    "rank": 19,
+    "name": "Batyrkhan Toleugali",
+    "country": "KAZ",
+    "points": 53.0
+  },
+  {
+    "rank": 20,
+    "name": "Yousssouf Soumano",
+    "country": "MLI",
+    "points": 52.42
+  },
+  {
+    "rank": 21,
+    "name": "Orkun Atesli",
+    "country": "TUR",
+    "points": 51.26
+  },
+  {
+    "rank": 22,
+    "name": "Motaz Ifaoui",
+    "country": "TUN",
+    "points": 50.68
+  },
+  {
+    "rank": 23,
+    "name": "Oscar Navarro",
+    "country": "MEX",
+    "points": 50.37
+  },
+  {
+    "rank": 24,
+    "name": "Vito Krpan",
+    "country": "CRO",
+    "points": 49.72
+  },
+  {
+    "rank": 25,
+    "name": "Michael C. Rodriguez",
+    "country": "USA",
+    "points": 49.22
+  },
+  {
+    "rank": 26,
+    "name": "Ahmad Rawy",
+    "country": "EGY",
+    "points": 48.67
+  },
+  {
+    "rank": 27,
+    "name": "Vladislav Budin",
+    "country": "RUS",
+    "points": 48.62
+  },
+  {
+    "rank": 28,
+    "name": "Stefan Stojanovic",
+    "country": "SRB",
+    "points": 48.31
+  },
+  {
+    "rank": 29,
+    "name": "Hidenori Ebata",
+    "country": "JPN",
+    "points": 46.25
+  },
+  {
+    "rank": 30,
+    "name": "Kelen Bailey",
+    "country": "HUN",
+    "points": 46.02
+  },
+  {
+    "rank": 31,
+    "name": "Eltaj Gafarov",
+    "country": "AZE",
+    "points": 42.59
+  },
+  {
+    "rank": 32,
+    "name": "Daniil Yurkou",
+    "country": "BLR",
+    "points": 41.82
+  },
+  {
+    "rank": 33,
+    "name": "Farzad Mansouri",
+    "country": "EOR",
+    "points": 41.17
+  },
+  {
+    "rank": 34,
+    "name": "Nahil Mehnana",
+    "country": "FRA",
+    "points": 41.08
+  },
+  {
+    "rank": 35,
+    "name": "Mingkuan Meng",
+    "country": "CHN",
+    "points": 40.44
+  },
+  {
+    "rank": 36,
+    "name": "Nurlan Myrzabayev",
+    "country": "KAZ",
+    "points": 40.24
+  },
+  {
+    "rank": 37,
+    "name": "Isaiah Young",
+    "country": "USA",
+    "points": 40.0
+  },
+  {
+    "rank": 38,
+    "name": "Thiago Joaquin Corro",
+    "country": "ARG",
+    "points": 38.05
+  },
+  {
+    "rank": 39,
+    "name": "Rafael Kamalov",
+    "country": "RUS",
+    "points": 36.36
+  },
+  {
+    "rank": 40,
+    "name": "Jobe Stewart",
+    "country": "AUS",
+    "points": 34.26
+  },
+  {
+    "rank": 41,
+    "name": "Ali Mabrouk S Almabrouk",
+    "country": "KSA",
+    "points": 33.94
+  },
+  {
+    "rank": 42,
+    "name": "Muhammad Syafiq Zuber",
+    "country": "MAS",
+    "points": 32.88
+  },
+  {
+    "rank": 43,
+    "name": "Mehdi Abedini",
+    "country": "EOR",
+    "points": 31.84
+  },
+  {
+    "rank": 44,
+    "name": "Mohammad Mokhtari",
+    "country": "USA",
+    "points": 28.54
+  },
+  {
+    "rank": 45,
+    "name": "Ismael Bouzid Souhili",
+    "country": "FRA",
+    "points": 27.24
+  },
+  {
+    "rank": 46,
+    "name": "Ibrahima Diallo",
+    "country": "GUI",
+    "points": 27.0
+  },
+  {
+    "rank": 47,
+    "name": "Hassan Amer Ali",
+    "country": "DEN",
+    "points": 26.93
+  },
+  {
+    "rank": 48,
+    "name": "Diego Alejandro-Vargas",
+    "country": "PUR",
+    "points": 26.7
+  },
+  {
+    "rank": 49,
+    "name": "Gabriel González Ávila",
+    "country": "CRC",
+    "points": 26.64
+  },
+  {
+    "rank": 50,
+    "name": "Laurentiu Snacov",
+    "country": "ROU",
+    "points": 26.33
+  },
+  {
+    "rank": 51,
+    "name": "Luiz Eduardo Goncalves Carvalho",
+    "country": "BRA",
+    "points": 26.21
+  },
+  {
+    "rank": 52,
+    "name": "Andreas Theocharous",
+    "country": "CYP",
+    "points": 24.12
+  },
+  {
+    "rank": 53,
+    "name": "Mohammad Alizadeh",
+    "country": "IRI",
+    "points": 24.0
+  },
+  {
+    "rank": 54,
+    "name": "Chaoyang Liu",
+    "country": "CHN",
+    "points": 21.17
+  },
+  {
+    "rank": 55,
+    "name": "Moises Hernandez",
+    "country": "DOM",
+    "points": 21.17
+  },
+  {
+    "rank": 56,
+    "name": "Mederic Emmanuel Desire A. Angaman",
+    "country": "CIV",
+    "points": 20.82
+  },
+  {
+    "rank": 57,
+    "name": "Alexander Pryazhnikov",
+    "country": "RUS",
+    "points": 20.8
+  },
+  {
+    "rank": 58,
+    "name": "Vincent Hoermann",
+    "country": "GER",
+    "points": 20.74
+  },
+  {
+    "rank": 59,
+    "name": "Alexander Oberhofer",
+    "country": "ITA",
+    "points": 20.04
+  },
+  {
+    "rank": 60,
+    "name": "Ali Ahmadi",
+    "country": "IRI",
+    "points": 19.61
+  },
+  {
+    "rank": 61,
+    "name": "Allif Souza",
+    "country": "BRA",
+    "points": 17.21
+  },
+  {
+    "rank": 62,
+    "name": "Kasra Mehdipournejad",
+    "country": "USA",
+    "points": 16.8
+  },
+  {
+    "rank": 63,
+    "name": "Nurkanat Kozhakhmet",
+    "country": "KAZ",
+    "points": 16.8
+  },
+  {
+    "rank": 64,
+    "name": "Meiir Nurgazin",
+    "country": "KAZ",
+    "points": 16.41
+  },
+  {
+    "rank": 65,
+    "name": "Patrik Divkovic",
+    "country": "SLO",
+    "points": 15.91
+  },
+  {
+    "rank": 66,
+    "name": "Faysal Sawadogo",
+    "country": "BUR",
+    "points": 15.36
+  },
+  {
+    "rank": 67,
+    "name": "Rishabh .",
+    "country": "IND",
+    "points": 14.82
+  },
+  {
+    "rank": 68,
+    "name": "Henrique Marques Rodrigues Fernandes",
+    "country": "BRA",
+    "points": 14.4
+  },
+  {
+    "rank": 69,
+    "name": "Luis Alvarez",
+    "country": "VEN",
+    "points": 14.4
+  },
+  {
+    "rank": 70,
+    "name": "Tiago Ribeiro",
+    "country": "POR",
+    "points": 14.33
+  },
+  {
+    "rank": 71,
+    "name": "🇭🇷",
+    "country": "CRO",
+    "points": 14.28
+  },
+  {
+    "rank": 72,
+    "name": "Jasser Aouni",
+    "country": "KSA",
+    "points": 14.16
+  },
+  {
+    "rank": 73,
+    "name": "Ossanando Nauval",
+    "country": "INA",
+    "points": 13.97
+  },
+  {
+    "rank": 74,
+    "name": "Woojin Kim",
+    "country": "KOR",
+    "points": 13.24
+  },
+  {
+    "rank": 75,
+    "name": "Jun-Ren Jian",
+    "country": "TPE",
+    "points": 13.2
+  },
+  {
+    "rank": 76,
+    "name": "Jack  Woody Mercer",
+    "country": "THA",
+    "points": 12.96
+  },
+  {
+    "rank": 77,
+    "name": "Mohammad Ashraf Shukran",
+    "country": "AFG",
+    "points": 12.53
+  },
+  {
+    "rank": 78,
+    "name": "Jose Lopez Haro",
+    "country": "MEX",
+    "points": 12.24
+  },
+  {
+    "rank": 79,
+    "name": "Luis German Soto Bautista",
+    "country": "COL",
+    "points": 12.24
+  },
+  {
+    "rank": 80,
+    "name": "Shokhjakhon Karimboev",
+    "country": "UZB",
+    "points": 12.1
+  },
+  {
+    "rank": 81,
+    "name": "Bruno Romero Watson",
+    "country": "MEX",
+    "points": 12.05
+  },
+  {
+    "rank": 82,
+    "name": "Hassani Andrade Herrera",
+    "country": "PER",
+    "points": 11.66
+  },
+  {
+    "rank": 83,
+    "name": "Aris Stylianidis",
+    "country": "CYP",
+    "points": 11.45
+  },
+  {
+    "rank": 84,
+    "name": "Ismael Omer Akbulut Vico",
+    "country": "ESP",
+    "points": 10.85
+  },
+  {
+    "rank": 85,
+    "name": "Leandro Souza",
+    "country": "BRA",
+    "points": 10.8
+  },
+  {
+    "rank": 86,
+    "name": "Yusuf Senol",
+    "country": "TUR",
+    "points": 10.48
+  },
+  {
+    "rank": 87,
+    "name": "Daniel Dasent-Thomson",
+    "country": "TTO",
+    "points": 10.37
+  },
+  {
+    "rank": 88,
+    "name": "Juan Luis Ramos Morales",
+    "country": "CHI",
+    "points": 10.37
+  },
+  {
+    "rank": 89,
+    "name": "Mohammad Hesam Hamedi",
+    "country": "USA",
+    "points": 10.37
+  },
+  {
+    "rank": 90,
+    "name": "Yamen Faraj",
+    "country": "LBN",
+    "points": 10.37
+  },
+  {
+    "rank": 91,
+    "name": "Dimitrije Ajdukovic",
+    "country": "SRB",
+    "points": 10.08
+  },
+  {
+    "rank": 92,
+    "name": "Sang Hun Park",
+    "country": "KOR",
+    "points": 10.0
+  },
+  {
+    "rank": 93,
+    "name": "Ognjen Radaković",
+    "country": "SRB",
+    "points": 9.29
+  },
+  {
+    "rank": 94,
+    "name": "Adam Jochman",
+    "country": "CZE",
+    "points": 8.28
+  },
+  {
+    "rank": 95,
+    "name": "Bekarys Bekenov",
+    "country": "KAZ",
+    "points": 8.24
+  },
+  {
+    "rank": 96,
+    "name": "Mhd Raihan Fadhila",
+    "country": "INA",
+    "points": 7.92
+  },
+  {
+    "rank": 97,
+    "name": "🇰🇷",
+    "country": "KOR",
+    "points": 7.2
+  },
+  {
+    "rank": 98,
+    "name": "Jonathan Michael Henry",
+    "country": "PER",
+    "points": 7.2
+  },
+  {
+    "rank": 99,
+    "name": "Scott Krueger",
+    "country": "USA",
+    "points": 7.2
+  },
+  {
+    "rank": 100,
+    "name": "Tuersun Maierdan",
+    "country": "CHN",
+    "points": 7.2
+  },
+  {
+    "rank": 101,
+    "name": "Konstantinos Zouros Ka Rdatos",
+    "country": "GRE",
+    "points": 6.8
+  },
+  {
+    "rank": 102,
+    "name": "Ahmad Alsiddeh",
+    "country": "JOR",
+    "points": 6.62
+  },
+  {
+    "rank": 103,
+    "name": "Jaka Babic",
+    "country": "SLO",
+    "points": 6.48
+  },
+  {
+    "rank": 104,
+    "name": "Victor Armando Ramírez Ramírez",
+    "country": "MEX",
+    "points": 6.48
+  },
+  {
+    "rank": 105,
+    "name": "Tom Van Den Enden",
+    "country": "NED",
+    "points": 6.19
+  },
+  {
+    "rank": 106,
+    "name": "Abhishek Kumar",
+    "country": "IND",
+    "points": 6.05
+  },
+  {
+    "rank": 107,
+    "name": "Diego Dominguez",
+    "country": "USA",
+    "points": 6.05
+  },
+  {
+    "rank": 108,
+    "name": "Fotios Dompas",
+    "country": "GRE",
+    "points": 6.05
+  },
+  {
+    "rank": 109,
+    "name": "Ho Nhan Van Tran",
+    "country": "VIE",
+    "points": 6.05
+  },
+  {
+    "rank": 110,
+    "name": "Julio Octavio Gonzalez Bautista",
+    "country": "MEX",
+    "points": 6.05
+  },
+  {
+    "rank": 111,
+    "name": "Jun Seo Lee",
+    "country": "KOR",
+    "points": 6.05
+  },
+  {
+    "rank": 112,
+    "name": "🇧🇷",
+    "country": "BRA",
+    "points": 6.05
+  },
+  {
+    "rank": 113,
+    "name": "Manjeet Singh",
+    "country": "IND",
+    "points": 6.05
+  },
+  {
+    "rank": 114,
+    "name": "Odegi Frank Thomas",
+    "country": "KEN",
+    "points": 6.05
+  },
+  {
+    "rank": 115,
+    "name": "Omid Sahak",
+    "country": "AFG",
+    "points": 6.05
+  },
+  {
+    "rank": 116,
+    "name": "Sandro Fronda",
+    "country": "SWE",
+    "points": 6.05
+  },
+  {
+    "rank": 117,
+    "name": "Azizbek Abdukodirov",
+    "country": "UZB",
+    "points": 6.0
+  },
+  {
+    "rank": 118,
+    "name": "Chaichon Cho",
+    "country": "THA",
+    "points": 6.0
+  },
+  {
+    "rank": 119,
+    "name": "Firas Katousi",
+    "country": "TUN",
+    "points": 6.0
+  },
+  {
+    "rank": 120,
+    "name": "Jihoon Oh",
+    "country": "KOR",
+    "points": 6.0
+  },
+  {
+    "rank": 121,
+    "name": "Yu Chan Ko",
+    "country": "KOR",
+    "points": 6.0
+  },
+  {
+    "rank": 122,
+    "name": "Zhengyang Li",
+    "country": "CHN",
+    "points": 6.0
+  },
+  {
+    "rank": 123,
+    "name": "Lucas Llopis Sanchez",
+    "country": "ESP",
+    "points": 5.83
+  },
+  {
+    "rank": 124,
+    "name": "Steve Kinsansi",
+    "country": "FRA",
+    "points": 5.76
+  },
+  {
+    "rank": 125,
+    "name": "Ahmed Rahali",
+    "country": "MAR",
+    "points": 5.4
+  },
+  {
+    "rank": 126,
+    "name": "Huseyin Kartal",
+    "country": "TUR",
+    "points": 5.31
+  },
+  {
+    "rank": 127,
+    "name": "Gabijus Balciunas",
+    "country": "LTU",
+    "points": 5.18
+  },
+  {
+    "rank": 128,
+    "name": "Slim Rhimi",
+    "country": "TUN",
+    "points": 5.18
+  },
+  {
+    "rank": 129,
+    "name": "Abdelazim Ismail",
+    "country": "KAZ",
+    "points": 5.16
+  },
+  {
+    "rank": 130,
+    "name": "Zbigniew Jablonski",
+    "country": "POL",
+    "points": 5.16
+  },
+  {
+    "rank": 131,
+    "name": "Azizjan Tadjibaev",
+    "country": "FRA",
+    "points": 5.0
+  },
+  {
+    "rank": 132,
+    "name": "David Robleto",
+    "country": "NCA",
+    "points": 5.0
+  },
+  {
+    "rank": 133,
+    "name": "Sanghyun Kim",
+    "country": "KOR",
+    "points": 5.0
+  },
+  {
+    "rank": 134,
+    "name": "Alejandro Martin Sanchez",
+    "country": "ESP",
+    "points": 4.82
+  },
+  {
+    "rank": 135,
+    "name": "Rafail Ioannis Maretis",
+    "country": "GRE",
+    "points": 4.8
+  },
+  {
+    "rank": 136,
+    "name": "Taleh Suleymanov",
+    "country": "AZE",
+    "points": 4.75
+  },
+  {
+    "rank": 137,
+    "name": "Aly Yazbeck Coulibaly",
+    "country": "BUR",
+    "points": 4.32
+  },
+  {
+    "rank": 138,
+    "name": "🇦🇺",
+    "country": "AUS",
+    "points": 4.32
+  },
+  {
+    "rank": 139,
+    "name": "Chaney Cecil",
+    "country": "USA",
+    "points": 4.32
+  },
+  {
+    "rank": 140,
+    "name": "Hwan Namgoong",
+    "country": "KOR",
+    "points": 4.32
+  },
+  {
+    "rank": 141,
+    "name": "Jianwei Zu",
+    "country": "CHN",
+    "points": 4.32
+  },
+  {
+    "rank": 142,
+    "name": "Marlon Kisisely Perez",
+    "country": "COL",
+    "points": 4.32
+  },
+  {
+    "rank": 143,
+    "name": "Tyler Edmiston",
+    "country": "USA",
+    "points": 4.32
+  },
+  {
+    "rank": 144,
+    "name": "Erik Farmakas",
+    "country": "SWE",
+    "points": 4.23
+  },
+  {
+    "rank": 145,
+    "name": "Juan Esquivel Ramirez",
+    "country": "MEX",
+    "points": 4.23
+  },
+  {
+    "rank": 146,
+    "name": "Mohammed Mustafa S Alsowaiq",
+    "country": "KSA",
+    "points": 4.23
+  },
+  {
+    "rank": 147,
+    "name": "Rohit Shokeen",
+    "country": "IND",
+    "points": 4.23
+  },
+  {
+    "rank": 148,
+    "name": "Nipesh Prakash",
+    "country": "FIJ",
+    "points": 3.96
+  },
+  {
+    "rank": 149,
+    "name": "Muhammet Talha Sari",
+    "country": "TUR",
+    "points": 3.67
+  },
+  {
+    "rank": 150,
+    "name": "Amir Mohammad Ghahremani",
+    "country": "IRI",
+    "points": 3.6
+  },
+  {
+    "rank": 151,
+    "name": "Charlélie Mercier",
+    "country": "CAN",
+    "points": 3.6
+  },
+  {
+    "rank": 152,
+    "name": "Chukwudi Prince Daniel",
+    "country": "NGR",
+    "points": 3.6
+  },
+  {
+    "rank": 153,
+    "name": "Enbiya Taha Bicer",
+    "country": "TUR",
+    "points": 3.6
+  },
+  {
+    "rank": 154,
+    "name": "Francisco Lara Gavidia",
+    "country": "ESA",
+    "points": 3.6
+  },
+  {
+    "rank": 155,
+    "name": "Ikhtisham Ul Haq",
+    "country": "PAK",
+    "points": 3.6
+  },
+  {
+    "rank": 156,
+    "name": "Llies Alassali",
+    "country": "UAE",
+    "points": 3.6
+  },
+  {
+    "rank": 157,
+    "name": "Mehdi Abedini",
+    "country": "GER",
+    "points": 3.6
+  },
+  {
+    "rank": 158,
+    "name": "Nurlan Bayhodjaev",
+    "country": "UZB",
+    "points": 3.6
+  },
+  {
+    "rank": 159,
+    "name": "Shekhar Singh",
+    "country": "IND",
+    "points": 3.6
+  },
+  {
+    "rank": 160,
+    "name": "Simone Montinaro",
+    "country": "ITA",
+    "points": 3.6
+  },
+  {
+    "rank": 161,
+    "name": "Joshua Noel Jürgens",
+    "country": "GER",
+    "points": 3.24
+  },
+  {
+    "rank": 162,
+    "name": "Julian Webb Corrales",
+    "country": "CRC",
+    "points": 3.24
+  },
+  {
+    "rank": 163,
+    "name": "Jaehui Lee",
+    "country": "KOR",
+    "points": 3.02
+  },
+  {
+    "rank": 164,
+    "name": "Kelly Kougblenou",
+    "country": "GER",
+    "points": 3.02
+  },
+  {
+    "rank": 165,
+    "name": "Michael Davidson",
+    "country": "GHA",
+    "points": 3.02
+  },
+  {
+    "rank": 166,
+    "name": "Mohamed Leith Benhassine",
+    "country": "TUN",
+    "points": 3.02
+  },
+  {
+    "rank": 167,
+    "name": "Sadullah Karakoc",
+    "country": "TUR",
+    "points": 3.02
+  },
+  {
+    "rank": 168,
+    "name": "Aaron Marcos Martinez",
+    "country": "ESP",
+    "points": 3.0
+  },
+  {
+    "rank": 169,
+    "name": "Amirmohammad Ashrafi",
+    "country": "IRI",
+    "points": 3.0
+  },
+  {
+    "rank": 170,
+    "name": "Israel Cesar Cantos",
+    "country": "PHI",
+    "points": 3.0
+  },
+  {
+    "rank": 171,
+    "name": "Jun Pyo Choi",
+    "country": "KOR",
+    "points": 3.0
+  },
+  {
+    "rank": 172,
+    "name": "Sergen Curabaz",
+    "country": "TUR",
+    "points": 3.0
+  },
+  {
+    "rank": 173,
+    "name": "Aboubacar Diaby",
+    "country": "FRA",
+    "points": 2.88
+  },
+  {
+    "rank": 174,
+    "name": "Giwon Kwon",
+    "country": "KOR",
+    "points": 2.27
+  },
+  {
+    "rank": 175,
+    "name": "Kuk Hwan Lyu",
+    "country": "KOR",
+    "points": 2.27
+  },
+  {
+    "rank": 176,
+    "name": "Brayan Gil Adames",
+    "country": "DOM",
+    "points": 2.16
+  },
+  {
+    "rank": 177,
+    "name": "Dylan Largeteau",
+    "country": "FRA",
+    "points": 2.16
+  },
+  {
+    "rank": 178,
+    "name": "Ertugrul Celik",
+    "country": "TUR",
+    "points": 2.16
+  },
+  {
+    "rank": 179,
+    "name": "Ferhat Muhammet Saroglu",
+    "country": "TUR",
+    "points": 2.16
+  },
+  {
+    "rank": 180,
+    "name": "Jay Nilesh Kimiyagar",
+    "country": "IND",
+    "points": 2.16
+  },
+  {
+    "rank": 181,
+    "name": "Jesus Fabian Gomez Lopez",
+    "country": "MEX",
+    "points": 2.16
+  },
+  {
+    "rank": 182,
+    "name": "Jonathan Henry",
+    "country": "USA",
+    "points": 2.16
+  },
+  {
+    "rank": 183,
+    "name": "Jubaraj Roy",
+    "country": "IND",
+    "points": 2.16
+  },
+  {
+    "rank": 184,
+    "name": "Kaijie Wang",
+    "country": "CHN",
+    "points": 2.16
+  },
+  {
+    "rank": 185,
+    "name": "Luan Hiseni",
+    "country": "GER",
+    "points": 2.16
+  },
+  {
+    "rank": 186,
+    "name": "Maickol Orozco",
+    "country": "DOM",
+    "points": 2.16
+  },
+  {
+    "rank": 187,
+    "name": "Marcelo Jose Da Silva Melo",
+    "country": "BRA",
+    "points": 2.16
+  },
+  {
+    "rank": 188,
+    "name": "Mikolaj Szaferski",
+    "country": "POL",
+    "points": 2.16
+  },
+  {
+    "rank": 189,
+    "name": "Milos Golubovic",
+    "country": "SRB",
+    "points": 2.16
+  },
+  {
+    "rank": 190,
+    "name": "Muhammad Shafi Khan",
+    "country": "PAK",
+    "points": 2.16
+  },
+  {
+    "rank": 191,
+    "name": "Muhammed Emin Yildiz",
+    "country": "TUR",
+    "points": 2.16
+  },
+  {
+    "rank": 192,
+    "name": "Po-Wu Chuang",
+    "country": "TPE",
+    "points": 2.16
+  },
+  {
+    "rank": 193,
+    "name": "Ramon Guasch Gutierrez",
+    "country": "ESP",
+    "points": 2.16
+  },
+  {
+    "rank": 194,
+    "name": "Romaric Kiki",
+    "country": "BEN",
+    "points": 2.16
+  },
+  {
+    "rank": 195,
+    "name": "Salim Azhar",
+    "country": "INA",
+    "points": 2.16
+  },
+  {
+    "rank": 196,
+    "name": "Tadj Eddine Boutrig",
+    "country": "ALG",
+    "points": 2.16
+  },
+  {
+    "rank": 197,
+    "name": "Uggo Barruol",
+    "country": "FRA",
+    "points": 2.16
+  },
+  {
+    "rank": 198,
+    "name": "Yerganat Bakinov",
+    "country": "KAZ",
+    "points": 2.16
+  },
+  {
+    "rank": 199,
+    "name": "Yunier Alexis Noa Quintosa",
+    "country": "CUB",
+    "points": 2.16
+  },
+  {
+    "rank": 200,
+    "name": "Ali Alaraimi",
+    "country": "QAT",
+    "points": 1.8
+  },
+  {
+    "rank": 201,
+    "name": "Dogukan Kurutas",
+    "country": "TUR",
+    "points": 1.8
+  },
+  {
+    "rank": 202,
+    "name": "Sohrab Alipour",
+    "country": "GBR",
+    "points": 1.8
+  },
+  {
+    "rank": 203,
+    "name": "Taim Othman",
+    "country": "GBR",
+    "points": 1.8
+  },
+  {
+    "rank": 204,
+    "name": "Yo-Seph Lee",
+    "country": "KOR",
+    "points": 1.8
+  },
+  {
+    "rank": 205,
+    "name": "Cristobal Perez Morillo",
+    "country": "ESP",
+    "points": 1.51
+  },
+  {
+    "rank": 206,
+    "name": "Emilis Šiaulys",
+    "country": "LTU",
+    "points": 1.51
+  },
+  {
+    "rank": 207,
+    "name": "Ethienne Brunet",
+    "country": "CAN",
+    "points": 1.51
+  },
+  {
+    "rank": 208,
+    "name": "Hector Sanchez Vargas-Machuca",
+    "country": "ESP",
+    "points": 1.51
+  },
+  {
+    "rank": 209,
+    "name": "Oscar Gallardo Acemel",
+    "country": "ESP",
+    "points": 1.51
+  },
+  {
+    "rank": 210,
+    "name": "Recep Alperen Aktas",
+    "country": "TUR",
+    "points": 1.51
+  },
+  {
+    "rank": 211,
+    "name": "Saul Acosta Santana",
+    "country": "ESP",
+    "points": 1.51
+  },
+  {
+    "rank": 212,
+    "name": "Abdullah Mohamed Mahmoud",
+    "country": "UAE",
+    "points": 1.08
+  },
+  {
+    "rank": 213,
+    "name": "Bader L S L Alherais",
+    "country": "KUW",
+    "points": 1.08
+  },
+  {
+    "rank": 214,
+    "name": "Davy Ovono",
+    "country": "FRA",
+    "points": 1.08
+  },
+  {
+    "rank": 215,
+    "name": "Filippo Iozzino",
+    "country": "ITA",
+    "points": 1.08
+  },
+  {
+    "rank": 216,
+    "name": "Georgios Theodosiou",
+    "country": "GRE",
+    "points": 1.08
+  },
+  {
+    "rank": 217,
+    "name": "Hwang Hyeon Dae",
+    "country": "KOR",
+    "points": 1.08
+  },
+  {
+    "rank": 218,
+    "name": "Ilja Volgin",
+    "country": "EST",
+    "points": 1.08
+  },
+  {
+    "rank": 219,
+    "name": "Jinuk Lee",
+    "country": "KOR",
+    "points": 1.08
+  },
+  {
+    "rank": 220,
+    "name": "Mehran Barkhordari",
+    "country": "IRI",
+    "points": 1.08
+  },
+  {
+    "rank": 221,
+    "name": "Mohamed Jamazi",
+    "country": "TUN",
+    "points": 1.08
+  },
+  {
+    "rank": 222,
+    "name": "Mohamed Tarek Mohamed Othman Ibrahim",
+    "country": "EGY",
+    "points": 1.08
+  },
+  {
+    "rank": 223,
+    "name": "Mouhameth Toure",
+    "country": "SEN",
+    "points": 1.08
+  }
+]
