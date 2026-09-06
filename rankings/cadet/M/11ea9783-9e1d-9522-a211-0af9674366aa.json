@@ -17,7 +17,7 @@
     "rank": 3,
     "name": "Igor GRZYBEK",
     "country": "POL",
-    "points": 60,
+    "points": 70,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
   },
   {
@@ -176,10 +176,10 @@
   },
   {
     "rank": 26,
-    "name": "ABIL  MANSUR SHANSHARKHAN",
-    "country": "KAZ",
+    "name": "KORAY ALP BAKAN",
+    "country": "TUR",
     "points": 10,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
     "rank": 26,
@@ -197,10 +197,10 @@
   },
   {
     "rank": 26,
-    "name": "KORAY ALP BAKAN",
-    "country": "TUR",
+    "name": "ABIL  MANSUR SHANSHARKHAN",
+    "country": "KAZ",
     "points": 10,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
   },
   {
     "rank": 30,
@@ -218,10 +218,10 @@
   },
   {
     "rank": 32,
-    "name": "Mykhailo TOKAR",
-    "country": "UKR",
+    "name": "Riley BURTON",
+    "country": "GBR",
     "points": 6,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
     "rank": 32,
@@ -238,70 +238,77 @@
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
-    "rank": 35,
+    "rank": 32,
+    "name": "Mykhailo TOKAR",
+    "country": "UKR",
+    "points": 6,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 36,
     "name": "EBUBEKIR KOCU",
     "country": "TUR",
     "points": 5.4,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Osman Emin CANDAN",
     "country": "TUR",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Mukhammad-Amin AUSHEV",
     "country": "RUS",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/russia-size2.png"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "name": "Yusif NAGHIZADE",
     "country": "AZE",
     "points": 4.23,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/azerbaijan-size2.png"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "name": "Siarhei HAIDUKOU",
     "country": "BLR",
     "points": 4.23,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belarus-size2.png"
   },
   {
-    "rank": 40,
-    "name": "SAHAND SHAMSADDIN KAMAL",
-    "country": "IRQ",
-    "points": 3.6,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/iraq-size2.png"
-  },
-  {
-    "rank": 40,
+    "rank": 41,
     "name": "Jordi SOLES CARABANTE",
     "country": "ESP",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 40,
-    "name": "Adam HOUNA",
-    "country": "GER",
+    "rank": 41,
+    "name": "SAHAND SHAMSADDIN KAMAL",
+    "country": "IRQ",
     "points": 3.6,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/iraq-size2.png"
   },
   {
-    "rank": 40,
+    "rank": 41,
     "name": "Eymen BAYER",
     "country": "TUR",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 44,
+    "rank": 41,
+    "name": "Adam HOUNA",
+    "country": "GER",
+    "points": 3.6,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 45,
     "name": "HAMZA SAYED ALI",
     "country": "KSA",
     "points": 2.16,

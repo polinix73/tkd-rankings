@@ -38,7 +38,7 @@
     "rank": 6,
     "name": "Nina STOJKOVIC",
     "country": "SER",
-    "points": 78.92,
+    "points": 78.39,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
@@ -59,7 +59,7 @@
     "rank": 9,
     "name": "Milica DJURANOVIC",
     "country": "SER",
-    "points": 64.58,
+    "points": 63.5,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
@@ -71,66 +71,66 @@
   },
   {
     "rank": 11,
+    "name": "RUMEYSA GIRGIN",
+    "country": "TUR",
+    "points": 61.04,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 12,
     "name": "Anica KUVELJA",
     "country": "SER",
     "points": 60.93,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "name": "Lena MIELCAREK",
     "country": "POL",
     "points": 60,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "name": "Kalina VELKOVA",
     "country": "BUL",
     "points": 58,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "name": "Galini KOLOVOU",
     "country": "GRE",
     "points": 53.12,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 15,
+    "rank": 16,
+    "name": "Nina POMPER",
+    "country": "AUT",
+    "points": 49.55,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/austria-size2.png"
+  },
+  {
+    "rank": 17,
     "name": "ZEYNEP DOGRU",
     "country": "TUR",
     "points": 46.75,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 16,
+    "rank": 18,
     "name": "Hannah DUNNE",
     "country": "IRL",
     "points": 46.72,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ireland-size2.png"
   },
   {
-    "rank": 17,
+    "rank": 19,
     "name": "Violante SANESI",
     "country": "ITA",
     "points": 45.26,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
-  },
-  {
-    "rank": 18,
-    "name": "RUMEYSA GIRGIN",
-    "country": "TUR",
-    "points": 41.04,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
-  },
-  {
-    "rank": 19,
-    "name": "Eylul Naz AKDAG",
-    "country": "TUR",
-    "points": 40.6,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
     "rank": 20,
@@ -141,10 +141,10 @@
   },
   {
     "rank": 21,
-    "name": "Nina POMPER",
-    "country": "AUT",
-    "points": 37.55,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/austria-size2.png"
+    "name": "Eylul Naz AKDAG",
+    "country": "TUR",
+    "points": 38.8,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
     "rank": 22,
@@ -185,15 +185,8 @@
     "rank": 27,
     "name": "Kezban Eda DUZEL",
     "country": "TUR",
-    "points": 30.64,
+    "points": 27.64,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
-  },
-  {
-    "rank": 28,
-    "name": "Marina BONOVSKA",
-    "country": "BUL",
-    "points": 24.62,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
     "rank": 28,
@@ -203,18 +196,25 @@
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 30,
+    "rank": 29,
     "name": "Maria Vittoria ROSATO",
     "country": "ITA",
     "points": 24.4,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 31,
+    "rank": 30,
     "name": "Lota TROSKOT",
     "country": "CRO",
     "points": 23.9,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
+  },
+  {
+    "rank": 31,
+    "name": "Marina BONOVSKA",
+    "country": "BUL",
+    "points": 23.87,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
     "rank": 32,
@@ -274,38 +274,38 @@
   },
   {
     "rank": 40,
+    "name": "Uliana HORBATIUK",
+    "country": "UKR",
+    "points": 17.18,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 41,
     "name": "Alba FIGUEIRA MARZOA",
     "country": "ESP",
     "points": 16.48,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 41,
+    "rank": 42,
     "name": "PANAGIOTA KASTA",
     "country": "GRE",
     "points": 15.42,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "name": "Nadja DRAGOJEVIC",
     "country": "SER",
     "points": 15.12,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Celina JANKE",
     "country": "POL",
     "points": 15.09,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
-  },
-  {
-    "rank": 44,
-    "name": "Rachele BODRATTO",
-    "country": "ITA",
-    "points": 15.07,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
     "rank": 45,
@@ -316,73 +316,73 @@
   },
   {
     "rank": 46,
+    "name": "Rachele BODRATTO",
+    "country": "ITA",
+    "points": 14.32,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
+  },
+  {
+    "rank": 46,
     "name": "Julia NADAL MIR",
     "country": "ESP",
     "points": 14.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Zara VÉRTES",
     "country": "HUN",
     "points": 14.21,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/hungary-size2.png"
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Lucija JAKARA",
     "country": "CRO",
     "points": 13.82,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "EMILIYA KORZA",
     "country": "BLR",
     "points": 13.76,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belarus-size2.png"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Ayse Ecrin SOYLEMEZ",
     "country": "TUR",
     "points": 13.5,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Benedetta BELLISSIMO",
     "country": "ITA",
     "points": 12.96,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 52,
+    "rank": 53,
     "name": "Alina RAKA",
     "country": "GER",
     "points": 12.83,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 53,
+    "rank": 54,
     "name": "ELLA BARAK",
     "country": "ISR",
     "points": 12.33,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/israel-size2.png"
   },
   {
-    "rank": 54,
+    "rank": 55,
     "name": "Nadja DRAGICEVIC",
     "country": "SER",
     "points": 12,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
-  },
-  {
-    "rank": 55,
-    "name": "Uliana HORBATIUK",
-    "country": "UKR",
-    "points": 11.18,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
   },
   {
     "rank": 56,
@@ -427,889 +427,931 @@
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/switzerland-size2.png"
   },
   {
-    "rank": 62,
+    "rank": 61,
+    "name": "Mylana BILYNETS",
+    "country": "UKR",
+    "points": 10,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 63,
     "name": "NEFELI GKOLTSIOU",
     "country": "GRE",
     "points": 9.23,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 63,
+    "rank": 64,
     "name": "EVANGELIA CHRYSAVGI PASCHALIDI",
     "country": "GRE",
     "points": 9.08,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Emma CARLUCCI",
     "country": "ITA",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Camelia IFERHATEN",
     "country": "FRA",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "PANTELIA KANELLOU",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Arya DAYAN",
     "country": "TUR",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Konstantina MAROULAKI",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "GEORGIA FRAGKIOUDAKI",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Ema MIHAYLOVA",
     "country": "BUL",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Ainhoa MARTINEZ RINCON",
     "country": "ESP",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "MARINA SAVVIDI",
     "country": "CYP",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "GIASMIN HAMMAD",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "ISAVELLA PHILIPPIDOU",
     "country": "CYP",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
   },
   {
-    "rank": 75,
+    "rank": 76,
     "name": "MICHAELA SKORDILI",
     "country": "GRE",
     "points": 9,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 76,
+    "rank": 77,
     "name": "Esther MUNGIGUERRA",
     "country": "ITA",
     "points": 8.64,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 76,
+    "rank": 77,
     "name": "Merjem MEHIC",
     "country": "BIH",
     "points": 8.64,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bosnia-and-herzegovina-size2.png"
   },
   {
-    "rank": 78,
+    "rank": 79,
     "name": "LYGNOU ANNA MYRTO",
     "country": "GRE",
     "points": 8.1,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 78,
+    "rank": 79,
     "name": "Anastasija VUJOVIC",
     "country": "SER",
     "points": 8.1,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 80,
+    "rank": 81,
     "name": "Alara KAZAZ",
     "country": "BUL",
     "points": 7.92,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
-    "rank": 81,
+    "rank": 82,
     "name": "Awa Ines AW ORTUÑO",
     "country": "ESP",
     "points": 7.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 82,
+    "rank": 83,
     "name": "Dora DORČIĆ",
     "country": "CRO",
     "points": 7.56,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 83,
+    "rank": 84,
     "name": "Sarah PLOCH",
     "country": "GER",
     "points": 7.2,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 83,
+    "rank": 84,
     "name": "Vangelia PETROVA",
     "country": "BUL",
     "points": 7.2,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
-    "rank": 83,
+    "rank": 84,
     "name": "Nasrin AHMED",
     "country": "NED",
     "points": 7.2,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/netherlands-size2.png"
   },
   {
-    "rank": 86,
+    "rank": 84,
+    "name": "Asya KOS",
+    "country": "SLO",
+    "points": 7.2,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/slovenia-size2.png"
+  },
+  {
+    "rank": 88,
     "name": "Julia LOZANO FUNOSAS",
     "country": "ESP",
     "points": 6.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 87,
+    "rank": 89,
     "name": "Laura KISS",
     "country": "HUN",
     "points": 6.48,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/hungary-size2.png"
   },
   {
-    "rank": 87,
+    "rank": 89,
     "name": "Evelina GORAȘ",
     "country": "MDA",
     "points": 6.48,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
   },
   {
-    "rank": 87,
+    "rank": 89,
     "name": "Nadja LEPOVIC",
     "country": "SER",
     "points": 6.48,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 92,
     "name": "ANAËLLE NERZIC",
     "country": "FRA",
     "points": 6.35,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 92,
     "name": "Eleni DOLME",
     "country": "GRE",
     "points": 6.35,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 92,
     "name": "ROKKA SOTIRIA",
     "country": "GRE",
     "points": 6.35,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 92,
     "name": "DELFIN PEKER",
     "country": "TUR",
     "points": 6.35,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 92,
     "name": "EVGENIA EKIZIDOU",
     "country": "GRE",
     "points": 6.35,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 95,
+    "rank": 97,
     "name": "ZEYNEP ELCIN EREN",
     "country": "TUR",
     "points": 6.24,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 96,
+    "rank": 98,
     "name": "Andrea SPASOJEVIC",
     "country": "SER",
     "points": 6.12,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 97,
+    "rank": 99,
     "name": "Vendla WIDZ",
     "country": "SWE",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
   },
   {
-    "rank": 97,
+    "rank": 99,
     "name": "Irene HEREDIA RUA",
     "country": "ESP",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 97,
+    "rank": 99,
     "name": "Emaan MAJID",
     "country": "USA",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
   },
   {
-    "rank": 97,
+    "rank": 99,
     "name": "Lucy WALKER",
     "country": "GBR",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 97,
+    "rank": 99,
     "name": "Anna maria CHAHINE",
     "country": "LBN",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/lebanon-size2.png"
   },
   {
-    "rank": 97,
+    "rank": 99,
     "name": "Enma BENITO MARTIN",
     "country": "ESP",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 103,
+    "rank": 105,
     "name": "Irina PALARIE",
     "country": "MDA",
     "points": 5.87,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
   },
   {
-    "rank": 104,
+    "rank": 106,
     "name": "EMA LEKANIC",
     "country": "CRO",
     "points": 5.76,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 105,
+    "rank": 107,
     "name": "Lena WIECZOREK",
     "country": "POL",
     "points": 5.72,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
   },
   {
-    "rank": 106,
+    "rank": 108,
     "name": "GABRIJELA HORVAT",
     "country": "CRO",
     "points": 5.4,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 107,
+    "rank": 109,
     "name": "FEHIME ZEYNEP CIRRIK",
     "country": "TUR",
     "points": 5.11,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 108,
+    "rank": 110,
     "name": "Lorina CASPARI",
     "country": "GER",
     "points": 4.86,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 111,
     "name": "Anne Marie AFAGBEGEE",
     "country": "BEL",
     "points": 4.54,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belgium-size2.png"
   },
   {
-    "rank": 110,
+    "rank": 112,
     "name": "Safiya SOW",
     "country": "FRA",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 110,
+    "rank": 112,
     "name": "Afra Nil KARAMAN",
     "country": "TUR",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 110,
+    "rank": 112,
     "name": "Katrin GIOSHKOVA",
     "country": "BUL",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
   },
   {
-    "rank": 110,
+    "rank": 112,
     "name": "Dunja MIRILOVIĆ PETROVIĆ",
     "country": "CRO",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 110,
+    "rank": 112,
     "name": "Emily HENNERSDORF",
     "country": "GER",
     "points": 4.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 115,
+    "rank": 117,
     "name": "Vlada OSOIANU",
     "country": "MDA",
     "points": 4.23,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/moldova-size2.png"
   },
   {
-    "rank": 115,
+    "rank": 117,
     "name": "Vita SKOFIC",
     "country": "SLO",
     "points": 4.23,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/slovenia-size2.png"
   },
   {
-    "rank": 115,
+    "rank": 117,
     "name": "ZISAN KOPARAN",
     "country": "TUR",
     "points": 4.23,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "Aaliyah BOFETE MOLA",
     "country": "FRA",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "Tijana KRSTIC",
     "country": "SER",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "Casey HILTON",
     "country": "GBR",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "Elsa VAZQUEZ REYES",
     "country": "ESP",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "Azeen HAQUE",
     "country": "USA",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "Matilda BRILLA",
     "country": "ITA",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 118,
+    "rank": 120,
     "name": "YARA FREITAS",
     "country": "POR",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/portugal-size2.png"
   },
   {
-    "rank": 125,
+    "rank": 120,
+    "name": "Angeliki PARASKEVA",
+    "country": "CYP",
+    "points": 3.6,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
+  },
+  {
+    "rank": 120,
+    "name": "Elza PUKE",
+    "country": "LAT",
+    "points": 3.6,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/latvia-size2.png"
+  },
+  {
+    "rank": 129,
     "name": "Masa PAVLOVIC",
     "country": "SER",
     "points": 3.41,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
-    "rank": 126,
+    "rank": 130,
     "name": "Regina HOFMAYER",
     "country": "GER",
     "points": 3.24,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 126,
+    "rank": 130,
     "name": "Muresan DENISA LIVIA",
     "country": "ROU",
     "points": 3.24,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/romania-size2.png"
   },
   {
-    "rank": 128,
+    "rank": 132,
     "name": "Aitana CASTELLEJO NUÑEZ",
     "country": "ESP",
     "points": 3.02,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 129,
+    "rank": 133,
     "name": "Sara NEGRU",
     "country": "ROU",
     "points": 2.96,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/romania-size2.png"
   },
   {
-    "rank": 130,
+    "rank": 134,
     "name": "Julia BERTOLIN RUIZ",
     "country": "ESP",
     "points": 2.7,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 130,
+    "rank": 134,
     "name": "Eminé RUHL",
     "country": "SWE",
     "points": 2.7,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
   },
   {
-    "rank": 132,
+    "rank": 136,
     "name": "CANSU CEREN AKCAR",
     "country": "TUR",
     "points": 2.68,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 133,
+    "rank": 137,
     "name": "Nisa Beren ERHAN",
     "country": "TUR",
     "points": 2.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 133,
+    "rank": 137,
     "name": "JIYAN ECRIN ER",
     "country": "TUR",
     "points": 2.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 133,
+    "rank": 137,
     "name": "ELIF BUTCU",
     "country": "TUR",
     "points": 2.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Idoia FERRER PORCAR",
     "country": "ESP",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Vesta WAN",
     "country": "GBR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Anastasia VARVARAS",
     "country": "GER",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Zeynep ALAKAS",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Biatrees Mohammad ALMESHREF",
     "country": "JOR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/jordan-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "PAULA KREŠO",
     "country": "CRO",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Billa IBRAHIM",
     "country": "AUT",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/austria-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Aliya TARDIEU",
     "country": "FRA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Novalie GUSTAVSSON",
     "country": "SWE",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Berra ÖZTÜRK",
     "country": "GER",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "SUDENAZ YILMAZ",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "ESLIN GOKTEPELI",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "AYSE SILA KAPLAN",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "NEHIR HAZAL BILGIN",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Shiyao XIANG",
     "country": "USA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Lia NUÑEZ DE SOUSA",
     "country": "ESP",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Nayru RUIZ LOPEZ ARAIZA",
     "country": "SUI",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/switzerland-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Neve BURKETT",
     "country": "GBR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Alessia Elena BOERNASU",
     "country": "ITA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 136,
+    "rank": 140,
     "name": "Alessandra PARROCHA",
     "country": "USA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
   },
   {
-    "rank": 156,
-    "name": "Mariia PUTSKO",
+    "rank": 140,
+    "name": "Izel ULKER",
+    "country": "BEL",
+    "points": 2.16,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belgium-size2.png"
+  },
+  {
+    "rank": 140,
+    "name": "Kamila SIMAKOVA",
     "country": "UKR",
-    "points": 2.12,
+    "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
   },
   {
-    "rank": 156,
-    "name": "Aleksandrina DANOVA",
-    "country": "BUL",
-    "points": 2.12,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
-  },
-  {
-    "rank": 156,
-    "name": "IPEK ZEYNEP AYDIN",
-    "country": "TUR",
-    "points": 2.12,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
-  },
-  {
-    "rank": 156,
-    "name": "Hatice KARAASLAN",
-    "country": "TUR",
-    "points": 2.12,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
-  },
-  {
-    "rank": 160,
+    "rank": 162,
     "name": "Firdaws BEN HAMOUDA",
     "country": "FRA",
     "points": 1.8,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 161,
+    "rank": 163,
     "name": "Yeo-ri JEON",
     "country": "KOR",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kta-size2.png"
   },
   {
-    "rank": 161,
+    "rank": 163,
     "name": "Zerina ALAJEBGOVIĆ",
     "country": "BIH",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bosnia-and-herzegovina-size2.png"
   },
   {
-    "rank": 161,
+    "rank": 163,
     "name": "LOUKIA-ATHANASIA TZIROU",
     "country": "GRE",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 161,
+    "rank": 163,
     "name": "ADAMANTIA NIKOLETA MAGKAFA",
     "country": "GRE",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 165,
+    "rank": 167,
     "name": "Aysenur SEKERCI",
     "country": "TUR",
     "points": 1.59,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 165,
+    "rank": 167,
     "name": "AYBIKE MERYEM BESNEK",
     "country": "TUR",
     "points": 1.59,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 165,
+    "rank": 167,
     "name": "Reyyan Rana CALISKAN",
     "country": "TUR",
     "points": 1.59,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 165,
+    "rank": 167,
     "name": "ELA ESILA TOYGAR",
     "country": "TUR",
     "points": 1.59,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 167,
+    "name": "Mariia PUTSKO",
+    "country": "UKR",
+    "points": 1.59,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
+  },
+  {
+    "rank": 167,
+    "name": "Aleksandrina DANOVA",
+    "country": "BUL",
+    "points": 1.59,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
+  },
+  {
+    "rank": 167,
+    "name": "IPEK ZEYNEP AYDIN",
+    "country": "TUR",
+    "points": 1.59,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 167,
+    "name": "Hatice KARAASLAN",
+    "country": "TUR",
+    "points": 1.59,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
+  },
+  {
+    "rank": 175,
     "name": "ELIF KAYA",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "Liliána PÁL",
     "country": "HUN",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/hungary-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "THEANO HADJIPETROU",
     "country": "CYP",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "Elif Revan KUCUK",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "Yildiz MECALOGLU",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "ECRIN SOYLU",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "CEMRE SOYLU",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "EBRAR OCAL",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "Andrea GJORGJEVSKA",
     "country": "MKD",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/macedonia-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "KUBRA ALPTEKIN",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 169,
+    "rank": 175,
     "name": "Enara GARRIDO SAENZ",
     "country": "ESP",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 180,
+    "rank": 186,
     "name": "Dariia SOROKA",
     "country": "UKR",
     "points": 1.13,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "Altynay BATYRGALI",
     "country": "KAZ",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "Zehra OZKAN",
     "country": "TUR",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "Gulbahar BASTURK",
     "country": "TUR",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "Aila ZHASHUEVA",
     "country": "RUS",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/russia-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "ASLI KELCE",
     "country": "TUR",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "Alisa SHCHETININA",
     "country": "RUS",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/russia-size2.png"
   },
   {
-    "rank": 181,
+    "rank": 187,
     "name": "HATICE OZGOCMEZ",
     "country": "TUR",
     "points": 1.06,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 188,
+    "rank": 194,
     "name": "Lucia MARTINEZ DONAIRE",
     "country": "ESP",
     "points": 0.76,

@@ -3,7 +3,7 @@
     "rank": 1,
     "name": "ERCAN BERK IMAMOGLU",
     "country": "TUR",
-    "points": 281.94,
+    "points": 276.94,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
@@ -17,7 +17,7 @@
     "rank": 3,
     "name": "Lazar SAVICIC",
     "country": "SER",
-    "points": 148.61,
+    "points": 146.81,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
@@ -38,14 +38,14 @@
     "rank": 6,
     "name": "Gabrijel VARENICA",
     "country": "CRO",
-    "points": 126.66,
+    "points": 125.91,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
     "rank": 7,
     "name": "Philip Julian WEISS",
     "country": "GER",
-    "points": 116.18,
+    "points": 115.1,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
@@ -59,7 +59,7 @@
     "rank": 9,
     "name": "Roman HODYMA",
     "country": "UKR",
-    "points": 110.29,
+    "points": 108.49,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
   },
   {
@@ -71,24 +71,24 @@
   },
   {
     "rank": 11,
+    "name": "Danilo VUJOSEVIC",
+    "country": "MNE",
+    "points": 78.11,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/montenegro-size2.png"
+  },
+  {
+    "rank": 12,
     "name": "Kristof HIZO",
     "country": "HUN",
     "points": 73.77,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/hungary-size2.png"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "name": "Yordan TERZIYSKI",
     "country": "BUL",
     "points": 70,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bulgaria-size2.png"
-  },
-  {
-    "rank": 13,
-    "name": "Danilo VUJOSEVIC",
-    "country": "MNE",
-    "points": 66.11,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/montenegro-size2.png"
   },
   {
     "rank": 14,
@@ -162,17 +162,17 @@
   },
   {
     "rank": 24,
-    "name": "Teodor HACOPULOS",
-    "country": "SER",
-    "points": 34.88,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
-  },
-  {
-    "rank": 25,
     "name": "IOANNIS KAMAKAS",
     "country": "GRE",
     "points": 34.3,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 25,
+    "name": "Teodor HACOPULOS",
+    "country": "SER",
+    "points": 34.13,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
   },
   {
     "rank": 26,
@@ -211,31 +211,31 @@
   },
   {
     "rank": 31,
-    "name": "Christos PAPATHANASIOU",
-    "country": "GER",
-    "points": 19.5,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+    "name": "Emin DEMIC",
+    "country": "BIH",
+    "points": 20,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bosnia-and-herzegovina-size2.png"
   },
   {
     "rank": 32,
+    "name": "Christos PAPATHANASIOU",
+    "country": "GER",
+    "points": 18.75,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
+  },
+  {
+    "rank": 33,
     "name": "Diego Vinit ÅBERG",
     "country": "SWE",
     "points": 18.14,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
   },
   {
-    "rank": 33,
+    "rank": 34,
     "name": "FILIP KRNJAIC",
     "country": "CRO",
     "points": 17.4,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
-  },
-  {
-    "rank": 34,
-    "name": "Erik RUBIO DIAZ",
-    "country": "ESP",
-    "points": 17.34,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
     "rank": 35,
@@ -246,17 +246,17 @@
   },
   {
     "rank": 36,
-    "name": "Valentino DI CARLO HORTELANO",
+    "name": "Erik RUBIO DIAZ",
     "country": "ESP",
-    "points": 15.98,
+    "points": 16.59,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
     "rank": 37,
-    "name": "Mihajlo MILETIĆ",
-    "country": "SER",
-    "points": 15.84,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
+    "name": "Valentino DI CARLO HORTELANO",
+    "country": "ESP",
+    "points": 15.98,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
     "rank": 38,
@@ -267,62 +267,69 @@
   },
   {
     "rank": 39,
+    "name": "Mihajlo MILETIĆ",
+    "country": "SER",
+    "points": 14.76,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/serbia-size2.png"
+  },
+  {
+    "rank": 40,
     "name": "IVAN KUTLESA",
     "country": "CRO",
     "points": 14.32,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 40,
+    "rank": 41,
     "name": "Magnus Robdrup MØLLER",
     "country": "DEN",
     "points": 12.7,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/denmark-size2.png"
   },
   {
-    "rank": 41,
+    "rank": 42,
     "name": "Daniel JARA DOMINGUEZ",
     "country": "ESP",
     "points": 12.09,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "name": "Tymur HOLUB",
     "country": "UKR",
     "points": 12,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "NAWAF NAIF A HUSSAIN",
     "country": "KSA",
     "points": 11.7,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/saudi-arabia-size2.png"
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Daris ZEKIC",
     "country": "GER",
     "points": 11.52,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 45,
+    "rank": 46,
     "name": "Philip ROSENBERG",
     "country": "SWE",
     "points": 11.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "Adil KAZIMLI",
     "country": "AZE",
     "points": 11.05,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/azerbaijan-size2.png"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Timur RAKHPANOV",
     "country": "KAZ",
     "points": 10,
@@ -330,468 +337,496 @@
   },
   {
     "rank": 48,
+    "name": "Lauri KOIVISTO",
+    "country": "FIN",
+    "points": 10,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/finland-size2.png"
+  },
+  {
+    "rank": 50,
     "name": "EMMANOUIL PAPADOPOULOS",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "name": "Luigi ZULIANI",
     "country": "ITA",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/italy-size2.png"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "name": "VASILEIOS MICHALOPOULOS",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "name": "Georgios TSOLAKIDIS",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "name": "ANDREAS IOANNOU",
     "country": "CYP",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
   },
   {
-    "rank": 48,
+    "rank": 50,
     "name": "SOTIRIS TZANIDIS",
     "country": "GRE",
     "points": 9.07,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 54,
+    "rank": 56,
     "name": "SPYRIDON PAPADOPOULOS",
     "country": "GRE",
     "points": 9,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 55,
+    "rank": 57,
     "name": "Ioannis GADALA",
     "country": "CYP",
     "points": 8.89,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/cyprus-size2.png"
   },
   {
-    "rank": 55,
+    "rank": 57,
     "name": "Nikita GUBANOV",
     "country": "RUS",
     "points": 8.89,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/russia-size2.png"
   },
   {
-    "rank": 57,
+    "rank": 59,
     "name": "OIER COLOMO CARRIEDO",
     "country": "ESP",
     "points": 8.1,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 58,
+    "rank": 60,
     "name": "Joshua MAIR",
     "country": "GER",
     "points": 7.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 59,
+    "rank": 61,
     "name": "Grgur SARIC",
     "country": "CRO",
     "points": 7.2,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 60,
+    "rank": 61,
+    "name": "MATEJ VINCELJ",
+    "country": "CRO",
+    "points": 7.2,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
+  },
+  {
+    "rank": 63,
     "name": "PABLO ANTELO FERNANDEZ",
     "country": "ESP",
     "points": 6.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 61,
+    "rank": 64,
     "name": "KARLO HOLJEVIC",
     "country": "CRO",
     "points": 6.48,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/croatia-size2.png"
   },
   {
-    "rank": 62,
+    "rank": 65,
     "name": "AMMAR HAMOUR",
     "country": "JOR",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/jordan-size2.png"
   },
   {
-    "rank": 62,
+    "rank": 65,
     "name": "DAVID PUEYO AZCONA",
     "country": "ESP",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 62,
+    "rank": 65,
     "name": "Addison SMITH",
     "country": "GBR",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 62,
+    "rank": 65,
     "name": "OZAN KARATAS",
     "country": "TUR",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 62,
+    "rank": 65,
     "name": "Tomás da Silva VIDINHA",
     "country": "POR",
     "points": 6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/portugal-size2.png"
   },
   {
-    "rank": 67,
+    "rank": 65,
+    "name": "Darius TURCITU",
+    "country": "IRL",
+    "points": 6,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ireland-size2.png"
+  },
+  {
+    "rank": 71,
     "name": "Alfredo VAZQUEZ REYES",
     "country": "ESP",
     "points": 5.18,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 68,
+    "rank": 72,
     "name": "Nazar LOPOTUN",
     "country": "UKR",
     "points": 4.86,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/ukraine-size2.png"
   },
   {
-    "rank": 69,
+    "rank": 73,
     "name": "Billal Youcef MERRIR",
     "country": "GBR",
     "points": 4.53,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 70,
+    "rank": 74,
     "name": "Abel BELTRAN GUTIERREZ",
     "country": "ESP",
     "points": 4.15,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Pierre POCK",
     "country": "AUT",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/austria-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Benjamin PETERS",
     "country": "USA",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Omar EL-HARESS",
     "country": "GBR",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/great-britain-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Bekhruz USMANALIYEV",
     "country": "KAZ",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Ramazan SEVINC",
     "country": "TUR",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Ron DOBROSHI",
     "country": "KOS",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kosovo-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Nordin KHALID MAACH",
     "country": "BEL",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/belgium-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Luca WÜNSCH",
     "country": "LUX",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/luxembourg-size2.png"
   },
   {
-    "rank": 71,
+    "rank": 75,
     "name": "Carlos David AMUNDARAI",
     "country": "POR",
     "points": 3.6,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/portugal-size2.png"
   },
   {
-    "rank": 80,
+    "rank": 75,
+    "name": "Anatolii BIGUN",
+    "country": "SWE",
+    "points": 3.6,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/sweden-size2.png"
+  },
+  {
+    "rank": 85,
     "name": "Fares BELMEHEL",
     "country": "FRA",
     "points": 3.41,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 81,
+    "rank": 86,
     "name": "TUNAHAN YORUK",
     "country": "TUR",
     "points": 3.24,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 81,
+    "rank": 86,
     "name": "KADIR EGEMEN CERAN",
     "country": "TUR",
     "points": 3.24,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 81,
+    "rank": 86,
     "name": "Alessio CASPARI",
     "country": "GER",
     "points": 3.24,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 84,
-    "name": "GEORGIOS KARAMOLEGKOS",
-    "country": "GRE",
-    "points": 3.02,
-    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
-  },
-  {
-    "rank": 84,
+    "rank": 89,
     "name": "MATHEUS LEONEL AMARAL GOMES",
     "country": "BRA",
     "points": 3.02,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/brazil-size2.png"
   },
   {
-    "rank": 86,
+    "rank": 90,
     "name": "Vasilios VEZIRIS",
     "country": "GRE",
     "points": 2.7,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
   },
   {
-    "rank": 87,
+    "rank": 91,
     "name": "MEHMET KEREM DEMIREL",
     "country": "TUR",
     "points": 2.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 87,
+    "rank": 91,
     "name": "ZHANAIBEK SHAMURATOV",
     "country": "KAZ",
     "points": 2.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/kazakhstan-size2.png"
   },
   {
-    "rank": 87,
+    "rank": 91,
     "name": "Rza ASADLI",
     "country": "AZE",
     "points": 2.27,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/azerbaijan-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 91,
+    "name": "GEORGIOS KARAMOLEGKOS",
+    "country": "GRE",
+    "points": 2.27,
+    "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/greece-size2.png"
+  },
+  {
+    "rank": 95,
     "name": "Ayman BARRY",
     "country": "FRA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/france-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "MEHMET RACI SAHIN",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "TUGAY YOLAL",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Faisal ALMUTAIRI",
     "country": "KSA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/saudi-arabia-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Oskar NAPIERALA",
     "country": "POL",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Thomas BASSI",
     "country": "NOR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/norway-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Jeffrey SIMONS",
     "country": "GER",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Diego LATRE ALONSO",
     "country": "ESP",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Vasili SOTERIOU",
     "country": "AUS",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/australia-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "KAAN YILDIZ",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "BURAK MERT AKDENIZ",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "BATUHAN BARAN",
     "country": "TUR",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Landon SALAZAR",
     "country": "USA",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/usa-size2.png"
   },
   {
-    "rank": 90,
+    "rank": 95,
     "name": "Matteo BANGOURA",
     "country": "CAN",
     "points": 2.16,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/canada-size2.png"
   },
   {
-    "rank": 104,
+    "rank": 109,
     "name": "NAJ AUGUŠTIN",
     "country": "SLO",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/slovenia-size2.png"
   },
   {
-    "rank": 104,
+    "rank": 109,
     "name": "Djordje ZIVKOVIC",
     "country": "BIH",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bosnia-and-herzegovina-size2.png"
   },
   {
-    "rank": 104,
+    "rank": 109,
     "name": "Aleksa PELEMIS",
     "country": "BIH",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/bosnia-and-herzegovina-size2.png"
   },
   {
-    "rank": 104,
+    "rank": 109,
     "name": "Cristofer DURAN BERNAS",
     "country": "ESP",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/spain-size2.png"
   },
   {
-    "rank": 104,
+    "rank": 109,
     "name": "Abdalhadi W. A. FARAJALLAH",
     "country": "PLE",
     "points": 1.62,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/palestine-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 114,
     "name": "Nikodem GORCZYNSKI",
     "country": "POL",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 114,
     "name": "YUSUF MOLLAOGULLARI",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 114,
     "name": "MERT NUSRET TELLI",
     "country": "TUR",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/turkey-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 114,
     "name": "Adam JABLONSKI",
     "country": "POL",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/poland-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 114,
     "name": "Fynn-Luca BUBE",
     "country": "GER",
     "points": 1.51,
     "flagUrl": "https://assets.simplycompete.com/scmt/images/countryFlags/germany-size2.png"
   },
   {
-    "rank": 109,
+    "rank": 114,
     "name": "Lukas MARGARANOVIC",
     "country": "SUI",
     "points": 1.51,
